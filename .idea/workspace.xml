@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="719e0d74-d91f-4267-831e-5b1b420abb96" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RecoverBinarySearchTree.py" />
-    </list>
+    <list default="true" id="719e0d74-d91f-4267-831e-5b1b420abb96" name="Default" comment="" />
     <ignored path="Leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,10 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RecoverBinarySearchTree.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="RecoverBinarySearchTree.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RecoverBinarySearchTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="12" selection-start="0" selection-end="1299" vertical-scroll-proportion="0.3951613" vertical-offset="250" max-vertical-offset="900">
+            <state line="21" column="21" selection-start="208" selection-end="546" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="isValidateBinaryTree.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/isValidateBinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="44" selection-start="0" selection-end="853" vertical-scroll-proportion="0.39473686" vertical-offset="0" max-vertical-offset="608">
               <folding />
             </state>
           </provider>
@@ -48,14 +55,15 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/RecoverBinarySearchTree.py" />
+        <option value="$PROJECT_DIR$/isValidateBinaryTree.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="416" />
-    <option name="y" value="97" />
+    <option name="x" value="238" />
+    <option name="y" value="40" />
     <option name="width" value="1260" />
-    <option name="height" value="717" />
+    <option name="height" value="705" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -247,7 +255,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="416" y="97" width="1260" height="717" extended-state="0" />
+    <frame x="238" y="40" width="1260" height="705" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -288,7 +296,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/RecoverBinarySearchTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="12" selection-start="0" selection-end="1299" vertical-scroll-proportion="0.3951613" vertical-offset="250" max-vertical-offset="900">
+        <state line="21" column="21" selection-start="208" selection-end="546" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isValidateBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="44" selection-start="0" selection-end="853" vertical-scroll-proportion="0.39473686" vertical-offset="0" max-vertical-offset="608">
           <folding />
         </state>
       </provider>
