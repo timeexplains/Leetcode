@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="719e0d74-d91f-4267-831e-5b1b420abb96" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UniqueBST2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UniqueBST3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UniqueBST3.py" afterPath="$PROJECT_DIR$/UniqueBST3.py" />
     </list>
     <ignored path="Leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,7 +64,7 @@
       <file leaf-file-name="UniqueBST3.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UniqueBST3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="19" selection-start="528" selection-end="528" vertical-scroll-proportion="0.5984042" vertical-offset="75" max-vertical-offset="1560">
+            <state line="71" column="4" selection-start="0" selection-end="2429" vertical-scroll-proportion="0.5984042" vertical-offset="840" max-vertical-offset="1680">
               <folding />
             </state>
           </provider>
@@ -113,8 +110,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="14" />
-    <option name="y" value="40" />
+    <option name="x" value="296" />
+    <option name="y" value="42" />
     <option name="width" value="1260" />
     <option name="height" value="705" />
   </component>
@@ -361,7 +358,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="40" width="1260" height="705" extended-state="0" />
+    <frame x="296" y="42" width="1260" height="705" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -536,7 +533,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UniqueBST3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="19" selection-start="528" selection-end="528" vertical-scroll-proportion="0.5984042" vertical-offset="75" max-vertical-offset="1560">
+        <state line="71" column="4" selection-start="0" selection-end="2429" vertical-scroll-proportion="0.5984042" vertical-offset="840" max-vertical-offset="1680">
           <folding />
         </state>
       </provider>

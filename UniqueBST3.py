@@ -61,7 +61,15 @@ class Solution:
         else:
             return self.transform(self.generateTrees(n-1),n)
 
-
+    def numTrees(self,n):
+        if n == 0 or n == 1:
+            return 1
+        else:
+            result = 0
+            for i in range(n):
+                result = self.numTrees(i)*self.numTrees(n-i-1) + result
+            return result
+    
     def levelPrint(self,root):
         queue = []
         size = 1
