@@ -69,7 +69,7 @@ class Solution:
             for i in range(n):
                 result = self.numTrees(i)*self.numTrees(n-i-1) + result
             return result
-    
+
     def levelPrint(self,root):
         queue = []
         size = 1

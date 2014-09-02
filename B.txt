@@ -1,0 +1,3791 @@
+/usr/local/bin/python3.4-32 /Users/butterfly/Leetcode/MaxPointsOnALine.py
+112
+i is:0,j is:1:,result is:18,set is:{0, 1, 96, 35, 36, 67, 99, 7, 73, 74, 11, 43, 48, 82, 51, 52, 86, 93}
+i is:0,j is:2:,result is:4,set is:{0, 2, 93, 38}
+i is:0,j is:3:,result is:4,set is:{0, 3, 69, 93}
+i is:0,j is:4:,result is:4,set is:{0, 26, 4, 93}
+i is:0,j is:5:,result is:3,set is:{0, 5, 93}
+i is:0,j is:6:,result is:3,set is:{0, 93, 6}
+i is:0,j is:8:,result is:6,set is:{0, 68, 8, 72, 53, 93}
+i is:0,j is:9:,result is:5,set is:{0, 9, 107, 93, 110}
+i is:0,j is:10:,result is:3,set is:{0, 10, 93}
+i is:0,j is:12:,result is:3,set is:{0, 12, 93}
+i is:0,j is:13:,result is:3,set is:{0, 13, 93}
+i is:0,j is:14:,result is:5,set is:{0, 106, 92, 93, 14}
+i is:0,j is:15:,result is:3,set is:{0, 93, 15}
+i is:0,j is:16:,result is:3,set is:{0, 16, 93}
+i is:0,j is:17:,result is:4,set is:{0, 17, 93, 101}
+i is:0,j is:18:,result is:5,set is:{0, 18, 108, 77, 93}
+i is:0,j is:19:,result is:4,set is:{0, 19, 93, 47}
+i is:0,j is:20:,result is:3,set is:{0, 20, 93}
+i is:0,j is:21:,result is:3,set is:{0, 21, 93}
+i is:0,j is:22:,result is:3,set is:{0, 93, 22}
+i is:0,j is:23:,result is:3,set is:{0, 93, 23}
+i is:0,j is:24:,result is:3,set is:{0, 24, 93}
+i is:0,j is:25:,result is:5,set is:{0, 25, 93, 30, 71}
+i is:0,j is:27:,result is:4,set is:{0, 41, 27, 93}
+i is:0,j is:28:,result is:3,set is:{0, 28, 93}
+i is:0,j is:29:,result is:3,set is:{0, 29, 93}
+i is:0,j is:31:,result is:3,set is:{0, 93, 31}
+i is:0,j is:32:,result is:3,set is:{0, 32, 93}
+i is:0,j is:33:,result is:5,set is:{0, 33, 37, 93, 63}
+i is:0,j is:34:,result is:4,set is:{0, 34, 93, 46}
+i is:0,j is:39:,result is:3,set is:{0, 93, 39}
+i is:0,j is:40:,result is:3,set is:{0, 40, 93}
+i is:0,j is:42:,result is:3,set is:{0, 42, 93}
+i is:0,j is:44:,result is:3,set is:{0, 44, 93}
+i is:0,j is:45:,result is:4,set is:{0, 66, 45, 93}
+i is:0,j is:49:,result is:5,set is:{0, 49, 90, 93, 109}
+i is:0,j is:50:,result is:3,set is:{0, 50, 93}
+i is:0,j is:54:,result is:3,set is:{0, 93, 54}
+i is:0,j is:55:,result is:4,set is:{0, 59, 93, 55}
+i is:0,j is:56:,result is:3,set is:{0, 56, 93}
+i is:0,j is:57:,result is:3,set is:{0, 57, 93}
+i is:0,j is:58:,result is:3,set is:{0, 58, 93}
+i is:0,j is:60:,result is:3,set is:{0, 60, 93}
+i is:0,j is:61:,result is:3,set is:{0, 61, 93}
+i is:0,j is:62:,result is:3,set is:{0, 93, 62}
+i is:0,j is:64:,result is:3,set is:{0, 64, 93}
+i is:0,j is:65:,result is:3,set is:{0, 65, 93}
+i is:0,j is:70:,result is:4,set is:{0, 97, 93, 70}
+i is:0,j is:75:,result is:3,set is:{0, 75, 93}
+i is:0,j is:76:,result is:3,set is:{0, 76, 93}
+i is:0,j is:78:,result is:3,set is:{0, 93, 78}
+i is:0,j is:79:,result is:3,set is:{0, 93, 79}
+i is:0,j is:80:,result is:3,set is:{0, 80, 93}
+i is:0,j is:81:,result is:3,set is:{0, 81, 93}
+i is:0,j is:83:,result is:3,set is:{0, 83, 93}
+i is:0,j is:84:,result is:3,set is:{0, 84, 93}
+i is:0,j is:85:,result is:3,set is:{0, 85, 93}
+i is:0,j is:87:,result is:3,set is:{0, 93, 87}
+i is:0,j is:88:,result is:3,set is:{0, 88, 93}
+i is:0,j is:89:,result is:3,set is:{0, 89, 93}
+i is:0,j is:91:,result is:3,set is:{0, 91, 93}
+i is:0,j is:94:,result is:2,set is:{0, 94}
+i is:0,j is:95:,result is:2,set is:{0, 95}
+i is:0,j is:98:,result is:2,set is:{0, 98}
+i is:0,j is:100:,result is:2,set is:{0, 100}
+i is:0,j is:102:,result is:2,set is:{0, 102}
+i is:0,j is:103:,result is:2,set is:{0, 103}
+i is:0,j is:104:,result is:2,set is:{0, 104}
+i is:0,j is:105:,result is:2,set is:{0, 105}
+i is:0,j is:111:,result is:2,set is:{0, 111}
+i is:1,j is:2:,result is:3,set is:{1, 2, 38}
+i is:1,j is:3:,result is:3,set is:{1, 3, 69}
+i is:1,j is:4:,result is:3,set is:{1, 26, 4}
+i is:1,j is:5:,result is:2,set is:{1, 5}
+i is:1,j is:6:,result is:2,set is:{1, 6}
+i is:1,j is:8:,result is:5,set is:{8, 1, 72, 68, 53}
+i is:1,j is:9:,result is:4,set is:{1, 9, 107, 110}
+i is:1,j is:10:,result is:2,set is:{1, 10}
+i is:1,j is:12:,result is:2,set is:{1, 12}
+i is:1,j is:13:,result is:2,set is:{1, 13}
+i is:1,j is:14:,result is:4,set is:{1, 106, 92, 14}
+i is:1,j is:15:,result is:2,set is:{1, 15}
+i is:1,j is:16:,result is:2,set is:{16, 1}
+i is:1,j is:17:,result is:3,set is:{1, 17, 101}
+i is:1,j is:18:,result is:4,set is:{1, 18, 108, 77}
+i is:1,j is:19:,result is:3,set is:{1, 19, 47}
+i is:1,j is:20:,result is:2,set is:{1, 20}
+i is:1,j is:21:,result is:2,set is:{1, 21}
+i is:1,j is:22:,result is:2,set is:{1, 22}
+i is:1,j is:23:,result is:2,set is:{1, 23}
+i is:1,j is:24:,result is:2,set is:{24, 1}
+i is:1,j is:25:,result is:4,set is:{1, 25, 30, 71}
+i is:1,j is:27:,result is:3,set is:{1, 41, 27}
+i is:1,j is:28:,result is:2,set is:{1, 28}
+i is:1,j is:29:,result is:2,set is:{1, 29}
+i is:1,j is:31:,result is:2,set is:{1, 31}
+i is:1,j is:32:,result is:2,set is:{32, 1}
+i is:1,j is:33:,result is:4,set is:{1, 33, 37, 63}
+i is:1,j is:34:,result is:3,set is:{1, 34, 46}
+i is:1,j is:39:,result is:2,set is:{1, 39}
+i is:1,j is:40:,result is:2,set is:{40, 1}
+i is:1,j is:42:,result is:2,set is:{1, 42}
+i is:1,j is:44:,result is:2,set is:{1, 44}
+i is:1,j is:45:,result is:3,set is:{1, 66, 45}
+i is:1,j is:49:,result is:4,set is:{1, 49, 90, 109}
+i is:1,j is:50:,result is:2,set is:{1, 50}
+i is:1,j is:54:,result is:2,set is:{1, 54}
+i is:1,j is:55:,result is:3,set is:{1, 59, 55}
+i is:1,j is:56:,result is:2,set is:{56, 1}
+i is:1,j is:57:,result is:2,set is:{1, 57}
+i is:1,j is:58:,result is:2,set is:{1, 58}
+i is:1,j is:60:,result is:2,set is:{1, 60}
+i is:1,j is:61:,result is:2,set is:{1, 61}
+i is:1,j is:62:,result is:2,set is:{1, 62}
+i is:1,j is:64:,result is:2,set is:{64, 1}
+i is:1,j is:65:,result is:2,set is:{1, 65}
+i is:1,j is:70:,result is:3,set is:{1, 97, 70}
+i is:1,j is:75:,result is:2,set is:{1, 75}
+i is:1,j is:76:,result is:2,set is:{1, 76}
+i is:1,j is:78:,result is:2,set is:{1, 78}
+i is:1,j is:79:,result is:2,set is:{1, 79}
+i is:1,j is:80:,result is:2,set is:{80, 1}
+i is:1,j is:81:,result is:2,set is:{1, 81}
+i is:1,j is:83:,result is:2,set is:{1, 83}
+i is:1,j is:84:,result is:2,set is:{1, 84}
+i is:1,j is:85:,result is:2,set is:{1, 85}
+i is:1,j is:87:,result is:2,set is:{1, 87}
+i is:1,j is:88:,result is:2,set is:{88, 1}
+i is:1,j is:89:,result is:2,set is:{1, 89}
+i is:1,j is:91:,result is:2,set is:{1, 91}
+i is:1,j is:94:,result is:2,set is:{1, 94}
+i is:1,j is:95:,result is:2,set is:{1, 95}
+i is:1,j is:98:,result is:2,set is:{1, 98}
+i is:1,j is:100:,result is:2,set is:{1, 100}
+i is:1,j is:102:,result is:2,set is:{1, 102}
+i is:1,j is:103:,result is:2,set is:{1, 103}
+i is:1,j is:104:,result is:2,set is:{104, 1}
+i is:1,j is:105:,result is:2,set is:{1, 105}
+i is:1,j is:111:,result is:2,set is:{1, 111}
+i is:2,j is:3:,result is:19,set is:{32, 33, 2, 3, 65, 5, 37, 38, 66, 69, 10, 75, 45, 79, 111, 54, 91, 94, 63}
+i is:2,j is:4:,result is:4,set is:{2, 26, 4, 38}
+i is:2,j is:6:,result is:3,set is:{2, 6, 38}
+i is:2,j is:7:,result is:4,set is:{73, 2, 38, 7}
+i is:2,j is:8:,result is:6,set is:{2, 68, 38, 8, 72, 53}
+i is:2,j is:9:,result is:5,set is:{9, 2, 107, 38, 110}
+i is:2,j is:11:,result is:5,set is:{2, 11, 51, 82, 38}
+i is:2,j is:12:,result is:3,set is:{2, 12, 38}
+i is:2,j is:13:,result is:3,set is:{2, 13, 38}
+i is:2,j is:14:,result is:5,set is:{2, 106, 92, 14, 38}
+i is:2,j is:15:,result is:3,set is:{2, 38, 15}
+i is:2,j is:16:,result is:3,set is:{16, 2, 38}
+i is:2,j is:17:,result is:4,set is:{17, 2, 101, 38}
+i is:2,j is:18:,result is:5,set is:{2, 18, 108, 77, 38}
+i is:2,j is:19:,result is:4,set is:{2, 19, 38, 47}
+i is:2,j is:20:,result is:3,set is:{2, 20, 38}
+i is:2,j is:21:,result is:3,set is:{2, 21, 38}
+i is:2,j is:22:,result is:3,set is:{2, 22, 38}
+i is:2,j is:23:,result is:3,set is:{2, 38, 23}
+i is:2,j is:24:,result is:3,set is:{24, 2, 38}
+i is:2,j is:25:,result is:5,set is:{71, 25, 2, 30, 38}
+i is:2,j is:27:,result is:4,set is:{41, 2, 27, 38}
+i is:2,j is:28:,result is:3,set is:{2, 28, 38}
+i is:2,j is:29:,result is:3,set is:{2, 29, 38}
+i is:2,j is:31:,result is:3,set is:{2, 38, 31}
+i is:2,j is:34:,result is:4,set is:{2, 34, 38, 46}
+i is:2,j is:35:,result is:4,set is:{96, 2, 35, 38}
+i is:2,j is:36:,result is:3,set is:{2, 36, 38}
+i is:2,j is:39:,result is:2,set is:{2, 39}
+i is:2,j is:40:,result is:2,set is:{40, 2}
+i is:2,j is:42:,result is:2,set is:{2, 42}
+i is:2,j is:43:,result is:2,set is:{2, 43}
+i is:2,j is:44:,result is:2,set is:{2, 44}
+i is:2,j is:48:,result is:2,set is:{48, 2}
+i is:2,j is:49:,result is:4,set is:{49, 2, 90, 109}
+i is:2,j is:50:,result is:2,set is:{2, 50}
+i is:2,j is:52:,result is:2,set is:{2, 52}
+i is:2,j is:55:,result is:3,set is:{2, 59, 55}
+i is:2,j is:56:,result is:2,set is:{56, 2}
+i is:2,j is:57:,result is:2,set is:{57, 2}
+i is:2,j is:58:,result is:2,set is:{2, 58}
+i is:2,j is:60:,result is:2,set is:{2, 60}
+i is:2,j is:61:,result is:2,set is:{2, 61}
+i is:2,j is:62:,result is:2,set is:{2, 62}
+i is:2,j is:64:,result is:2,set is:{64, 2}
+i is:2,j is:67:,result is:3,set is:{2, 67, 74}
+i is:2,j is:70:,result is:3,set is:{97, 2, 70}
+i is:2,j is:76:,result is:2,set is:{2, 76}
+i is:2,j is:78:,result is:2,set is:{2, 78}
+i is:2,j is:80:,result is:2,set is:{80, 2}
+i is:2,j is:81:,result is:2,set is:{81, 2}
+i is:2,j is:83:,result is:2,set is:{2, 83}
+i is:2,j is:84:,result is:2,set is:{2, 84}
+i is:2,j is:85:,result is:2,set is:{2, 85}
+i is:2,j is:86:,result is:2,set is:{2, 86}
+i is:2,j is:87:,result is:2,set is:{2, 87}
+i is:2,j is:88:,result is:2,set is:{88, 2}
+i is:2,j is:89:,result is:2,set is:{89, 2}
+i is:2,j is:95:,result is:2,set is:{2, 95}
+i is:2,j is:98:,result is:2,set is:{2, 98}
+i is:2,j is:99:,result is:2,set is:{2, 99}
+i is:2,j is:100:,result is:2,set is:{2, 100}
+i is:2,j is:102:,result is:2,set is:{2, 102}
+i is:2,j is:103:,result is:2,set is:{2, 103}
+i is:2,j is:104:,result is:2,set is:{104, 2}
+i is:2,j is:105:,result is:2,set is:{105, 2}
+i is:3,j is:4:,result is:4,set is:{26, 3, 4, 69}
+i is:3,j is:6:,result is:3,set is:{3, 69, 6}
+i is:3,j is:7:,result is:4,set is:{73, 3, 69, 7}
+i is:3,j is:8:,result is:6,set is:{3, 68, 69, 8, 72, 53}
+i is:3,j is:9:,result is:5,set is:{9, 3, 107, 69, 110}
+i is:3,j is:11:,result is:5,set is:{82, 3, 11, 51, 69}
+i is:3,j is:12:,result is:3,set is:{3, 12, 69}
+i is:3,j is:13:,result is:3,set is:{3, 13, 69}
+i is:3,j is:14:,result is:5,set is:{106, 3, 92, 69, 14}
+i is:3,j is:15:,result is:3,set is:{3, 69, 15}
+i is:3,j is:16:,result is:3,set is:{16, 3, 69}
+i is:3,j is:17:,result is:4,set is:{17, 3, 69, 101}
+i is:3,j is:18:,result is:5,set is:{18, 3, 108, 69, 77}
+i is:3,j is:19:,result is:4,set is:{3, 19, 69, 47}
+i is:3,j is:20:,result is:3,set is:{3, 20, 69}
+i is:3,j is:21:,result is:3,set is:{3, 21, 69}
+i is:3,j is:22:,result is:3,set is:{3, 69, 22}
+i is:3,j is:23:,result is:3,set is:{3, 69, 23}
+i is:3,j is:24:,result is:3,set is:{24, 3, 69}
+i is:3,j is:25:,result is:5,set is:{25, 3, 69, 30, 71}
+i is:3,j is:27:,result is:4,set is:{41, 3, 27, 69}
+i is:3,j is:28:,result is:3,set is:{3, 28, 69}
+i is:3,j is:29:,result is:3,set is:{3, 29, 69}
+i is:3,j is:31:,result is:3,set is:{3, 69, 31}
+i is:3,j is:34:,result is:4,set is:{34, 3, 69, 46}
+i is:3,j is:35:,result is:4,set is:{96, 3, 35, 69}
+i is:3,j is:36:,result is:3,set is:{3, 36, 69}
+i is:3,j is:39:,result is:3,set is:{3, 69, 39}
+i is:3,j is:40:,result is:3,set is:{40, 3, 69}
+i is:3,j is:42:,result is:3,set is:{42, 3, 69}
+i is:3,j is:43:,result is:3,set is:{3, 43, 69}
+i is:3,j is:44:,result is:3,set is:{3, 44, 69}
+i is:3,j is:48:,result is:3,set is:{48, 3, 69}
+i is:3,j is:49:,result is:5,set is:{49, 90, 3, 69, 109}
+i is:3,j is:50:,result is:3,set is:{50, 3, 69}
+i is:3,j is:52:,result is:3,set is:{3, 52, 69}
+i is:3,j is:55:,result is:4,set is:{3, 59, 69, 55}
+i is:3,j is:56:,result is:3,set is:{56, 3, 69}
+i is:3,j is:57:,result is:3,set is:{57, 3, 69}
+i is:3,j is:58:,result is:3,set is:{58, 3, 69}
+i is:3,j is:60:,result is:3,set is:{3, 60, 69}
+i is:3,j is:61:,result is:3,set is:{3, 61, 69}
+i is:3,j is:62:,result is:3,set is:{3, 69, 62}
+i is:3,j is:64:,result is:3,set is:{64, 3, 69}
+i is:3,j is:67:,result is:4,set is:{74, 3, 67, 69}
+i is:3,j is:70:,result is:3,set is:{97, 3, 70}
+i is:3,j is:76:,result is:2,set is:{3, 76}
+i is:3,j is:78:,result is:2,set is:{3, 78}
+i is:3,j is:80:,result is:2,set is:{80, 3}
+i is:3,j is:81:,result is:2,set is:{81, 3}
+i is:3,j is:83:,result is:2,set is:{3, 83}
+i is:3,j is:84:,result is:2,set is:{3, 84}
+i is:3,j is:85:,result is:2,set is:{3, 85}
+i is:3,j is:86:,result is:2,set is:{3, 86}
+i is:3,j is:87:,result is:2,set is:{3, 87}
+i is:3,j is:88:,result is:2,set is:{88, 3}
+i is:3,j is:89:,result is:2,set is:{89, 3}
+i is:3,j is:95:,result is:2,set is:{3, 95}
+i is:3,j is:98:,result is:2,set is:{98, 3}
+i is:3,j is:99:,result is:2,set is:{3, 99}
+i is:3,j is:100:,result is:2,set is:{3, 100}
+i is:3,j is:102:,result is:2,set is:{3, 102}
+i is:3,j is:103:,result is:2,set is:{3, 103}
+i is:3,j is:104:,result is:2,set is:{104, 3}
+i is:3,j is:105:,result is:2,set is:{105, 3}
+i is:4,j is:5:,result is:3,set is:{26, 4, 5}
+i is:4,j is:6:,result is:3,set is:{26, 4, 6}
+i is:4,j is:7:,result is:4,set is:{73, 26, 4, 7}
+i is:4,j is:8:,result is:6,set is:{4, 68, 8, 72, 53, 26}
+i is:4,j is:9:,result is:5,set is:{9, 26, 107, 4, 110}
+i is:4,j is:10:,result is:3,set is:{10, 26, 4}
+i is:4,j is:11:,result is:5,set is:{26, 11, 4, 51, 82}
+i is:4,j is:12:,result is:3,set is:{26, 4, 12}
+i is:4,j is:13:,result is:3,set is:{26, 4, 13}
+i is:4,j is:14:,result is:5,set is:{26, 106, 4, 92, 14}
+i is:4,j is:15:,result is:3,set is:{26, 4, 15}
+i is:4,j is:16:,result is:3,set is:{16, 26, 4}
+i is:4,j is:17:,result is:4,set is:{17, 26, 4, 101}
+i is:4,j is:18:,result is:5,set is:{18, 26, 4, 77, 108}
+i is:4,j is:19:,result is:4,set is:{26, 19, 4, 47}
+i is:4,j is:20:,result is:3,set is:{26, 4, 20}
+i is:4,j is:21:,result is:3,set is:{26, 4, 21}
+i is:4,j is:22:,result is:3,set is:{26, 4, 22}
+i is:4,j is:23:,result is:3,set is:{26, 4, 23}
+i is:4,j is:24:,result is:3,set is:{24, 26, 4}
+i is:4,j is:25:,result is:8,set is:{4, 71, 41, 25, 26, 27, 30, 62}
+i is:4,j is:28:,result is:2,set is:{4, 28}
+i is:4,j is:29:,result is:2,set is:{4, 29}
+i is:4,j is:31:,result is:2,set is:{4, 31}
+i is:4,j is:32:,result is:2,set is:{32, 4}
+i is:4,j is:33:,result is:4,set is:{33, 4, 37, 63}
+i is:4,j is:34:,result is:3,set is:{34, 4, 46}
+i is:4,j is:35:,result is:3,set is:{96, 35, 4}
+i is:4,j is:36:,result is:2,set is:{4, 36}
+i is:4,j is:39:,result is:2,set is:{4, 39}
+i is:4,j is:40:,result is:2,set is:{40, 4}
+i is:4,j is:42:,result is:2,set is:{42, 4}
+i is:4,j is:43:,result is:2,set is:{43, 4}
+i is:4,j is:44:,result is:2,set is:{4, 44}
+i is:4,j is:45:,result is:3,set is:{66, 4, 45}
+i is:4,j is:48:,result is:2,set is:{48, 4}
+i is:4,j is:49:,result is:4,set is:{49, 90, 4, 109}
+i is:4,j is:50:,result is:2,set is:{50, 4}
+i is:4,j is:52:,result is:2,set is:{4, 52}
+i is:4,j is:54:,result is:2,set is:{4, 54}
+i is:4,j is:55:,result is:3,set is:{59, 4, 55}
+i is:4,j is:56:,result is:2,set is:{56, 4}
+i is:4,j is:57:,result is:2,set is:{57, 4}
+i is:4,j is:58:,result is:2,set is:{58, 4}
+i is:4,j is:60:,result is:2,set is:{4, 60}
+i is:4,j is:61:,result is:2,set is:{4, 61}
+i is:4,j is:64:,result is:2,set is:{64, 4}
+i is:4,j is:65:,result is:2,set is:{65, 4}
+i is:4,j is:67:,result is:3,set is:{74, 67, 4}
+i is:4,j is:70:,result is:3,set is:{97, 4, 70}
+i is:4,j is:75:,result is:2,set is:{75, 4}
+i is:4,j is:76:,result is:2,set is:{4, 76}
+i is:4,j is:78:,result is:2,set is:{4, 78}
+i is:4,j is:79:,result is:2,set is:{4, 79}
+i is:4,j is:80:,result is:2,set is:{80, 4}
+i is:4,j is:81:,result is:2,set is:{81, 4}
+i is:4,j is:83:,result is:2,set is:{83, 4}
+i is:4,j is:84:,result is:2,set is:{4, 84}
+i is:4,j is:85:,result is:2,set is:{4, 85}
+i is:4,j is:86:,result is:2,set is:{4, 86}
+i is:4,j is:87:,result is:2,set is:{4, 87}
+i is:4,j is:88:,result is:2,set is:{88, 4}
+i is:4,j is:89:,result is:2,set is:{89, 4}
+i is:4,j is:91:,result is:2,set is:{91, 4}
+i is:4,j is:94:,result is:2,set is:{4, 94}
+i is:4,j is:95:,result is:2,set is:{4, 95}
+i is:4,j is:98:,result is:2,set is:{98, 4}
+i is:4,j is:99:,result is:2,set is:{99, 4}
+i is:4,j is:100:,result is:2,set is:{4, 100}
+i is:4,j is:102:,result is:2,set is:{4, 102}
+i is:4,j is:103:,result is:2,set is:{4, 103}
+i is:4,j is:104:,result is:2,set is:{104, 4}
+i is:4,j is:105:,result is:2,set is:{105, 4}
+i is:4,j is:111:,result is:2,set is:{4, 111}
+i is:5,j is:6:,result is:2,set is:{5, 6}
+i is:5,j is:7:,result is:3,set is:{73, 5, 7}
+i is:5,j is:8:,result is:5,set is:{8, 72, 68, 5, 53}
+i is:5,j is:9:,result is:4,set is:{9, 107, 5, 110}
+i is:5,j is:10:,result is:17,set is:{32, 33, 65, 66, 5, 37, 38, 69, 10, 75, 45, 79, 111, 54, 91, 94, 63}
+i is:5,j is:11:,result is:4,set is:{82, 11, 51, 5}
+i is:5,j is:12:,result is:2,set is:{12, 5}
+i is:5,j is:13:,result is:2,set is:{5, 13}
+i is:5,j is:14:,result is:4,set is:{106, 92, 5, 14}
+i is:5,j is:15:,result is:2,set is:{5, 15}
+i is:5,j is:16:,result is:2,set is:{16, 5}
+i is:5,j is:17:,result is:3,set is:{17, 5, 101}
+i is:5,j is:18:,result is:4,set is:{18, 108, 5, 77}
+i is:5,j is:19:,result is:3,set is:{19, 5, 47}
+i is:5,j is:20:,result is:2,set is:{20, 5}
+i is:5,j is:21:,result is:2,set is:{5, 21}
+i is:5,j is:22:,result is:2,set is:{5, 22}
+i is:5,j is:23:,result is:2,set is:{5, 23}
+i is:5,j is:24:,result is:2,set is:{24, 5}
+i is:5,j is:25:,result is:4,set is:{25, 5, 30, 71}
+i is:5,j is:27:,result is:3,set is:{41, 27, 5}
+i is:5,j is:28:,result is:2,set is:{28, 5}
+i is:5,j is:29:,result is:2,set is:{5, 29}
+i is:5,j is:31:,result is:2,set is:{5, 31}
+i is:5,j is:34:,result is:3,set is:{34, 5, 46}
+i is:5,j is:35:,result is:3,set is:{96, 35, 5}
+i is:5,j is:36:,result is:2,set is:{36, 5}
+i is:5,j is:39:,result is:2,set is:{5, 39}
+i is:5,j is:40:,result is:2,set is:{40, 5}
+i is:5,j is:42:,result is:2,set is:{42, 5}
+i is:5,j is:43:,result is:2,set is:{43, 5}
+i is:5,j is:44:,result is:2,set is:{44, 5}
+i is:5,j is:48:,result is:2,set is:{48, 5}
+i is:5,j is:49:,result is:4,set is:{49, 90, 5, 109}
+i is:5,j is:50:,result is:2,set is:{50, 5}
+i is:5,j is:52:,result is:2,set is:{52, 5}
+i is:5,j is:55:,result is:3,set is:{59, 5, 55}
+i is:5,j is:56:,result is:2,set is:{56, 5}
+i is:5,j is:57:,result is:2,set is:{57, 5}
+i is:5,j is:58:,result is:2,set is:{58, 5}
+i is:5,j is:60:,result is:2,set is:{60, 5}
+i is:5,j is:61:,result is:2,set is:{5, 61}
+i is:5,j is:62:,result is:2,set is:{5, 62}
+i is:5,j is:64:,result is:2,set is:{64, 5}
+i is:5,j is:67:,result is:3,set is:{74, 67, 5}
+i is:5,j is:70:,result is:3,set is:{97, 5, 70}
+i is:5,j is:76:,result is:2,set is:{76, 5}
+i is:5,j is:78:,result is:2,set is:{5, 78}
+i is:5,j is:80:,result is:2,set is:{80, 5}
+i is:5,j is:81:,result is:2,set is:{81, 5}
+i is:5,j is:83:,result is:2,set is:{83, 5}
+i is:5,j is:84:,result is:2,set is:{84, 5}
+i is:5,j is:85:,result is:2,set is:{5, 85}
+i is:5,j is:86:,result is:2,set is:{5, 86}
+i is:5,j is:87:,result is:2,set is:{5, 87}
+i is:5,j is:88:,result is:2,set is:{88, 5}
+i is:5,j is:89:,result is:2,set is:{89, 5}
+i is:5,j is:95:,result is:2,set is:{5, 95}
+i is:5,j is:98:,result is:2,set is:{98, 5}
+i is:5,j is:99:,result is:2,set is:{99, 5}
+i is:5,j is:100:,result is:2,set is:{100, 5}
+i is:5,j is:102:,result is:2,set is:{5, 102}
+i is:5,j is:103:,result is:2,set is:{5, 103}
+i is:5,j is:104:,result is:2,set is:{104, 5}
+i is:5,j is:105:,result is:2,set is:{105, 5}
+i is:6,j is:7:,result is:3,set is:{73, 6, 7}
+i is:6,j is:8:,result is:5,set is:{8, 72, 68, 53, 6}
+i is:6,j is:9:,result is:4,set is:{9, 107, 6, 110}
+i is:6,j is:10:,result is:2,set is:{10, 6}
+i is:6,j is:11:,result is:4,set is:{82, 11, 51, 6}
+i is:6,j is:12:,result is:2,set is:{12, 6}
+i is:6,j is:13:,result is:2,set is:{13, 6}
+i is:6,j is:14:,result is:4,set is:{106, 92, 6, 14}
+i is:6,j is:15:,result is:2,set is:{6, 15}
+i is:6,j is:16:,result is:2,set is:{16, 6}
+i is:6,j is:17:,result is:3,set is:{17, 101, 6}
+i is:6,j is:18:,result is:4,set is:{18, 108, 77, 6}
+i is:6,j is:19:,result is:3,set is:{19, 6, 47}
+i is:6,j is:20:,result is:3,set is:{24, 20, 6}
+i is:6,j is:21:,result is:2,set is:{21, 6}
+i is:6,j is:22:,result is:2,set is:{6, 22}
+i is:6,j is:23:,result is:2,set is:{6, 23}
+i is:6,j is:25:,result is:4,set is:{71, 25, 6, 30}
+i is:6,j is:27:,result is:3,set is:{41, 27, 6}
+i is:6,j is:28:,result is:2,set is:{28, 6}
+i is:6,j is:29:,result is:2,set is:{29, 6}
+i is:6,j is:31:,result is:2,set is:{6, 31}
+i is:6,j is:32:,result is:2,set is:{32, 6}
+i is:6,j is:33:,result is:4,set is:{33, 37, 6, 63}
+i is:6,j is:34:,result is:4,set is:{64, 34, 6, 46}
+i is:6,j is:35:,result is:3,set is:{96, 35, 6}
+i is:6,j is:36:,result is:2,set is:{36, 6}
+i is:6,j is:39:,result is:2,set is:{6, 39}
+i is:6,j is:40:,result is:2,set is:{40, 6}
+i is:6,j is:42:,result is:2,set is:{42, 6}
+i is:6,j is:43:,result is:2,set is:{43, 6}
+i is:6,j is:44:,result is:2,set is:{44, 6}
+i is:6,j is:45:,result is:3,set is:{66, 45, 6}
+i is:6,j is:48:,result is:2,set is:{48, 6}
+i is:6,j is:49:,result is:4,set is:{49, 90, 109, 6}
+i is:6,j is:50:,result is:2,set is:{50, 6}
+i is:6,j is:52:,result is:2,set is:{52, 6}
+i is:6,j is:54:,result is:2,set is:{6, 54}
+i is:6,j is:55:,result is:3,set is:{59, 6, 55}
+i is:6,j is:56:,result is:2,set is:{56, 6}
+i is:6,j is:57:,result is:2,set is:{57, 6}
+i is:6,j is:58:,result is:2,set is:{58, 6}
+i is:6,j is:60:,result is:2,set is:{60, 6}
+i is:6,j is:61:,result is:2,set is:{61, 6}
+i is:6,j is:62:,result is:2,set is:{6, 62}
+i is:6,j is:65:,result is:2,set is:{65, 6}
+i is:6,j is:67:,result is:3,set is:{74, 67, 6}
+i is:6,j is:70:,result is:3,set is:{97, 6, 70}
+i is:6,j is:75:,result is:2,set is:{75, 6}
+i is:6,j is:76:,result is:3,set is:{80, 76, 6}
+i is:6,j is:78:,result is:2,set is:{6, 78}
+i is:6,j is:79:,result is:2,set is:{6, 79}
+i is:6,j is:81:,result is:2,set is:{81, 6}
+i is:6,j is:83:,result is:2,set is:{83, 6}
+i is:6,j is:84:,result is:2,set is:{84, 6}
+i is:6,j is:85:,result is:2,set is:{85, 6}
+i is:6,j is:86:,result is:2,set is:{6, 86}
+i is:6,j is:87:,result is:2,set is:{6, 87}
+i is:6,j is:88:,result is:2,set is:{88, 6}
+i is:6,j is:89:,result is:2,set is:{89, 6}
+i is:6,j is:91:,result is:2,set is:{91, 6}
+i is:6,j is:94:,result is:2,set is:{6, 94}
+i is:6,j is:95:,result is:2,set is:{6, 95}
+i is:6,j is:98:,result is:2,set is:{98, 6}
+i is:6,j is:99:,result is:2,set is:{99, 6}
+i is:6,j is:100:,result is:2,set is:{100, 6}
+i is:6,j is:102:,result is:2,set is:{6, 102}
+i is:6,j is:103:,result is:2,set is:{6, 103}
+i is:6,j is:104:,result is:2,set is:{104, 6}
+i is:6,j is:105:,result is:2,set is:{105, 6}
+i is:6,j is:111:,result is:2,set is:{6, 111}
+i is:7,j is:8:,result is:6,set is:{68, 7, 8, 72, 73, 53}
+i is:7,j is:9:,result is:5,set is:{9, 73, 107, 110, 7}
+i is:7,j is:10:,result is:3,set is:{73, 10, 7}
+i is:7,j is:11:,result is:16,set is:{96, 35, 36, 67, 99, 7, 73, 74, 11, 43, 48, 82, 51, 52, 86, 93}
+i is:7,j is:12:,result is:3,set is:{73, 12, 7}
+i is:7,j is:13:,result is:3,set is:{73, 13, 7}
+i is:7,j is:14:,result is:5,set is:{73, 106, 92, 14, 7}
+i is:7,j is:15:,result is:3,set is:{15, 73, 7}
+i is:7,j is:16:,result is:3,set is:{16, 73, 7}
+i is:7,j is:17:,result is:4,set is:{17, 73, 101, 7}
+i is:7,j is:18:,result is:5,set is:{73, 18, 108, 77, 7}
+i is:7,j is:19:,result is:4,set is:{47, 73, 19, 7}
+i is:7,j is:20:,result is:3,set is:{73, 20, 7}
+i is:7,j is:21:,result is:3,set is:{73, 21, 7}
+i is:7,j is:22:,result is:3,set is:{73, 22, 7}
+i is:7,j is:23:,result is:3,set is:{23, 73, 7}
+i is:7,j is:24:,result is:3,set is:{24, 73, 7}
+i is:7,j is:25:,result is:5,set is:{71, 25, 73, 30, 7}
+i is:7,j is:27:,result is:4,set is:{41, 73, 27, 7}
+i is:7,j is:28:,result is:3,set is:{73, 28, 7}
+i is:7,j is:29:,result is:3,set is:{73, 29, 7}
+i is:7,j is:31:,result is:3,set is:{31, 73, 7}
+i is:7,j is:32:,result is:3,set is:{32, 73, 7}
+i is:7,j is:33:,result is:5,set is:{63, 33, 73, 37, 7}
+i is:7,j is:34:,result is:4,set is:{73, 34, 46, 7}
+i is:7,j is:39:,result is:3,set is:{39, 73, 7}
+i is:7,j is:40:,result is:3,set is:{40, 73, 7}
+i is:7,j is:42:,result is:3,set is:{73, 42, 7}
+i is:7,j is:44:,result is:3,set is:{73, 44, 7}
+i is:7,j is:45:,result is:4,set is:{73, 66, 45, 7}
+i is:7,j is:49:,result is:5,set is:{49, 73, 90, 109, 7}
+i is:7,j is:50:,result is:3,set is:{73, 50, 7}
+i is:7,j is:54:,result is:3,set is:{73, 54, 7}
+i is:7,j is:55:,result is:4,set is:{55, 73, 59, 7}
+i is:7,j is:56:,result is:3,set is:{56, 73, 7}
+i is:7,j is:57:,result is:3,set is:{57, 73, 7}
+i is:7,j is:58:,result is:3,set is:{73, 58, 7}
+i is:7,j is:60:,result is:3,set is:{73, 60, 7}
+i is:7,j is:61:,result is:3,set is:{73, 61, 7}
+i is:7,j is:62:,result is:3,set is:{73, 62, 7}
+i is:7,j is:64:,result is:3,set is:{64, 73, 7}
+i is:7,j is:65:,result is:3,set is:{65, 73, 7}
+i is:7,j is:70:,result is:4,set is:{73, 97, 70, 7}
+i is:7,j is:75:,result is:2,set is:{75, 7}
+i is:7,j is:76:,result is:2,set is:{76, 7}
+i is:7,j is:78:,result is:2,set is:{78, 7}
+i is:7,j is:79:,result is:2,set is:{79, 7}
+i is:7,j is:80:,result is:2,set is:{80, 7}
+i is:7,j is:81:,result is:2,set is:{81, 7}
+i is:7,j is:83:,result is:2,set is:{83, 7}
+i is:7,j is:84:,result is:2,set is:{84, 7}
+i is:7,j is:85:,result is:2,set is:{85, 7}
+i is:7,j is:87:,result is:2,set is:{87, 7}
+i is:7,j is:88:,result is:2,set is:{88, 7}
+i is:7,j is:89:,result is:2,set is:{89, 7}
+i is:7,j is:91:,result is:2,set is:{91, 7}
+i is:7,j is:94:,result is:2,set is:{94, 7}
+i is:7,j is:95:,result is:2,set is:{95, 7}
+i is:7,j is:98:,result is:2,set is:{98, 7}
+i is:7,j is:100:,result is:2,set is:{100, 7}
+i is:7,j is:102:,result is:2,set is:{102, 7}
+i is:7,j is:103:,result is:2,set is:{103, 7}
+i is:7,j is:104:,result is:2,set is:{104, 7}
+i is:7,j is:105:,result is:2,set is:{105, 7}
+i is:7,j is:111:,result is:2,set is:{111, 7}
+i is:8,j is:9:,result is:7,set is:{68, 8, 9, 72, 107, 110, 53}
+i is:8,j is:10:,result is:5,set is:{8, 72, 10, 68, 53}
+i is:8,j is:11:,result is:7,set is:{68, 8, 72, 11, 82, 51, 53}
+i is:8,j is:12:,result is:18,set is:{97, 68, 70, 103, 8, 72, 105, 12, 77, 108, 18, 53, 87, 56, 88, 60, 29, 95}
+i is:8,j is:13:,result is:5,set is:{8, 72, 68, 13, 53}
+i is:8,j is:14:,result is:7,set is:{68, 8, 72, 106, 14, 53, 92}
+i is:8,j is:15:,result is:5,set is:{8, 72, 68, 53, 15}
+i is:8,j is:16:,result is:5,set is:{8, 16, 72, 68, 53}
+i is:8,j is:17:,result is:6,set is:{68, 101, 8, 72, 17, 53}
+i is:8,j is:19:,result is:6,set is:{68, 8, 72, 47, 19, 53}
+i is:8,j is:20:,result is:5,set is:{8, 72, 20, 53, 68}
+i is:8,j is:21:,result is:5,set is:{8, 72, 68, 21, 53}
+i is:8,j is:22:,result is:5,set is:{8, 72, 68, 53, 22}
+i is:8,j is:23:,result is:5,set is:{8, 72, 68, 53, 23}
+i is:8,j is:24:,result is:5,set is:{8, 24, 72, 68, 53}
+i is:8,j is:25:,result is:7,set is:{68, 71, 8, 72, 53, 25, 30}
+i is:8,j is:27:,result is:6,set is:{68, 8, 41, 72, 53, 27}
+i is:8,j is:28:,result is:5,set is:{8, 72, 28, 53, 68}
+i is:8,j is:31:,result is:5,set is:{8, 72, 68, 53, 31}
+i is:8,j is:32:,result is:5,set is:{8, 32, 72, 68, 53}
+i is:8,j is:33:,result is:7,set is:{33, 68, 37, 8, 72, 53, 63}
+i is:8,j is:34:,result is:6,set is:{34, 68, 8, 72, 46, 53}
+i is:8,j is:35:,result is:6,set is:{96, 35, 68, 8, 72, 53}
+i is:8,j is:36:,result is:5,set is:{8, 72, 36, 53, 68}
+i is:8,j is:39:,result is:5,set is:{8, 72, 68, 53, 39}
+i is:8,j is:40:,result is:5,set is:{8, 40, 72, 68, 53}
+i is:8,j is:42:,result is:5,set is:{8, 72, 42, 68, 53}
+i is:8,j is:43:,result is:5,set is:{8, 72, 43, 68, 53}
+i is:8,j is:44:,result is:5,set is:{8, 72, 44, 53, 68}
+i is:8,j is:45:,result is:6,set is:{66, 68, 8, 72, 45, 53}
+i is:8,j is:48:,result is:5,set is:{8, 48, 72, 68, 53}
+i is:8,j is:49:,result is:7,set is:{68, 8, 72, 109, 49, 53, 90}
+i is:8,j is:50:,result is:5,set is:{8, 72, 50, 68, 53}
+i is:8,j is:52:,result is:5,set is:{8, 72, 52, 53, 68}
+i is:8,j is:54:,result is:4,set is:{8, 72, 68, 54}
+i is:8,j is:55:,result is:5,set is:{8, 72, 59, 68, 55}
+i is:8,j is:57:,result is:4,set is:{8, 57, 72, 68}
+i is:8,j is:58:,result is:4,set is:{8, 72, 58, 68}
+i is:8,j is:61:,result is:4,set is:{8, 72, 68, 61}
+i is:8,j is:62:,result is:4,set is:{8, 72, 68, 62}
+i is:8,j is:64:,result is:5,set is:{8, 64, 72, 68, 86}
+i is:8,j is:65:,result is:4,set is:{8, 65, 72, 68}
+i is:8,j is:67:,result is:5,set is:{8, 72, 74, 67, 68}
+i is:8,j is:75:,result is:2,set is:{8, 75}
+i is:8,j is:76:,result is:2,set is:{8, 76}
+i is:8,j is:78:,result is:2,set is:{8, 78}
+i is:8,j is:79:,result is:2,set is:{8, 79}
+i is:8,j is:80:,result is:2,set is:{8, 80}
+i is:8,j is:81:,result is:2,set is:{8, 81}
+i is:8,j is:83:,result is:2,set is:{8, 83}
+i is:8,j is:84:,result is:2,set is:{8, 84}
+i is:8,j is:85:,result is:2,set is:{8, 85}
+i is:8,j is:89:,result is:2,set is:{8, 89}
+i is:8,j is:91:,result is:2,set is:{8, 91}
+i is:8,j is:94:,result is:2,set is:{8, 94}
+i is:8,j is:98:,result is:2,set is:{8, 98}
+i is:8,j is:99:,result is:2,set is:{8, 99}
+i is:8,j is:100:,result is:2,set is:{8, 100}
+i is:8,j is:102:,result is:2,set is:{8, 102}
+i is:8,j is:104:,result is:2,set is:{8, 104}
+i is:8,j is:111:,result is:2,set is:{8, 111}
+i is:9,j is:10:,result is:4,set is:{9, 10, 107, 110}
+i is:9,j is:11:,result is:6,set is:{9, 11, 107, 110, 82, 51}
+i is:9,j is:12:,result is:4,set is:{9, 107, 12, 110}
+i is:9,j is:13:,result is:21,set is:{101, 40, 9, 106, 107, 44, 13, 14, 78, 16, 17, 49, 81, 109, 110, 22, 55, 89, 90, 59, 92}
+i is:9,j is:15:,result is:4,set is:{9, 107, 110, 15}
+i is:9,j is:18:,result is:6,set is:{9, 107, 108, 77, 110, 18}
+i is:9,j is:19:,result is:5,set is:{9, 19, 107, 110, 47}
+i is:9,j is:20:,result is:4,set is:{9, 107, 20, 110}
+i is:9,j is:21:,result is:4,set is:{9, 107, 21, 110}
+i is:9,j is:23:,result is:4,set is:{9, 107, 110, 23}
+i is:9,j is:24:,result is:4,set is:{24, 9, 107, 110}
+i is:9,j is:25:,result is:6,set is:{71, 9, 107, 110, 25, 30}
+i is:9,j is:27:,result is:5,set is:{9, 41, 27, 107, 110}
+i is:9,j is:28:,result is:4,set is:{9, 107, 28, 110}
+i is:9,j is:29:,result is:4,set is:{9, 107, 29, 110}
+i is:9,j is:31:,result is:4,set is:{9, 107, 110, 31}
+i is:9,j is:32:,result is:4,set is:{32, 9, 107, 110}
+i is:9,j is:33:,result is:6,set is:{33, 37, 9, 107, 110, 63}
+i is:9,j is:34:,result is:5,set is:{9, 34, 107, 46, 110}
+i is:9,j is:35:,result is:5,set is:{96, 9, 35, 107, 110}
+i is:9,j is:36:,result is:4,set is:{9, 107, 36, 110}
+i is:9,j is:39:,result is:4,set is:{9, 107, 110, 39}
+i is:9,j is:42:,result is:4,set is:{9, 42, 107, 110}
+i is:9,j is:43:,result is:4,set is:{9, 43, 107, 110}
+i is:9,j is:45:,result is:5,set is:{9, 66, 107, 45, 110}
+i is:9,j is:48:,result is:4,set is:{48, 9, 107, 110}
+i is:9,j is:50:,result is:4,set is:{9, 50, 107, 110}
+i is:9,j is:52:,result is:4,set is:{9, 107, 52, 110}
+i is:9,j is:54:,result is:4,set is:{9, 107, 54, 110}
+i is:9,j is:56:,result is:4,set is:{56, 9, 107, 110}
+i is:9,j is:57:,result is:4,set is:{9, 57, 107, 110}
+i is:9,j is:58:,result is:4,set is:{9, 58, 107, 110}
+i is:9,j is:60:,result is:4,set is:{9, 107, 60, 110}
+i is:9,j is:61:,result is:4,set is:{9, 107, 61, 110}
+i is:9,j is:62:,result is:4,set is:{9, 107, 62, 110}
+i is:9,j is:64:,result is:4,set is:{64, 9, 107, 110}
+i is:9,j is:65:,result is:4,set is:{9, 65, 107, 110}
+i is:9,j is:67:,result is:5,set is:{9, 74, 67, 107, 110}
+i is:9,j is:70:,result is:5,set is:{9, 97, 107, 70, 110}
+i is:9,j is:75:,result is:4,set is:{9, 75, 107, 110}
+i is:9,j is:76:,result is:4,set is:{9, 107, 76, 110}
+i is:9,j is:79:,result is:4,set is:{9, 107, 110, 79}
+i is:9,j is:80:,result is:4,set is:{80, 9, 107, 110}
+i is:9,j is:83:,result is:4,set is:{9, 83, 107, 110}
+i is:9,j is:84:,result is:4,set is:{9, 107, 84, 110}
+i is:9,j is:85:,result is:4,set is:{9, 107, 85, 110}
+i is:9,j is:86:,result is:4,set is:{9, 107, 86, 110}
+i is:9,j is:87:,result is:4,set is:{9, 107, 110, 87}
+i is:9,j is:88:,result is:4,set is:{88, 9, 107, 110}
+i is:9,j is:91:,result is:4,set is:{9, 91, 107, 110}
+i is:9,j is:94:,result is:4,set is:{9, 107, 94, 110}
+i is:9,j is:95:,result is:4,set is:{9, 107, 110, 95}
+i is:9,j is:98:,result is:4,set is:{9, 98, 107, 110}
+i is:9,j is:99:,result is:4,set is:{9, 99, 107, 110}
+i is:9,j is:100:,result is:4,set is:{9, 107, 100, 110}
+i is:9,j is:102:,result is:4,set is:{9, 107, 102, 110}
+i is:9,j is:103:,result is:4,set is:{9, 107, 110, 103}
+i is:9,j is:104:,result is:4,set is:{104, 9, 107, 110}
+i is:9,j is:105:,result is:4,set is:{9, 105, 107, 110}
+i is:9,j is:111:,result is:2,set is:{9, 111}
+i is:10,j is:11:,result is:4,set is:{10, 11, 51, 82}
+i is:10,j is:12:,result is:2,set is:{10, 12}
+i is:10,j is:13:,result is:2,set is:{10, 13}
+i is:10,j is:14:,result is:4,set is:{10, 106, 92, 14}
+i is:10,j is:15:,result is:2,set is:{10, 15}
+i is:10,j is:16:,result is:2,set is:{16, 10}
+i is:10,j is:17:,result is:3,set is:{17, 10, 101}
+i is:10,j is:18:,result is:4,set is:{10, 18, 108, 77}
+i is:10,j is:19:,result is:3,set is:{10, 19, 47}
+i is:10,j is:20:,result is:2,set is:{10, 20}
+i is:10,j is:21:,result is:2,set is:{10, 21}
+i is:10,j is:22:,result is:2,set is:{10, 22}
+i is:10,j is:23:,result is:2,set is:{10, 23}
+i is:10,j is:24:,result is:2,set is:{24, 10}
+i is:10,j is:25:,result is:4,set is:{25, 10, 30, 71}
+i is:10,j is:27:,result is:3,set is:{41, 10, 27}
+i is:10,j is:28:,result is:2,set is:{10, 28}
+i is:10,j is:29:,result is:2,set is:{10, 29}
+i is:10,j is:31:,result is:2,set is:{10, 31}
+i is:10,j is:34:,result is:3,set is:{10, 34, 46}
+i is:10,j is:35:,result is:3,set is:{96, 10, 35}
+i is:10,j is:36:,result is:2,set is:{10, 36}
+i is:10,j is:39:,result is:2,set is:{10, 39}
+i is:10,j is:40:,result is:2,set is:{40, 10}
+i is:10,j is:42:,result is:2,set is:{10, 42}
+i is:10,j is:43:,result is:2,set is:{10, 43}
+i is:10,j is:44:,result is:2,set is:{10, 44}
+i is:10,j is:48:,result is:2,set is:{48, 10}
+i is:10,j is:49:,result is:4,set is:{49, 10, 90, 109}
+i is:10,j is:50:,result is:2,set is:{10, 50}
+i is:10,j is:52:,result is:2,set is:{10, 52}
+i is:10,j is:55:,result is:3,set is:{10, 59, 55}
+i is:10,j is:56:,result is:2,set is:{56, 10}
+i is:10,j is:57:,result is:2,set is:{57, 10}
+i is:10,j is:58:,result is:2,set is:{10, 58}
+i is:10,j is:60:,result is:2,set is:{10, 60}
+i is:10,j is:61:,result is:2,set is:{10, 61}
+i is:10,j is:62:,result is:2,set is:{10, 62}
+i is:10,j is:64:,result is:2,set is:{64, 10}
+i is:10,j is:67:,result is:3,set is:{10, 67, 74}
+i is:10,j is:70:,result is:3,set is:{97, 10, 70}
+i is:10,j is:76:,result is:2,set is:{10, 76}
+i is:10,j is:78:,result is:2,set is:{10, 78}
+i is:10,j is:80:,result is:2,set is:{80, 10}
+i is:10,j is:81:,result is:2,set is:{81, 10}
+i is:10,j is:83:,result is:2,set is:{10, 83}
+i is:10,j is:84:,result is:2,set is:{10, 84}
+i is:10,j is:85:,result is:2,set is:{10, 85}
+i is:10,j is:86:,result is:2,set is:{10, 86}
+i is:10,j is:87:,result is:2,set is:{10, 87}
+i is:10,j is:88:,result is:2,set is:{88, 10}
+i is:10,j is:89:,result is:2,set is:{89, 10}
+i is:10,j is:95:,result is:2,set is:{10, 95}
+i is:10,j is:98:,result is:2,set is:{10, 98}
+i is:10,j is:99:,result is:2,set is:{10, 99}
+i is:10,j is:100:,result is:2,set is:{10, 100}
+i is:10,j is:102:,result is:2,set is:{10, 102}
+i is:10,j is:103:,result is:2,set is:{10, 103}
+i is:10,j is:104:,result is:2,set is:{104, 10}
+i is:10,j is:105:,result is:2,set is:{105, 10}
+i is:11,j is:12:,result is:4,set is:{82, 11, 12, 51}
+i is:11,j is:13:,result is:4,set is:{82, 11, 51, 13}
+i is:11,j is:14:,result is:6,set is:{106, 11, 14, 82, 51, 92}
+i is:11,j is:15:,result is:4,set is:{82, 11, 51, 15}
+i is:11,j is:16:,result is:4,set is:{16, 82, 11, 51}
+i is:11,j is:17:,result is:5,set is:{17, 82, 11, 51, 101}
+i is:11,j is:18:,result is:6,set is:{11, 108, 77, 18, 51, 82}
+i is:11,j is:19:,result is:5,set is:{82, 11, 19, 51, 47}
+i is:11,j is:20:,result is:4,set is:{82, 11, 20, 51}
+i is:11,j is:21:,result is:4,set is:{82, 11, 51, 21}
+i is:11,j is:22:,result is:4,set is:{82, 11, 51, 22}
+i is:11,j is:23:,result is:4,set is:{82, 11, 51, 23}
+i is:11,j is:24:,result is:4,set is:{24, 82, 11, 51}
+i is:11,j is:25:,result is:6,set is:{71, 11, 82, 51, 25, 30}
+i is:11,j is:27:,result is:5,set is:{41, 82, 11, 27, 51}
+i is:11,j is:28:,result is:4,set is:{82, 11, 28, 51}
+i is:11,j is:29:,result is:4,set is:{82, 11, 51, 29}
+i is:11,j is:31:,result is:4,set is:{82, 11, 51, 31}
+i is:11,j is:32:,result is:4,set is:{32, 82, 11, 51}
+i is:11,j is:33:,result is:6,set is:{33, 37, 11, 82, 51, 63}
+i is:11,j is:34:,result is:5,set is:{34, 11, 51, 82, 46}
+i is:11,j is:39:,result is:4,set is:{82, 11, 51, 39}
+i is:11,j is:40:,result is:4,set is:{40, 82, 11, 51}
+i is:11,j is:42:,result is:4,set is:{42, 11, 51, 82}
+i is:11,j is:44:,result is:4,set is:{82, 11, 44, 51}
+i is:11,j is:45:,result is:5,set is:{66, 11, 51, 45, 82}
+i is:11,j is:49:,result is:6,set is:{11, 109, 49, 82, 51, 90}
+i is:11,j is:50:,result is:4,set is:{50, 11, 51, 82}
+i is:11,j is:54:,result is:3,set is:{82, 11, 54}
+i is:11,j is:55:,result is:4,set is:{82, 11, 59, 55}
+i is:11,j is:56:,result is:3,set is:{56, 82, 11}
+i is:11,j is:57:,result is:3,set is:{57, 82, 11}
+i is:11,j is:58:,result is:3,set is:{58, 11, 82}
+i is:11,j is:60:,result is:3,set is:{82, 11, 60}
+i is:11,j is:61:,result is:3,set is:{82, 11, 61}
+i is:11,j is:62:,result is:3,set is:{82, 11, 62}
+i is:11,j is:64:,result is:3,set is:{64, 82, 11}
+i is:11,j is:65:,result is:3,set is:{65, 82, 11}
+i is:11,j is:70:,result is:4,set is:{97, 82, 11, 70}
+i is:11,j is:75:,result is:3,set is:{82, 11, 75}
+i is:11,j is:76:,result is:3,set is:{82, 11, 76}
+i is:11,j is:78:,result is:3,set is:{82, 11, 78}
+i is:11,j is:79:,result is:3,set is:{82, 11, 79}
+i is:11,j is:80:,result is:3,set is:{80, 82, 11}
+i is:11,j is:81:,result is:3,set is:{81, 82, 11}
+i is:11,j is:83:,result is:2,set is:{11, 83}
+i is:11,j is:84:,result is:2,set is:{11, 84}
+i is:11,j is:85:,result is:2,set is:{11, 85}
+i is:11,j is:87:,result is:2,set is:{11, 87}
+i is:11,j is:88:,result is:2,set is:{88, 11}
+i is:11,j is:89:,result is:2,set is:{89, 11}
+i is:11,j is:91:,result is:2,set is:{11, 91}
+i is:11,j is:94:,result is:2,set is:{11, 94}
+i is:11,j is:95:,result is:2,set is:{11, 95}
+i is:11,j is:98:,result is:2,set is:{98, 11}
+i is:11,j is:100:,result is:2,set is:{11, 100}
+i is:11,j is:102:,result is:2,set is:{11, 102}
+i is:11,j is:103:,result is:2,set is:{11, 103}
+i is:11,j is:104:,result is:2,set is:{104, 11}
+i is:11,j is:105:,result is:2,set is:{105, 11}
+i is:11,j is:111:,result is:2,set is:{11, 111}
+i is:12,j is:13:,result is:2,set is:{12, 13}
+i is:12,j is:14:,result is:4,set is:{106, 12, 92, 14}
+i is:12,j is:15:,result is:2,set is:{12, 15}
+i is:12,j is:16:,result is:2,set is:{16, 12}
+i is:12,j is:17:,result is:3,set is:{17, 12, 101}
+i is:12,j is:19:,result is:3,set is:{19, 12, 47}
+i is:12,j is:20:,result is:2,set is:{12, 20}
+i is:12,j is:21:,result is:2,set is:{12, 21}
+i is:12,j is:22:,result is:2,set is:{12, 22}
+i is:12,j is:23:,result is:2,set is:{12, 23}
+i is:12,j is:24:,result is:2,set is:{24, 12}
+i is:12,j is:25:,result is:4,set is:{25, 12, 30, 71}
+i is:12,j is:27:,result is:3,set is:{41, 27, 12}
+i is:12,j is:28:,result is:2,set is:{12, 28}
+i is:12,j is:31:,result is:2,set is:{12, 31}
+i is:12,j is:32:,result is:2,set is:{32, 12}
+i is:12,j is:33:,result is:4,set is:{33, 12, 37, 63}
+i is:12,j is:34:,result is:3,set is:{34, 12, 46}
+i is:12,j is:35:,result is:3,set is:{96, 35, 12}
+i is:12,j is:36:,result is:2,set is:{12, 36}
+i is:12,j is:39:,result is:2,set is:{12, 39}
+i is:12,j is:40:,result is:2,set is:{40, 12}
+i is:12,j is:42:,result is:2,set is:{42, 12}
+i is:12,j is:43:,result is:2,set is:{43, 12}
+i is:12,j is:44:,result is:2,set is:{12, 44}
+i is:12,j is:45:,result is:3,set is:{66, 12, 45}
+i is:12,j is:48:,result is:2,set is:{48, 12}
+i is:12,j is:49:,result is:4,set is:{49, 90, 12, 109}
+i is:12,j is:50:,result is:2,set is:{50, 12}
+i is:12,j is:52:,result is:2,set is:{12, 52}
+i is:12,j is:54:,result is:2,set is:{12, 54}
+i is:12,j is:55:,result is:3,set is:{59, 12, 55}
+i is:12,j is:57:,result is:2,set is:{57, 12}
+i is:12,j is:58:,result is:2,set is:{58, 12}
+i is:12,j is:61:,result is:2,set is:{12, 61}
+i is:12,j is:62:,result is:2,set is:{12, 62}
+i is:12,j is:64:,result is:2,set is:{64, 12}
+i is:12,j is:65:,result is:2,set is:{65, 12}
+i is:12,j is:67:,result is:3,set is:{74, 67, 12}
+i is:12,j is:75:,result is:2,set is:{75, 12}
+i is:12,j is:76:,result is:2,set is:{12, 76}
+i is:12,j is:78:,result is:2,set is:{12, 78}
+i is:12,j is:79:,result is:2,set is:{12, 79}
+i is:12,j is:80:,result is:2,set is:{80, 12}
+i is:12,j is:81:,result is:2,set is:{81, 12}
+i is:12,j is:83:,result is:2,set is:{83, 12}
+i is:12,j is:84:,result is:2,set is:{12, 84}
+i is:12,j is:85:,result is:2,set is:{12, 85}
+i is:12,j is:86:,result is:2,set is:{12, 86}
+i is:12,j is:89:,result is:2,set is:{89, 12}
+i is:12,j is:91:,result is:2,set is:{91, 12}
+i is:12,j is:94:,result is:2,set is:{12, 94}
+i is:12,j is:98:,result is:2,set is:{98, 12}
+i is:12,j is:99:,result is:2,set is:{99, 12}
+i is:12,j is:100:,result is:2,set is:{12, 100}
+i is:12,j is:102:,result is:2,set is:{12, 102}
+i is:12,j is:104:,result is:2,set is:{104, 12}
+i is:12,j is:111:,result is:2,set is:{12, 111}
+i is:13,j is:15:,result is:2,set is:{13, 15}
+i is:13,j is:18:,result is:4,set is:{18, 108, 13, 77}
+i is:13,j is:19:,result is:3,set is:{19, 13, 47}
+i is:13,j is:20:,result is:2,set is:{20, 13}
+i is:13,j is:21:,result is:2,set is:{13, 21}
+i is:13,j is:23:,result is:2,set is:{13, 23}
+i is:13,j is:24:,result is:2,set is:{24, 13}
+i is:13,j is:25:,result is:4,set is:{25, 13, 30, 71}
+i is:13,j is:27:,result is:3,set is:{41, 27, 13}
+i is:13,j is:28:,result is:2,set is:{28, 13}
+i is:13,j is:29:,result is:2,set is:{13, 29}
+i is:13,j is:31:,result is:2,set is:{13, 31}
+i is:13,j is:32:,result is:2,set is:{32, 13}
+i is:13,j is:33:,result is:4,set is:{33, 13, 37, 63}
+i is:13,j is:34:,result is:3,set is:{34, 13, 46}
+i is:13,j is:35:,result is:3,set is:{96, 35, 13}
+i is:13,j is:36:,result is:2,set is:{36, 13}
+i is:13,j is:39:,result is:2,set is:{13, 39}
+i is:13,j is:42:,result is:2,set is:{42, 13}
+i is:13,j is:43:,result is:2,set is:{43, 13}
+i is:13,j is:45:,result is:3,set is:{66, 13, 45}
+i is:13,j is:48:,result is:2,set is:{48, 13}
+i is:13,j is:50:,result is:2,set is:{50, 13}
+i is:13,j is:52:,result is:2,set is:{52, 13}
+i is:13,j is:54:,result is:2,set is:{13, 54}
+i is:13,j is:56:,result is:2,set is:{56, 13}
+i is:13,j is:57:,result is:2,set is:{57, 13}
+i is:13,j is:58:,result is:2,set is:{58, 13}
+i is:13,j is:60:,result is:2,set is:{60, 13}
+i is:13,j is:61:,result is:2,set is:{13, 61}
+i is:13,j is:62:,result is:2,set is:{13, 62}
+i is:13,j is:64:,result is:3,set is:{64, 105, 13}
+i is:13,j is:65:,result is:2,set is:{65, 13}
+i is:13,j is:67:,result is:3,set is:{74, 67, 13}
+i is:13,j is:70:,result is:3,set is:{97, 13, 70}
+i is:13,j is:75:,result is:2,set is:{75, 13}
+i is:13,j is:76:,result is:2,set is:{76, 13}
+i is:13,j is:79:,result is:2,set is:{13, 79}
+i is:13,j is:80:,result is:2,set is:{80, 13}
+i is:13,j is:83:,result is:2,set is:{83, 13}
+i is:13,j is:84:,result is:2,set is:{84, 13}
+i is:13,j is:85:,result is:2,set is:{13, 85}
+i is:13,j is:86:,result is:2,set is:{13, 86}
+i is:13,j is:87:,result is:2,set is:{13, 87}
+i is:13,j is:88:,result is:2,set is:{88, 13}
+i is:13,j is:91:,result is:2,set is:{91, 13}
+i is:13,j is:94:,result is:2,set is:{13, 94}
+i is:13,j is:95:,result is:2,set is:{13, 95}
+i is:13,j is:98:,result is:2,set is:{98, 13}
+i is:13,j is:99:,result is:2,set is:{99, 13}
+i is:13,j is:100:,result is:2,set is:{100, 13}
+i is:13,j is:102:,result is:2,set is:{13, 102}
+i is:13,j is:103:,result is:2,set is:{13, 103}
+i is:13,j is:104:,result is:2,set is:{104, 13}
+i is:13,j is:111:,result is:2,set is:{13, 111}
+i is:14,j is:15:,result is:4,set is:{106, 92, 14, 15}
+i is:14,j is:16:,result is:19,set is:{101, 40, 106, 107, 44, 109, 14, 78, 16, 17, 49, 81, 110, 22, 55, 89, 90, 59, 92}
+i is:14,j is:18:,result is:6,set is:{106, 108, 77, 14, 18, 92}
+i is:14,j is:19:,result is:5,set is:{106, 19, 92, 14, 47}
+i is:14,j is:20:,result is:4,set is:{106, 20, 92, 14}
+i is:14,j is:21:,result is:4,set is:{106, 92, 21, 14}
+i is:14,j is:23:,result is:4,set is:{106, 92, 14, 23}
+i is:14,j is:24:,result is:4,set is:{24, 106, 92, 14}
+i is:14,j is:25:,result is:6,set is:{71, 106, 14, 25, 92, 30}
+i is:14,j is:27:,result is:5,set is:{41, 106, 27, 92, 14}
+i is:14,j is:28:,result is:4,set is:{106, 28, 92, 14}
+i is:14,j is:29:,result is:4,set is:{106, 92, 29, 14}
+i is:14,j is:31:,result is:4,set is:{106, 92, 14, 31}
+i is:14,j is:32:,result is:4,set is:{32, 106, 92, 14}
+i is:14,j is:33:,result is:6,set is:{33, 37, 106, 14, 92, 63}
+i is:14,j is:34:,result is:5,set is:{34, 106, 92, 14, 46}
+i is:14,j is:35:,result is:5,set is:{96, 106, 35, 92, 14}
+i is:14,j is:36:,result is:4,set is:{106, 36, 92, 14}
+i is:14,j is:39:,result is:4,set is:{106, 92, 14, 39}
+i is:14,j is:42:,result is:4,set is:{42, 106, 92, 14}
+i is:14,j is:43:,result is:4,set is:{106, 43, 92, 14}
+i is:14,j is:45:,result is:5,set is:{66, 106, 92, 45, 14}
+i is:14,j is:48:,result is:4,set is:{48, 106, 92, 14}
+i is:14,j is:50:,result is:4,set is:{50, 106, 92, 14}
+i is:14,j is:52:,result is:4,set is:{106, 52, 92, 14}
+i is:14,j is:54:,result is:4,set is:{106, 92, 14, 54}
+i is:14,j is:56:,result is:4,set is:{56, 106, 92, 14}
+i is:14,j is:57:,result is:4,set is:{57, 106, 92, 14}
+i is:14,j is:58:,result is:4,set is:{58, 106, 92, 14}
+i is:14,j is:60:,result is:4,set is:{106, 60, 92, 14}
+i is:14,j is:61:,result is:4,set is:{106, 92, 61, 14}
+i is:14,j is:62:,result is:4,set is:{106, 92, 14, 62}
+i is:14,j is:64:,result is:4,set is:{64, 106, 92, 14}
+i is:14,j is:65:,result is:4,set is:{65, 106, 92, 14}
+i is:14,j is:67:,result is:5,set is:{74, 67, 92, 106, 14}
+i is:14,j is:70:,result is:5,set is:{97, 106, 92, 14, 70}
+i is:14,j is:75:,result is:4,set is:{106, 75, 92, 14}
+i is:14,j is:76:,result is:4,set is:{106, 76, 92, 14}
+i is:14,j is:79:,result is:4,set is:{106, 92, 14, 79}
+i is:14,j is:80:,result is:4,set is:{80, 106, 92, 14}
+i is:14,j is:83:,result is:4,set is:{106, 83, 92, 14}
+i is:14,j is:84:,result is:4,set is:{106, 84, 92, 14}
+i is:14,j is:85:,result is:4,set is:{106, 92, 85, 14}
+i is:14,j is:86:,result is:4,set is:{106, 92, 14, 86}
+i is:14,j is:87:,result is:4,set is:{106, 92, 14, 87}
+i is:14,j is:88:,result is:4,set is:{88, 106, 92, 14}
+i is:14,j is:91:,result is:4,set is:{106, 91, 92, 14}
+i is:14,j is:94:,result is:3,set is:{106, 14, 94}
+i is:14,j is:95:,result is:3,set is:{106, 14, 95}
+i is:14,j is:98:,result is:3,set is:{98, 106, 14}
+i is:14,j is:99:,result is:3,set is:{106, 99, 14}
+i is:14,j is:100:,result is:3,set is:{106, 100, 14}
+i is:14,j is:102:,result is:3,set is:{106, 14, 102}
+i is:14,j is:103:,result is:3,set is:{106, 14, 103}
+i is:14,j is:104:,result is:3,set is:{104, 106, 14}
+i is:14,j is:105:,result is:3,set is:{105, 106, 14}
+i is:14,j is:111:,result is:2,set is:{14, 111}
+i is:15,j is:16:,result is:2,set is:{16, 15}
+i is:15,j is:17:,result is:3,set is:{17, 101, 15}
+i is:15,j is:18:,result is:4,set is:{18, 108, 77, 15}
+i is:15,j is:19:,result is:3,set is:{47, 19, 15}
+i is:15,j is:20:,result is:2,set is:{20, 15}
+i is:15,j is:21:,result is:2,set is:{21, 15}
+i is:15,j is:22:,result is:2,set is:{22, 15}
+i is:15,j is:23:,result is:2,set is:{23, 15}
+i is:15,j is:24:,result is:2,set is:{24, 15}
+i is:15,j is:25:,result is:4,set is:{71, 25, 30, 15}
+i is:15,j is:27:,result is:3,set is:{41, 27, 15}
+i is:15,j is:28:,result is:2,set is:{28, 15}
+i is:15,j is:29:,result is:2,set is:{29, 15}
+i is:15,j is:31:,result is:2,set is:{31, 15}
+i is:15,j is:32:,result is:2,set is:{32, 15}
+i is:15,j is:33:,result is:4,set is:{63, 33, 37, 15}
+i is:15,j is:34:,result is:3,set is:{34, 46, 15}
+i is:15,j is:35:,result is:3,set is:{96, 35, 15}
+i is:15,j is:36:,result is:2,set is:{36, 15}
+i is:15,j is:39:,result is:2,set is:{39, 15}
+i is:15,j is:40:,result is:2,set is:{40, 15}
+i is:15,j is:42:,result is:2,set is:{42, 15}
+i is:15,j is:43:,result is:2,set is:{43, 15}
+i is:15,j is:44:,result is:2,set is:{44, 15}
+i is:15,j is:45:,result is:3,set is:{66, 45, 15}
+i is:15,j is:48:,result is:2,set is:{48, 15}
+i is:15,j is:49:,result is:4,set is:{49, 90, 109, 15}
+i is:15,j is:50:,result is:5,set is:{57, 50, 58, 102, 15}
+i is:15,j is:52:,result is:2,set is:{52, 15}
+i is:15,j is:54:,result is:2,set is:{54, 15}
+i is:15,j is:55:,result is:3,set is:{55, 59, 15}
+i is:15,j is:56:,result is:2,set is:{56, 15}
+i is:15,j is:60:,result is:2,set is:{60, 15}
+i is:15,j is:61:,result is:2,set is:{61, 15}
+i is:15,j is:62:,result is:2,set is:{62, 15}
+i is:15,j is:64:,result is:2,set is:{64, 15}
+i is:15,j is:65:,result is:2,set is:{65, 15}
+i is:15,j is:67:,result is:3,set is:{74, 67, 15}
+i is:15,j is:70:,result is:3,set is:{97, 70, 15}
+i is:15,j is:75:,result is:2,set is:{75, 15}
+i is:15,j is:76:,result is:2,set is:{76, 15}
+i is:15,j is:78:,result is:2,set is:{78, 15}
+i is:15,j is:79:,result is:2,set is:{79, 15}
+i is:15,j is:80:,result is:2,set is:{80, 15}
+i is:15,j is:81:,result is:2,set is:{81, 15}
+i is:15,j is:83:,result is:2,set is:{83, 15}
+i is:15,j is:84:,result is:2,set is:{84, 15}
+i is:15,j is:85:,result is:2,set is:{85, 15}
+i is:15,j is:86:,result is:2,set is:{86, 15}
+i is:15,j is:87:,result is:2,set is:{87, 15}
+i is:15,j is:88:,result is:2,set is:{88, 15}
+i is:15,j is:89:,result is:2,set is:{89, 15}
+i is:15,j is:91:,result is:2,set is:{91, 15}
+i is:15,j is:94:,result is:2,set is:{94, 15}
+i is:15,j is:95:,result is:2,set is:{95, 15}
+i is:15,j is:98:,result is:2,set is:{98, 15}
+i is:15,j is:99:,result is:2,set is:{99, 15}
+i is:15,j is:100:,result is:2,set is:{100, 15}
+i is:15,j is:103:,result is:2,set is:{103, 15}
+i is:15,j is:104:,result is:2,set is:{104, 15}
+i is:15,j is:105:,result is:2,set is:{105, 15}
+i is:15,j is:111:,result is:2,set is:{111, 15}
+i is:16,j is:18:,result is:4,set is:{16, 18, 108, 77}
+i is:16,j is:19:,result is:3,set is:{16, 19, 47}
+i is:16,j is:20:,result is:3,set is:{16, 20, 31}
+i is:16,j is:21:,result is:2,set is:{16, 21}
+i is:16,j is:23:,result is:2,set is:{16, 23}
+i is:16,j is:24:,result is:2,set is:{16, 24}
+i is:16,j is:25:,result is:4,set is:{16, 25, 30, 71}
+i is:16,j is:27:,result is:3,set is:{16, 41, 27}
+i is:16,j is:28:,result is:2,set is:{16, 28}
+i is:16,j is:29:,result is:2,set is:{16, 29}
+i is:16,j is:32:,result is:2,set is:{16, 32}
+i is:16,j is:33:,result is:4,set is:{16, 33, 37, 63}
+i is:16,j is:34:,result is:3,set is:{16, 34, 46}
+i is:16,j is:35:,result is:3,set is:{16, 96, 35}
+i is:16,j is:36:,result is:2,set is:{16, 36}
+i is:16,j is:39:,result is:2,set is:{16, 39}
+i is:16,j is:42:,result is:2,set is:{16, 42}
+i is:16,j is:43:,result is:2,set is:{16, 43}
+i is:16,j is:45:,result is:3,set is:{16, 66, 45}
+i is:16,j is:48:,result is:2,set is:{16, 48}
+i is:16,j is:50:,result is:2,set is:{16, 50}
+i is:16,j is:52:,result is:2,set is:{16, 52}
+i is:16,j is:54:,result is:2,set is:{16, 54}
+i is:16,j is:56:,result is:2,set is:{16, 56}
+i is:16,j is:57:,result is:2,set is:{16, 57}
+i is:16,j is:58:,result is:2,set is:{16, 58}
+i is:16,j is:60:,result is:2,set is:{16, 60}
+i is:16,j is:61:,result is:2,set is:{16, 61}
+i is:16,j is:62:,result is:2,set is:{16, 62}
+i is:16,j is:64:,result is:2,set is:{16, 64}
+i is:16,j is:65:,result is:2,set is:{16, 65}
+i is:16,j is:67:,result is:3,set is:{16, 74, 67}
+i is:16,j is:70:,result is:3,set is:{16, 97, 70}
+i is:16,j is:75:,result is:2,set is:{16, 75}
+i is:16,j is:76:,result is:2,set is:{16, 76}
+i is:16,j is:79:,result is:2,set is:{16, 79}
+i is:16,j is:80:,result is:2,set is:{16, 80}
+i is:16,j is:83:,result is:2,set is:{16, 83}
+i is:16,j is:84:,result is:2,set is:{16, 84}
+i is:16,j is:85:,result is:2,set is:{16, 85}
+i is:16,j is:86:,result is:2,set is:{16, 86}
+i is:16,j is:87:,result is:2,set is:{16, 87}
+i is:16,j is:88:,result is:2,set is:{16, 88}
+i is:16,j is:91:,result is:2,set is:{16, 91}
+i is:16,j is:94:,result is:2,set is:{16, 94}
+i is:16,j is:95:,result is:2,set is:{16, 95}
+i is:16,j is:98:,result is:2,set is:{16, 98}
+i is:16,j is:99:,result is:2,set is:{16, 99}
+i is:16,j is:100:,result is:2,set is:{16, 100}
+i is:16,j is:102:,result is:2,set is:{16, 102}
+i is:16,j is:103:,result is:2,set is:{16, 103}
+i is:16,j is:104:,result is:2,set is:{16, 104}
+i is:16,j is:105:,result is:2,set is:{16, 105}
+i is:16,j is:111:,result is:2,set is:{16, 111}
+i is:17,j is:18:,result is:5,set is:{17, 18, 108, 77, 101}
+i is:17,j is:19:,result is:4,set is:{17, 19, 101, 47}
+i is:17,j is:20:,result is:3,set is:{17, 20, 101}
+i is:17,j is:21:,result is:3,set is:{17, 21, 101}
+i is:17,j is:22:,result is:17,set is:{101, 40, 106, 107, 44, 109, 78, 110, 17, 49, 81, 22, 55, 89, 90, 59, 92}
+i is:17,j is:23:,result is:3,set is:{17, 101, 23}
+i is:17,j is:24:,result is:3,set is:{24, 17, 101}
+i is:17,j is:25:,result is:5,set is:{17, 25, 101, 30, 71}
+i is:17,j is:27:,result is:4,set is:{17, 41, 27, 101}
+i is:17,j is:28:,result is:3,set is:{17, 28, 101}
+i is:17,j is:29:,result is:3,set is:{17, 29, 101}
+i is:17,j is:31:,result is:3,set is:{17, 101, 31}
+i is:17,j is:32:,result is:3,set is:{32, 17, 101}
+i is:17,j is:33:,result is:5,set is:{17, 33, 37, 101, 63}
+i is:17,j is:34:,result is:4,set is:{17, 34, 101, 46}
+i is:17,j is:35:,result is:4,set is:{96, 17, 35, 101}
+i is:17,j is:36:,result is:3,set is:{17, 36, 101}
+i is:17,j is:39:,result is:3,set is:{17, 101, 39}
+i is:17,j is:42:,result is:3,set is:{17, 42, 101}
+i is:17,j is:43:,result is:3,set is:{17, 43, 101}
+i is:17,j is:45:,result is:4,set is:{17, 66, 45, 101}
+i is:17,j is:48:,result is:3,set is:{48, 17, 101}
+i is:17,j is:50:,result is:3,set is:{17, 50, 101}
+i is:17,j is:52:,result is:3,set is:{17, 52, 101}
+i is:17,j is:54:,result is:3,set is:{17, 101, 54}
+i is:17,j is:56:,result is:3,set is:{56, 17, 101}
+i is:17,j is:57:,result is:3,set is:{17, 57, 101}
+i is:17,j is:58:,result is:3,set is:{17, 58, 101}
+i is:17,j is:60:,result is:3,set is:{17, 60, 101}
+i is:17,j is:61:,result is:3,set is:{17, 61, 101}
+i is:17,j is:62:,result is:3,set is:{17, 101, 62}
+i is:17,j is:64:,result is:3,set is:{64, 17, 101}
+i is:17,j is:65:,result is:3,set is:{17, 65, 101}
+i is:17,j is:67:,result is:4,set is:{17, 74, 67, 101}
+i is:17,j is:70:,result is:4,set is:{17, 97, 101, 70}
+i is:17,j is:75:,result is:3,set is:{17, 75, 101}
+i is:17,j is:76:,result is:3,set is:{17, 76, 101}
+i is:17,j is:79:,result is:3,set is:{17, 101, 79}
+i is:17,j is:80:,result is:3,set is:{80, 17, 101}
+i is:17,j is:83:,result is:3,set is:{17, 83, 101}
+i is:17,j is:84:,result is:3,set is:{17, 84, 101}
+i is:17,j is:85:,result is:3,set is:{17, 85, 101}
+i is:17,j is:86:,result is:3,set is:{17, 101, 86}
+i is:17,j is:87:,result is:3,set is:{17, 101, 87}
+i is:17,j is:88:,result is:3,set is:{88, 17, 101}
+i is:17,j is:91:,result is:3,set is:{17, 91, 101}
+i is:17,j is:94:,result is:3,set is:{17, 101, 94}
+i is:17,j is:95:,result is:3,set is:{17, 101, 95}
+i is:17,j is:98:,result is:3,set is:{17, 98, 101}
+i is:17,j is:99:,result is:3,set is:{17, 99, 101}
+i is:17,j is:100:,result is:3,set is:{17, 100, 101}
+i is:17,j is:102:,result is:2,set is:{17, 102}
+i is:17,j is:103:,result is:2,set is:{17, 103}
+i is:17,j is:104:,result is:2,set is:{104, 17}
+i is:17,j is:105:,result is:2,set is:{17, 105}
+i is:17,j is:111:,result is:2,set is:{17, 111}
+i is:18,j is:19:,result is:5,set is:{18, 19, 108, 77, 47}
+i is:18,j is:20:,result is:4,set is:{18, 20, 77, 108}
+i is:18,j is:21:,result is:4,set is:{18, 108, 21, 77}
+i is:18,j is:22:,result is:4,set is:{18, 108, 77, 22}
+i is:18,j is:23:,result is:4,set is:{18, 108, 77, 23}
+i is:18,j is:24:,result is:4,set is:{24, 18, 108, 77}
+i is:18,j is:25:,result is:6,set is:{71, 108, 77, 18, 25, 30}
+i is:18,j is:27:,result is:5,set is:{41, 18, 27, 108, 77}
+i is:18,j is:28:,result is:4,set is:{18, 28, 77, 108}
+i is:18,j is:29:,result is:16,set is:{97, 68, 70, 103, 72, 105, 108, 77, 18, 53, 87, 56, 88, 60, 29, 95}
+i is:18,j is:31:,result is:4,set is:{18, 108, 77, 31}
+i is:18,j is:32:,result is:4,set is:{32, 18, 108, 77}
+i is:18,j is:33:,result is:6,set is:{33, 37, 108, 77, 18, 63}
+i is:18,j is:34:,result is:5,set is:{18, 34, 108, 77, 46}
+i is:18,j is:35:,result is:5,set is:{96, 18, 35, 108, 77}
+i is:18,j is:36:,result is:4,set is:{18, 36, 77, 108}
+i is:18,j is:39:,result is:4,set is:{18, 108, 77, 39}
+i is:18,j is:40:,result is:4,set is:{40, 18, 108, 77}
+i is:18,j is:42:,result is:4,set is:{18, 42, 108, 77}
+i is:18,j is:43:,result is:4,set is:{18, 43, 108, 77}
+i is:18,j is:44:,result is:4,set is:{18, 44, 77, 108}
+i is:18,j is:45:,result is:5,set is:{18, 66, 108, 45, 77}
+i is:18,j is:48:,result is:4,set is:{48, 18, 108, 77}
+i is:18,j is:49:,result is:6,set is:{108, 77, 109, 49, 18, 90}
+i is:18,j is:50:,result is:4,set is:{18, 50, 108, 77}
+i is:18,j is:52:,result is:4,set is:{18, 52, 77, 108}
+i is:18,j is:54:,result is:4,set is:{18, 108, 77, 54}
+i is:18,j is:55:,result is:5,set is:{18, 59, 108, 77, 55}
+i is:18,j is:57:,result is:4,set is:{57, 18, 108, 77}
+i is:18,j is:58:,result is:4,set is:{18, 58, 108, 77}
+i is:18,j is:61:,result is:4,set is:{18, 108, 61, 77}
+i is:18,j is:62:,result is:4,set is:{18, 108, 77, 62}
+i is:18,j is:64:,result is:4,set is:{64, 18, 108, 77}
+i is:18,j is:65:,result is:4,set is:{65, 18, 108, 77}
+i is:18,j is:67:,result is:5,set is:{18, 67, 74, 77, 108}
+i is:18,j is:75:,result is:4,set is:{18, 75, 108, 77}
+i is:18,j is:76:,result is:4,set is:{18, 76, 77, 108}
+i is:18,j is:78:,result is:3,set is:{18, 108, 78}
+i is:18,j is:79:,result is:3,set is:{18, 108, 79}
+i is:18,j is:80:,result is:3,set is:{80, 18, 108}
+i is:18,j is:81:,result is:3,set is:{81, 18, 108}
+i is:18,j is:83:,result is:3,set is:{18, 83, 108}
+i is:18,j is:84:,result is:3,set is:{18, 84, 108}
+i is:18,j is:85:,result is:3,set is:{18, 108, 85}
+i is:18,j is:86:,result is:3,set is:{18, 108, 86}
+i is:18,j is:89:,result is:3,set is:{89, 18, 108}
+i is:18,j is:91:,result is:3,set is:{18, 91, 108}
+i is:18,j is:94:,result is:3,set is:{18, 108, 94}
+i is:18,j is:98:,result is:3,set is:{18, 98, 108}
+i is:18,j is:99:,result is:3,set is:{18, 99, 108}
+i is:18,j is:100:,result is:3,set is:{18, 100, 108}
+i is:18,j is:102:,result is:3,set is:{18, 108, 102}
+i is:18,j is:104:,result is:3,set is:{104, 18, 108}
+i is:18,j is:111:,result is:2,set is:{18, 111}
+i is:19,j is:20:,result is:3,set is:{19, 20, 47}
+i is:19,j is:21:,result is:7,set is:{39, 104, 47, 19, 84, 21, 31}
+i is:19,j is:22:,result is:3,set is:{19, 22, 47}
+i is:19,j is:23:,result is:3,set is:{47, 19, 23}
+i is:19,j is:24:,result is:3,set is:{24, 19, 47}
+i is:19,j is:25:,result is:5,set is:{71, 25, 19, 30, 47}
+i is:19,j is:27:,result is:4,set is:{41, 19, 27, 47}
+i is:19,j is:28:,result is:3,set is:{19, 28, 47}
+i is:19,j is:29:,result is:5,set is:{40, 19, 99, 29, 47}
+i is:19,j is:32:,result is:3,set is:{32, 19, 47}
+i is:19,j is:33:,result is:5,set is:{63, 33, 19, 37, 47}
+i is:19,j is:34:,result is:4,set is:{34, 19, 46, 47}
+i is:19,j is:35:,result is:4,set is:{96, 19, 35, 47}
+i is:19,j is:36:,result is:3,set is:{19, 36, 47}
+i is:19,j is:42:,result is:3,set is:{42, 19, 47}
+i is:19,j is:43:,result is:3,set is:{19, 43, 47}
+i is:19,j is:44:,result is:3,set is:{19, 44, 47}
+i is:19,j is:45:,result is:4,set is:{66, 19, 45, 47}
+i is:19,j is:48:,result is:2,set is:{48, 19}
+i is:19,j is:49:,result is:4,set is:{49, 90, 19, 109}
+i is:19,j is:50:,result is:2,set is:{50, 19}
+i is:19,j is:52:,result is:2,set is:{19, 52}
+i is:19,j is:54:,result is:2,set is:{19, 54}
+i is:19,j is:55:,result is:3,set is:{19, 59, 55}
+i is:19,j is:56:,result is:2,set is:{56, 19}
+i is:19,j is:57:,result is:2,set is:{57, 19}
+i is:19,j is:58:,result is:2,set is:{58, 19}
+i is:19,j is:60:,result is:2,set is:{19, 60}
+i is:19,j is:61:,result is:2,set is:{19, 61}
+i is:19,j is:62:,result is:2,set is:{19, 62}
+i is:19,j is:64:,result is:2,set is:{64, 19}
+i is:19,j is:65:,result is:2,set is:{65, 19}
+i is:19,j is:67:,result is:3,set is:{74, 19, 67}
+i is:19,j is:70:,result is:3,set is:{97, 19, 70}
+i is:19,j is:75:,result is:2,set is:{19, 75}
+i is:19,j is:76:,result is:2,set is:{19, 76}
+i is:19,j is:78:,result is:2,set is:{19, 78}
+i is:19,j is:79:,result is:2,set is:{19, 79}
+i is:19,j is:80:,result is:2,set is:{80, 19}
+i is:19,j is:81:,result is:2,set is:{81, 19}
+i is:19,j is:83:,result is:2,set is:{19, 83}
+i is:19,j is:85:,result is:2,set is:{19, 85}
+i is:19,j is:86:,result is:2,set is:{19, 86}
+i is:19,j is:87:,result is:2,set is:{19, 87}
+i is:19,j is:88:,result is:2,set is:{88, 19}
+i is:19,j is:89:,result is:2,set is:{89, 19}
+i is:19,j is:91:,result is:2,set is:{19, 91}
+i is:19,j is:94:,result is:2,set is:{19, 94}
+i is:19,j is:95:,result is:2,set is:{19, 95}
+i is:19,j is:98:,result is:2,set is:{98, 19}
+i is:19,j is:100:,result is:2,set is:{19, 100}
+i is:19,j is:102:,result is:2,set is:{19, 102}
+i is:19,j is:103:,result is:2,set is:{19, 103}
+i is:19,j is:105:,result is:2,set is:{105, 19}
+i is:19,j is:111:,result is:2,set is:{19, 111}
+i is:20,j is:21:,result is:2,set is:{20, 21}
+i is:20,j is:22:,result is:2,set is:{20, 22}
+i is:20,j is:23:,result is:2,set is:{20, 23}
+i is:20,j is:25:,result is:4,set is:{25, 20, 30, 71}
+i is:20,j is:27:,result is:3,set is:{41, 27, 20}
+i is:20,j is:28:,result is:2,set is:{20, 28}
+i is:20,j is:29:,result is:2,set is:{20, 29}
+i is:20,j is:32:,result is:2,set is:{32, 20}
+i is:20,j is:33:,result is:4,set is:{33, 20, 37, 63}
+i is:20,j is:34:,result is:3,set is:{34, 20, 46}
+i is:20,j is:35:,result is:3,set is:{96, 35, 20}
+i is:20,j is:36:,result is:2,set is:{20, 36}
+i is:20,j is:39:,result is:2,set is:{20, 39}
+i is:20,j is:40:,result is:2,set is:{40, 20}
+i is:20,j is:42:,result is:2,set is:{42, 20}
+i is:20,j is:43:,result is:2,set is:{43, 20}
+i is:20,j is:44:,result is:2,set is:{20, 44}
+i is:20,j is:45:,result is:3,set is:{66, 20, 45}
+i is:20,j is:48:,result is:2,set is:{48, 20}
+i is:20,j is:49:,result is:4,set is:{49, 90, 20, 109}
+i is:20,j is:50:,result is:2,set is:{50, 20}
+i is:20,j is:52:,result is:2,set is:{20, 52}
+i is:20,j is:54:,result is:2,set is:{20, 54}
+i is:20,j is:55:,result is:3,set is:{59, 20, 55}
+i is:20,j is:56:,result is:2,set is:{56, 20}
+i is:20,j is:57:,result is:2,set is:{57, 20}
+i is:20,j is:58:,result is:2,set is:{58, 20}
+i is:20,j is:60:,result is:2,set is:{20, 60}
+i is:20,j is:61:,result is:2,set is:{20, 61}
+i is:20,j is:62:,result is:2,set is:{20, 62}
+i is:20,j is:64:,result is:2,set is:{64, 20}
+i is:20,j is:65:,result is:2,set is:{65, 20}
+i is:20,j is:67:,result is:3,set is:{74, 67, 20}
+i is:20,j is:70:,result is:3,set is:{97, 20, 70}
+i is:20,j is:75:,result is:2,set is:{75, 20}
+i is:20,j is:76:,result is:2,set is:{20, 76}
+i is:20,j is:78:,result is:2,set is:{20, 78}
+i is:20,j is:79:,result is:2,set is:{20, 79}
+i is:20,j is:80:,result is:2,set is:{80, 20}
+i is:20,j is:81:,result is:2,set is:{81, 20}
+i is:20,j is:83:,result is:2,set is:{83, 20}
+i is:20,j is:84:,result is:2,set is:{20, 84}
+i is:20,j is:85:,result is:2,set is:{20, 85}
+i is:20,j is:86:,result is:2,set is:{20, 86}
+i is:20,j is:87:,result is:2,set is:{20, 87}
+i is:20,j is:88:,result is:2,set is:{88, 20}
+i is:20,j is:89:,result is:2,set is:{89, 20}
+i is:20,j is:91:,result is:2,set is:{91, 20}
+i is:20,j is:94:,result is:2,set is:{20, 94}
+i is:20,j is:95:,result is:2,set is:{20, 95}
+i is:20,j is:98:,result is:2,set is:{98, 20}
+i is:20,j is:99:,result is:2,set is:{99, 20}
+i is:20,j is:100:,result is:2,set is:{20, 100}
+i is:20,j is:102:,result is:2,set is:{20, 102}
+i is:20,j is:103:,result is:2,set is:{20, 103}
+i is:20,j is:104:,result is:2,set is:{104, 20}
+i is:20,j is:105:,result is:2,set is:{105, 20}
+i is:20,j is:111:,result is:2,set is:{20, 111}
+i is:21,j is:22:,result is:2,set is:{21, 22}
+i is:21,j is:23:,result is:2,set is:{21, 23}
+i is:21,j is:24:,result is:2,set is:{24, 21}
+i is:21,j is:25:,result is:4,set is:{25, 21, 30, 71}
+i is:21,j is:27:,result is:3,set is:{41, 27, 21}
+i is:21,j is:28:,result is:2,set is:{28, 21}
+i is:21,j is:29:,result is:2,set is:{21, 29}
+i is:21,j is:32:,result is:2,set is:{32, 21}
+i is:21,j is:33:,result is:4,set is:{33, 21, 37, 63}
+i is:21,j is:34:,result is:3,set is:{34, 21, 46}
+i is:21,j is:35:,result is:3,set is:{96, 35, 21}
+i is:21,j is:36:,result is:2,set is:{36, 21}
+i is:21,j is:40:,result is:2,set is:{40, 21}
+i is:21,j is:42:,result is:2,set is:{42, 21}
+i is:21,j is:43:,result is:2,set is:{43, 21}
+i is:21,j is:44:,result is:2,set is:{44, 21}
+i is:21,j is:45:,result is:3,set is:{66, 21, 45}
+i is:21,j is:48:,result is:2,set is:{48, 21}
+i is:21,j is:49:,result is:4,set is:{49, 90, 21, 109}
+i is:21,j is:50:,result is:2,set is:{50, 21}
+i is:21,j is:52:,result is:2,set is:{52, 21}
+i is:21,j is:54:,result is:2,set is:{21, 54}
+i is:21,j is:55:,result is:3,set is:{59, 21, 55}
+i is:21,j is:56:,result is:2,set is:{56, 21}
+i is:21,j is:57:,result is:2,set is:{57, 21}
+i is:21,j is:58:,result is:2,set is:{58, 21}
+i is:21,j is:60:,result is:2,set is:{60, 21}
+i is:21,j is:61:,result is:2,set is:{21, 61}
+i is:21,j is:62:,result is:2,set is:{21, 62}
+i is:21,j is:64:,result is:2,set is:{64, 21}
+i is:21,j is:65:,result is:2,set is:{65, 21}
+i is:21,j is:67:,result is:3,set is:{74, 67, 21}
+i is:21,j is:70:,result is:3,set is:{97, 21, 70}
+i is:21,j is:75:,result is:2,set is:{75, 21}
+i is:21,j is:76:,result is:3,set is:{76, 21, 78}
+i is:21,j is:79:,result is:2,set is:{21, 79}
+i is:21,j is:80:,result is:2,set is:{80, 21}
+i is:21,j is:81:,result is:2,set is:{81, 21}
+i is:21,j is:83:,result is:2,set is:{83, 21}
+i is:21,j is:85:,result is:2,set is:{21, 85}
+i is:21,j is:86:,result is:2,set is:{21, 86}
+i is:21,j is:87:,result is:2,set is:{21, 87}
+i is:21,j is:88:,result is:2,set is:{88, 21}
+i is:21,j is:89:,result is:2,set is:{89, 21}
+i is:21,j is:91:,result is:2,set is:{91, 21}
+i is:21,j is:94:,result is:2,set is:{21, 94}
+i is:21,j is:95:,result is:2,set is:{21, 95}
+i is:21,j is:98:,result is:2,set is:{98, 21}
+i is:21,j is:99:,result is:2,set is:{99, 21}
+i is:21,j is:100:,result is:2,set is:{100, 21}
+i is:21,j is:102:,result is:2,set is:{21, 102}
+i is:21,j is:103:,result is:2,set is:{21, 103}
+i is:21,j is:105:,result is:2,set is:{105, 21}
+i is:21,j is:111:,result is:2,set is:{21, 111}
+i is:22,j is:23:,result is:2,set is:{22, 23}
+i is:22,j is:24:,result is:2,set is:{24, 22}
+i is:22,j is:25:,result is:4,set is:{71, 25, 22, 30}
+i is:22,j is:27:,result is:3,set is:{41, 27, 22}
+i is:22,j is:28:,result is:2,set is:{28, 22}
+i is:22,j is:29:,result is:2,set is:{29, 22}
+i is:22,j is:31:,result is:2,set is:{22, 31}
+i is:22,j is:32:,result is:2,set is:{32, 22}
+i is:22,j is:33:,result is:4,set is:{33, 37, 22, 63}
+i is:22,j is:34:,result is:3,set is:{34, 22, 46}
+i is:22,j is:35:,result is:3,set is:{96, 35, 22}
+i is:22,j is:36:,result is:2,set is:{36, 22}
+i is:22,j is:39:,result is:2,set is:{22, 39}
+i is:22,j is:42:,result is:2,set is:{42, 22}
+i is:22,j is:43:,result is:2,set is:{43, 22}
+i is:22,j is:45:,result is:3,set is:{66, 45, 22}
+i is:22,j is:48:,result is:2,set is:{48, 22}
+i is:22,j is:50:,result is:2,set is:{50, 22}
+i is:22,j is:52:,result is:2,set is:{52, 22}
+i is:22,j is:54:,result is:2,set is:{22, 54}
+i is:22,j is:56:,result is:2,set is:{56, 22}
+i is:22,j is:57:,result is:2,set is:{57, 22}
+i is:22,j is:58:,result is:2,set is:{58, 22}
+i is:22,j is:60:,result is:2,set is:{60, 22}
+i is:22,j is:61:,result is:2,set is:{61, 22}
+i is:22,j is:62:,result is:2,set is:{22, 62}
+i is:22,j is:64:,result is:2,set is:{64, 22}
+i is:22,j is:65:,result is:2,set is:{65, 22}
+i is:22,j is:67:,result is:3,set is:{74, 67, 22}
+i is:22,j is:70:,result is:3,set is:{97, 22, 70}
+i is:22,j is:75:,result is:2,set is:{75, 22}
+i is:22,j is:76:,result is:2,set is:{76, 22}
+i is:22,j is:79:,result is:2,set is:{22, 79}
+i is:22,j is:80:,result is:2,set is:{80, 22}
+i is:22,j is:83:,result is:2,set is:{83, 22}
+i is:22,j is:84:,result is:2,set is:{84, 22}
+i is:22,j is:85:,result is:2,set is:{85, 22}
+i is:22,j is:86:,result is:2,set is:{22, 86}
+i is:22,j is:87:,result is:2,set is:{22, 87}
+i is:22,j is:88:,result is:2,set is:{88, 22}
+i is:22,j is:91:,result is:2,set is:{91, 22}
+i is:22,j is:94:,result is:2,set is:{22, 94}
+i is:22,j is:95:,result is:2,set is:{22, 95}
+i is:22,j is:98:,result is:2,set is:{98, 22}
+i is:22,j is:99:,result is:2,set is:{99, 22}
+i is:22,j is:100:,result is:2,set is:{100, 22}
+i is:22,j is:102:,result is:2,set is:{22, 102}
+i is:22,j is:103:,result is:2,set is:{22, 103}
+i is:22,j is:104:,result is:2,set is:{104, 22}
+i is:22,j is:105:,result is:2,set is:{105, 22}
+i is:22,j is:111:,result is:2,set is:{22, 111}
+i is:23,j is:24:,result is:2,set is:{24, 23}
+i is:23,j is:25:,result is:4,set is:{71, 25, 30, 23}
+i is:23,j is:27:,result is:3,set is:{41, 27, 23}
+i is:23,j is:28:,result is:2,set is:{28, 23}
+i is:23,j is:29:,result is:2,set is:{29, 23}
+i is:23,j is:31:,result is:2,set is:{31, 23}
+i is:23,j is:32:,result is:2,set is:{32, 23}
+i is:23,j is:33:,result is:4,set is:{63, 33, 37, 23}
+i is:23,j is:34:,result is:3,set is:{34, 46, 23}
+i is:23,j is:35:,result is:3,set is:{96, 35, 23}
+i is:23,j is:36:,result is:2,set is:{36, 23}
+i is:23,j is:39:,result is:2,set is:{39, 23}
+i is:23,j is:40:,result is:2,set is:{40, 23}
+i is:23,j is:42:,result is:2,set is:{42, 23}
+i is:23,j is:43:,result is:2,set is:{43, 23}
+i is:23,j is:44:,result is:2,set is:{44, 23}
+i is:23,j is:45:,result is:3,set is:{66, 45, 23}
+i is:23,j is:48:,result is:2,set is:{48, 23}
+i is:23,j is:49:,result is:4,set is:{49, 90, 109, 23}
+i is:23,j is:50:,result is:2,set is:{50, 23}
+i is:23,j is:52:,result is:2,set is:{52, 23}
+i is:23,j is:54:,result is:2,set is:{54, 23}
+i is:23,j is:55:,result is:3,set is:{55, 59, 23}
+i is:23,j is:56:,result is:2,set is:{56, 23}
+i is:23,j is:57:,result is:2,set is:{57, 23}
+i is:23,j is:58:,result is:2,set is:{58, 23}
+i is:23,j is:60:,result is:2,set is:{60, 23}
+i is:23,j is:61:,result is:2,set is:{61, 23}
+i is:23,j is:62:,result is:2,set is:{62, 23}
+i is:23,j is:64:,result is:2,set is:{64, 23}
+i is:23,j is:65:,result is:2,set is:{65, 23}
+i is:23,j is:67:,result is:3,set is:{74, 67, 23}
+i is:23,j is:70:,result is:3,set is:{97, 70, 23}
+i is:23,j is:75:,result is:2,set is:{75, 23}
+i is:23,j is:76:,result is:2,set is:{76, 23}
+i is:23,j is:78:,result is:2,set is:{78, 23}
+i is:23,j is:79:,result is:2,set is:{79, 23}
+i is:23,j is:80:,result is:2,set is:{80, 23}
+i is:23,j is:81:,result is:2,set is:{81, 23}
+i is:23,j is:83:,result is:2,set is:{83, 23}
+i is:23,j is:84:,result is:2,set is:{84, 23}
+i is:23,j is:85:,result is:2,set is:{85, 23}
+i is:23,j is:86:,result is:2,set is:{86, 23}
+i is:23,j is:87:,result is:2,set is:{87, 23}
+i is:23,j is:88:,result is:2,set is:{88, 23}
+i is:23,j is:89:,result is:2,set is:{89, 23}
+i is:23,j is:91:,result is:2,set is:{91, 23}
+i is:23,j is:94:,result is:2,set is:{94, 23}
+i is:23,j is:95:,result is:2,set is:{95, 23}
+i is:23,j is:98:,result is:2,set is:{98, 23}
+i is:23,j is:99:,result is:2,set is:{99, 23}
+i is:23,j is:100:,result is:2,set is:{100, 23}
+i is:23,j is:102:,result is:2,set is:{102, 23}
+i is:23,j is:103:,result is:2,set is:{103, 23}
+i is:23,j is:104:,result is:2,set is:{104, 23}
+i is:23,j is:105:,result is:2,set is:{105, 23}
+i is:23,j is:111:,result is:2,set is:{111, 23}
+i is:24,j is:25:,result is:4,set is:{24, 25, 30, 71}
+i is:24,j is:27:,result is:3,set is:{24, 41, 27}
+i is:24,j is:28:,result is:2,set is:{24, 28}
+i is:24,j is:29:,result is:2,set is:{24, 29}
+i is:24,j is:31:,result is:2,set is:{24, 31}
+i is:24,j is:32:,result is:2,set is:{24, 32}
+i is:24,j is:33:,result is:4,set is:{24, 33, 37, 63}
+i is:24,j is:34:,result is:3,set is:{24, 34, 46}
+i is:24,j is:35:,result is:3,set is:{24, 96, 35}
+i is:24,j is:36:,result is:2,set is:{24, 36}
+i is:24,j is:39:,result is:2,set is:{24, 39}
+i is:24,j is:40:,result is:2,set is:{24, 40}
+i is:24,j is:42:,result is:2,set is:{24, 42}
+i is:24,j is:43:,result is:2,set is:{24, 43}
+i is:24,j is:44:,result is:2,set is:{24, 44}
+i is:24,j is:45:,result is:3,set is:{24, 66, 45}
+i is:24,j is:48:,result is:2,set is:{24, 48}
+i is:24,j is:49:,result is:4,set is:{24, 49, 90, 109}
+i is:24,j is:50:,result is:2,set is:{24, 50}
+i is:24,j is:52:,result is:2,set is:{24, 52}
+i is:24,j is:54:,result is:2,set is:{24, 54}
+i is:24,j is:55:,result is:3,set is:{24, 59, 55}
+i is:24,j is:56:,result is:2,set is:{24, 56}
+i is:24,j is:57:,result is:2,set is:{24, 57}
+i is:24,j is:58:,result is:2,set is:{24, 58}
+i is:24,j is:60:,result is:2,set is:{24, 60}
+i is:24,j is:61:,result is:2,set is:{24, 61}
+i is:24,j is:62:,result is:2,set is:{24, 62}
+i is:24,j is:64:,result is:2,set is:{24, 64}
+i is:24,j is:65:,result is:2,set is:{24, 65}
+i is:24,j is:67:,result is:3,set is:{24, 74, 67}
+i is:24,j is:70:,result is:3,set is:{24, 97, 70}
+i is:24,j is:75:,result is:2,set is:{24, 75}
+i is:24,j is:76:,result is:2,set is:{24, 76}
+i is:24,j is:78:,result is:2,set is:{24, 78}
+i is:24,j is:79:,result is:2,set is:{24, 79}
+i is:24,j is:80:,result is:2,set is:{24, 80}
+i is:24,j is:81:,result is:2,set is:{24, 81}
+i is:24,j is:83:,result is:2,set is:{24, 83}
+i is:24,j is:84:,result is:2,set is:{24, 84}
+i is:24,j is:85:,result is:2,set is:{24, 85}
+i is:24,j is:86:,result is:2,set is:{24, 86}
+i is:24,j is:87:,result is:2,set is:{24, 87}
+i is:24,j is:88:,result is:2,set is:{24, 88}
+i is:24,j is:89:,result is:2,set is:{24, 89}
+i is:24,j is:91:,result is:2,set is:{24, 91}
+i is:24,j is:94:,result is:2,set is:{24, 94}
+i is:24,j is:95:,result is:2,set is:{24, 95}
+i is:24,j is:98:,result is:2,set is:{24, 98}
+i is:24,j is:99:,result is:2,set is:{24, 99}
+i is:24,j is:100:,result is:2,set is:{24, 100}
+i is:24,j is:102:,result is:2,set is:{24, 102}
+i is:24,j is:103:,result is:2,set is:{24, 103}
+i is:24,j is:104:,result is:2,set is:{24, 104}
+i is:24,j is:105:,result is:2,set is:{24, 105}
+i is:24,j is:111:,result is:2,set is:{24, 111}
+i is:25,j is:28:,result is:4,set is:{25, 28, 30, 71}
+i is:25,j is:29:,result is:4,set is:{25, 29, 30, 71}
+i is:25,j is:31:,result is:3,set is:{71, 25, 31}
+i is:25,j is:32:,result is:3,set is:{32, 25, 71}
+i is:25,j is:33:,result is:5,set is:{71, 25, 33, 37, 63}
+i is:25,j is:34:,result is:4,set is:{25, 34, 46, 71}
+i is:25,j is:35:,result is:4,set is:{96, 25, 35, 71}
+i is:25,j is:36:,result is:3,set is:{25, 36, 71}
+i is:25,j is:39:,result is:3,set is:{71, 25, 39}
+i is:25,j is:40:,result is:3,set is:{40, 25, 71}
+i is:25,j is:42:,result is:3,set is:{25, 42, 71}
+i is:25,j is:43:,result is:3,set is:{25, 43, 71}
+i is:25,j is:44:,result is:3,set is:{25, 44, 71}
+i is:25,j is:45:,result is:4,set is:{25, 66, 45, 71}
+i is:25,j is:48:,result is:3,set is:{48, 25, 71}
+i is:25,j is:49:,result is:5,set is:{25, 49, 90, 109, 71}
+i is:25,j is:50:,result is:3,set is:{25, 50, 71}
+i is:25,j is:52:,result is:3,set is:{25, 52, 71}
+i is:25,j is:54:,result is:3,set is:{25, 54, 71}
+i is:25,j is:55:,result is:4,set is:{71, 25, 59, 55}
+i is:25,j is:56:,result is:3,set is:{56, 25, 71}
+i is:25,j is:57:,result is:3,set is:{25, 57, 71}
+i is:25,j is:58:,result is:3,set is:{25, 58, 71}
+i is:25,j is:60:,result is:3,set is:{25, 60, 71}
+i is:25,j is:61:,result is:3,set is:{25, 61, 71}
+i is:25,j is:64:,result is:3,set is:{64, 25, 71}
+i is:25,j is:65:,result is:3,set is:{25, 65, 71}
+i is:25,j is:67:,result is:4,set is:{25, 74, 67, 71}
+i is:25,j is:70:,result is:4,set is:{25, 97, 70, 71}
+i is:25,j is:75:,result is:2,set is:{25, 75}
+i is:25,j is:76:,result is:2,set is:{25, 76}
+i is:25,j is:78:,result is:2,set is:{25, 78}
+i is:25,j is:79:,result is:2,set is:{25, 79}
+i is:25,j is:80:,result is:2,set is:{80, 25}
+i is:25,j is:81:,result is:2,set is:{25, 81}
+i is:25,j is:83:,result is:2,set is:{25, 83}
+i is:25,j is:84:,result is:2,set is:{25, 84}
+i is:25,j is:85:,result is:2,set is:{25, 85}
+i is:25,j is:86:,result is:2,set is:{25, 86}
+i is:25,j is:87:,result is:2,set is:{25, 87}
+i is:25,j is:88:,result is:2,set is:{88, 25}
+i is:25,j is:89:,result is:2,set is:{25, 89}
+i is:25,j is:91:,result is:2,set is:{25, 91}
+i is:25,j is:94:,result is:2,set is:{25, 94}
+i is:25,j is:95:,result is:2,set is:{25, 95}
+i is:25,j is:98:,result is:2,set is:{25, 98}
+i is:25,j is:99:,result is:2,set is:{25, 99}
+i is:25,j is:100:,result is:2,set is:{25, 100}
+i is:25,j is:102:,result is:2,set is:{25, 102}
+i is:25,j is:103:,result is:2,set is:{25, 103}
+i is:25,j is:104:,result is:2,set is:{104, 25}
+i is:25,j is:105:,result is:2,set is:{25, 105}
+i is:25,j is:111:,result is:2,set is:{25, 111}
+i is:26,j is:27:,result is:6,set is:{71, 41, 26, 27, 30, 62}
+i is:26,j is:28:,result is:2,set is:{26, 28}
+i is:26,j is:29:,result is:2,set is:{26, 29}
+i is:26,j is:31:,result is:2,set is:{26, 31}
+i is:26,j is:32:,result is:2,set is:{32, 26}
+i is:26,j is:33:,result is:4,set is:{33, 26, 37, 63}
+i is:26,j is:34:,result is:3,set is:{26, 34, 46}
+i is:26,j is:35:,result is:3,set is:{96, 26, 35}
+i is:26,j is:36:,result is:2,set is:{26, 36}
+i is:26,j is:38:,result is:2,set is:{26, 38}
+i is:26,j is:39:,result is:2,set is:{26, 39}
+i is:26,j is:40:,result is:2,set is:{40, 26}
+i is:26,j is:42:,result is:2,set is:{26, 42}
+i is:26,j is:43:,result is:2,set is:{26, 43}
+i is:26,j is:44:,result is:2,set is:{26, 44}
+i is:26,j is:45:,result is:3,set is:{26, 66, 45}
+i is:26,j is:47:,result is:2,set is:{26, 47}
+i is:26,j is:48:,result is:2,set is:{48, 26}
+i is:26,j is:49:,result is:4,set is:{49, 26, 90, 109}
+i is:26,j is:50:,result is:2,set is:{26, 50}
+i is:26,j is:51:,result is:3,set is:{26, 51, 82}
+i is:26,j is:52:,result is:2,set is:{26, 52}
+i is:26,j is:53:,result is:4,set is:{72, 26, 68, 53}
+i is:26,j is:54:,result is:2,set is:{26, 54}
+i is:26,j is:55:,result is:3,set is:{26, 59, 55}
+i is:26,j is:56:,result is:2,set is:{56, 26}
+i is:26,j is:57:,result is:2,set is:{57, 26}
+i is:26,j is:58:,result is:2,set is:{26, 58}
+i is:26,j is:60:,result is:2,set is:{26, 60}
+i is:26,j is:61:,result is:2,set is:{26, 61}
+i is:26,j is:64:,result is:2,set is:{64, 26}
+i is:26,j is:65:,result is:2,set is:{65, 26}
+i is:26,j is:67:,result is:3,set is:{26, 67, 74}
+i is:26,j is:69:,result is:2,set is:{26, 69}
+i is:26,j is:70:,result is:3,set is:{97, 26, 70}
+i is:26,j is:73:,result is:2,set is:{73, 26}
+i is:26,j is:75:,result is:2,set is:{26, 75}
+i is:26,j is:76:,result is:2,set is:{26, 76}
+i is:26,j is:77:,result is:3,set is:{26, 108, 77}
+i is:26,j is:78:,result is:2,set is:{26, 78}
+i is:26,j is:79:,result is:2,set is:{26, 79}
+i is:26,j is:80:,result is:2,set is:{80, 26}
+i is:26,j is:81:,result is:2,set is:{81, 26}
+i is:26,j is:83:,result is:2,set is:{26, 83}
+i is:26,j is:84:,result is:2,set is:{26, 84}
+i is:26,j is:85:,result is:2,set is:{26, 85}
+i is:26,j is:86:,result is:2,set is:{26, 86}
+i is:26,j is:87:,result is:2,set is:{26, 87}
+i is:26,j is:88:,result is:2,set is:{88, 26}
+i is:26,j is:89:,result is:2,set is:{89, 26}
+i is:26,j is:91:,result is:2,set is:{26, 91}
+i is:26,j is:92:,result is:3,set is:{26, 106, 92}
+i is:26,j is:93:,result is:2,set is:{26, 93}
+i is:26,j is:94:,result is:2,set is:{26, 94}
+i is:26,j is:95:,result is:2,set is:{26, 95}
+i is:26,j is:98:,result is:2,set is:{26, 98}
+i is:26,j is:99:,result is:2,set is:{26, 99}
+i is:26,j is:100:,result is:2,set is:{26, 100}
+i is:26,j is:101:,result is:2,set is:{26, 101}
+i is:26,j is:102:,result is:2,set is:{26, 102}
+i is:26,j is:103:,result is:2,set is:{26, 103}
+i is:26,j is:104:,result is:2,set is:{104, 26}
+i is:26,j is:105:,result is:2,set is:{105, 26}
+i is:26,j is:107:,result is:3,set is:{26, 107, 110}
+i is:26,j is:111:,result is:2,set is:{26, 111}
+i is:27,j is:28:,result is:3,set is:{41, 27, 28}
+i is:27,j is:29:,result is:3,set is:{41, 27, 29}
+i is:27,j is:31:,result is:3,set is:{41, 27, 31}
+i is:27,j is:32:,result is:3,set is:{32, 41, 27}
+i is:27,j is:33:,result is:5,set is:{33, 41, 27, 37, 63}
+i is:27,j is:34:,result is:4,set is:{41, 34, 27, 46}
+i is:27,j is:35:,result is:4,set is:{96, 41, 27, 35}
+i is:27,j is:36:,result is:3,set is:{41, 27, 36}
+i is:27,j is:39:,result is:3,set is:{41, 27, 39}
+i is:27,j is:40:,result is:3,set is:{40, 41, 27}
+i is:27,j is:42:,result is:2,set is:{42, 27}
+i is:27,j is:43:,result is:2,set is:{27, 43}
+i is:27,j is:44:,result is:2,set is:{27, 44}
+i is:27,j is:45:,result is:3,set is:{66, 27, 45}
+i is:27,j is:48:,result is:2,set is:{48, 27}
+i is:27,j is:49:,result is:4,set is:{49, 90, 27, 109}
+i is:27,j is:50:,result is:2,set is:{50, 27}
+i is:27,j is:52:,result is:2,set is:{27, 52}
+i is:27,j is:54:,result is:2,set is:{27, 54}
+i is:27,j is:55:,result is:3,set is:{27, 59, 55}
+i is:27,j is:56:,result is:2,set is:{56, 27}
+i is:27,j is:57:,result is:2,set is:{57, 27}
+i is:27,j is:58:,result is:2,set is:{58, 27}
+i is:27,j is:60:,result is:2,set is:{27, 60}
+i is:27,j is:61:,result is:2,set is:{27, 61}
+i is:27,j is:64:,result is:2,set is:{64, 27}
+i is:27,j is:65:,result is:2,set is:{65, 27}
+i is:27,j is:67:,result is:3,set is:{74, 27, 67}
+i is:27,j is:70:,result is:3,set is:{97, 27, 70}
+i is:27,j is:75:,result is:2,set is:{27, 75}
+i is:27,j is:76:,result is:2,set is:{27, 76}
+i is:27,j is:78:,result is:2,set is:{27, 78}
+i is:27,j is:79:,result is:2,set is:{27, 79}
+i is:27,j is:80:,result is:2,set is:{80, 27}
+i is:27,j is:81:,result is:2,set is:{81, 27}
+i is:27,j is:83:,result is:2,set is:{27, 83}
+i is:27,j is:84:,result is:2,set is:{27, 84}
+i is:27,j is:85:,result is:2,set is:{27, 85}
+i is:27,j is:86:,result is:2,set is:{27, 86}
+i is:27,j is:87:,result is:2,set is:{27, 87}
+i is:27,j is:88:,result is:2,set is:{88, 27}
+i is:27,j is:89:,result is:2,set is:{89, 27}
+i is:27,j is:91:,result is:2,set is:{27, 91}
+i is:27,j is:94:,result is:2,set is:{27, 94}
+i is:27,j is:95:,result is:2,set is:{27, 95}
+i is:27,j is:98:,result is:2,set is:{98, 27}
+i is:27,j is:99:,result is:2,set is:{27, 99}
+i is:27,j is:100:,result is:2,set is:{27, 100}
+i is:27,j is:102:,result is:2,set is:{27, 102}
+i is:27,j is:103:,result is:2,set is:{27, 103}
+i is:27,j is:104:,result is:2,set is:{104, 27}
+i is:27,j is:105:,result is:2,set is:{105, 27}
+i is:27,j is:111:,result is:2,set is:{27, 111}
+i is:28,j is:29:,result is:2,set is:{28, 29}
+i is:28,j is:31:,result is:2,set is:{28, 31}
+i is:28,j is:32:,result is:2,set is:{32, 28}
+i is:28,j is:33:,result is:4,set is:{33, 28, 37, 63}
+i is:28,j is:34:,result is:3,set is:{34, 28, 46}
+i is:28,j is:35:,result is:3,set is:{96, 35, 28}
+i is:28,j is:36:,result is:2,set is:{28, 36}
+i is:28,j is:39:,result is:2,set is:{28, 39}
+i is:28,j is:40:,result is:2,set is:{40, 28}
+i is:28,j is:42:,result is:2,set is:{42, 28}
+i is:28,j is:43:,result is:2,set is:{43, 28}
+i is:28,j is:44:,result is:2,set is:{28, 44}
+i is:28,j is:45:,result is:3,set is:{66, 28, 45}
+i is:28,j is:48:,result is:2,set is:{48, 28}
+i is:28,j is:49:,result is:4,set is:{49, 90, 28, 109}
+i is:28,j is:50:,result is:2,set is:{50, 28}
+i is:28,j is:52:,result is:2,set is:{28, 52}
+i is:28,j is:54:,result is:2,set is:{28, 54}
+i is:28,j is:55:,result is:3,set is:{59, 28, 55}
+i is:28,j is:56:,result is:2,set is:{56, 28}
+i is:28,j is:57:,result is:2,set is:{57, 28}
+i is:28,j is:58:,result is:2,set is:{58, 28}
+i is:28,j is:60:,result is:2,set is:{28, 60}
+i is:28,j is:61:,result is:2,set is:{28, 61}
+i is:28,j is:62:,result is:2,set is:{28, 62}
+i is:28,j is:64:,result is:2,set is:{64, 28}
+i is:28,j is:65:,result is:2,set is:{65, 28}
+i is:28,j is:67:,result is:3,set is:{74, 67, 28}
+i is:28,j is:70:,result is:3,set is:{97, 28, 70}
+i is:28,j is:75:,result is:2,set is:{75, 28}
+i is:28,j is:76:,result is:2,set is:{28, 76}
+i is:28,j is:78:,result is:2,set is:{28, 78}
+i is:28,j is:79:,result is:2,set is:{28, 79}
+i is:28,j is:80:,result is:2,set is:{80, 28}
+i is:28,j is:81:,result is:2,set is:{81, 28}
+i is:28,j is:83:,result is:2,set is:{83, 28}
+i is:28,j is:84:,result is:2,set is:{28, 84}
+i is:28,j is:85:,result is:2,set is:{28, 85}
+i is:28,j is:86:,result is:2,set is:{28, 86}
+i is:28,j is:87:,result is:2,set is:{28, 87}
+i is:28,j is:88:,result is:2,set is:{88, 28}
+i is:28,j is:89:,result is:2,set is:{89, 28}
+i is:28,j is:91:,result is:2,set is:{91, 28}
+i is:28,j is:94:,result is:2,set is:{28, 94}
+i is:28,j is:95:,result is:2,set is:{28, 95}
+i is:28,j is:98:,result is:2,set is:{98, 28}
+i is:28,j is:99:,result is:2,set is:{99, 28}
+i is:28,j is:100:,result is:2,set is:{28, 100}
+i is:28,j is:102:,result is:2,set is:{28, 102}
+i is:28,j is:103:,result is:2,set is:{28, 103}
+i is:28,j is:104:,result is:2,set is:{104, 28}
+i is:28,j is:105:,result is:2,set is:{105, 28}
+i is:28,j is:111:,result is:2,set is:{28, 111}
+i is:29,j is:31:,result is:2,set is:{29, 31}
+i is:29,j is:32:,result is:2,set is:{32, 29}
+i is:29,j is:33:,result is:4,set is:{33, 29, 37, 63}
+i is:29,j is:34:,result is:3,set is:{34, 29, 46}
+i is:29,j is:35:,result is:3,set is:{96, 35, 29}
+i is:29,j is:36:,result is:2,set is:{36, 29}
+i is:29,j is:39:,result is:2,set is:{29, 39}
+i is:29,j is:42:,result is:2,set is:{42, 29}
+i is:29,j is:43:,result is:2,set is:{43, 29}
+i is:29,j is:44:,result is:2,set is:{44, 29}
+i is:29,j is:45:,result is:3,set is:{66, 29, 45}
+i is:29,j is:48:,result is:2,set is:{48, 29}
+i is:29,j is:49:,result is:4,set is:{49, 90, 29, 109}
+i is:29,j is:50:,result is:2,set is:{50, 29}
+i is:29,j is:52:,result is:2,set is:{52, 29}
+i is:29,j is:54:,result is:2,set is:{29, 54}
+i is:29,j is:55:,result is:3,set is:{59, 29, 55}
+i is:29,j is:57:,result is:2,set is:{57, 29}
+i is:29,j is:58:,result is:2,set is:{58, 29}
+i is:29,j is:61:,result is:2,set is:{29, 61}
+i is:29,j is:62:,result is:2,set is:{29, 62}
+i is:29,j is:64:,result is:2,set is:{64, 29}
+i is:29,j is:65:,result is:2,set is:{65, 29}
+i is:29,j is:67:,result is:3,set is:{74, 67, 29}
+i is:29,j is:75:,result is:2,set is:{75, 29}
+i is:29,j is:76:,result is:2,set is:{76, 29}
+i is:29,j is:78:,result is:2,set is:{29, 78}
+i is:29,j is:79:,result is:2,set is:{29, 79}
+i is:29,j is:80:,result is:2,set is:{80, 29}
+i is:29,j is:81:,result is:2,set is:{81, 29}
+i is:29,j is:83:,result is:2,set is:{83, 29}
+i is:29,j is:84:,result is:2,set is:{84, 29}
+i is:29,j is:85:,result is:2,set is:{29, 85}
+i is:29,j is:86:,result is:2,set is:{29, 86}
+i is:29,j is:89:,result is:2,set is:{89, 29}
+i is:29,j is:91:,result is:2,set is:{91, 29}
+i is:29,j is:94:,result is:2,set is:{29, 94}
+i is:29,j is:98:,result is:2,set is:{98, 29}
+i is:29,j is:100:,result is:2,set is:{100, 29}
+i is:29,j is:102:,result is:2,set is:{29, 102}
+i is:29,j is:104:,result is:2,set is:{104, 29}
+i is:29,j is:111:,result is:2,set is:{29, 111}
+i is:30,j is:31:,result is:3,set is:{71, 30, 31}
+i is:30,j is:32:,result is:3,set is:{32, 30, 71}
+i is:30,j is:33:,result is:5,set is:{71, 33, 37, 30, 63}
+i is:30,j is:34:,result is:4,set is:{71, 34, 30, 46}
+i is:30,j is:35:,result is:4,set is:{96, 35, 30, 71}
+i is:30,j is:36:,result is:3,set is:{36, 30, 71}
+i is:30,j is:38:,result is:3,set is:{71, 30, 38}
+i is:30,j is:39:,result is:3,set is:{71, 30, 39}
+i is:30,j is:40:,result is:3,set is:{40, 30, 71}
+i is:30,j is:41:,result is:4,set is:{71, 41, 30, 62}
+i is:30,j is:42:,result is:3,set is:{42, 30, 71}
+i is:30,j is:43:,result is:3,set is:{43, 30, 71}
+i is:30,j is:44:,result is:3,set is:{44, 30, 71}
+i is:30,j is:45:,result is:4,set is:{66, 45, 30, 71}
+i is:30,j is:47:,result is:3,set is:{71, 30, 47}
+i is:30,j is:48:,result is:3,set is:{48, 30, 71}
+i is:30,j is:49:,result is:5,set is:{49, 90, 109, 30, 71}
+i is:30,j is:50:,result is:3,set is:{50, 30, 71}
+i is:30,j is:51:,result is:4,set is:{82, 51, 30, 71}
+i is:30,j is:52:,result is:3,set is:{52, 30, 71}
+i is:30,j is:53:,result is:5,set is:{72, 68, 53, 30, 71}
+i is:30,j is:54:,result is:3,set is:{71, 30, 54}
+i is:30,j is:55:,result is:4,set is:{71, 59, 30, 55}
+i is:30,j is:56:,result is:3,set is:{56, 30, 71}
+i is:30,j is:57:,result is:3,set is:{57, 30, 71}
+i is:30,j is:58:,result is:3,set is:{58, 30, 71}
+i is:30,j is:60:,result is:3,set is:{60, 30, 71}
+i is:30,j is:61:,result is:3,set is:{61, 30, 71}
+i is:30,j is:64:,result is:3,set is:{64, 30, 71}
+i is:30,j is:65:,result is:3,set is:{65, 30, 71}
+i is:30,j is:67:,result is:4,set is:{74, 67, 30, 71}
+i is:30,j is:69:,result is:3,set is:{69, 30, 71}
+i is:30,j is:70:,result is:4,set is:{71, 97, 30, 70}
+i is:30,j is:73:,result is:2,set is:{73, 30}
+i is:30,j is:75:,result is:2,set is:{75, 30}
+i is:30,j is:76:,result is:2,set is:{76, 30}
+i is:30,j is:77:,result is:3,set is:{108, 77, 30}
+i is:30,j is:78:,result is:2,set is:{30, 78}
+i is:30,j is:79:,result is:2,set is:{30, 79}
+i is:30,j is:80:,result is:2,set is:{80, 30}
+i is:30,j is:81:,result is:2,set is:{81, 30}
+i is:30,j is:83:,result is:2,set is:{83, 30}
+i is:30,j is:84:,result is:2,set is:{84, 30}
+i is:30,j is:85:,result is:2,set is:{85, 30}
+i is:30,j is:86:,result is:2,set is:{30, 86}
+i is:30,j is:87:,result is:2,set is:{30, 87}
+i is:30,j is:88:,result is:2,set is:{88, 30}
+i is:30,j is:89:,result is:2,set is:{89, 30}
+i is:30,j is:91:,result is:2,set is:{91, 30}
+i is:30,j is:92:,result is:3,set is:{106, 92, 30}
+i is:30,j is:93:,result is:2,set is:{93, 30}
+i is:30,j is:94:,result is:2,set is:{30, 94}
+i is:30,j is:95:,result is:2,set is:{30, 95}
+i is:30,j is:98:,result is:2,set is:{98, 30}
+i is:30,j is:99:,result is:2,set is:{99, 30}
+i is:30,j is:100:,result is:2,set is:{100, 30}
+i is:30,j is:101:,result is:2,set is:{101, 30}
+i is:30,j is:102:,result is:2,set is:{30, 102}
+i is:30,j is:103:,result is:2,set is:{30, 103}
+i is:30,j is:104:,result is:2,set is:{104, 30}
+i is:30,j is:105:,result is:2,set is:{105, 30}
+i is:30,j is:107:,result is:3,set is:{107, 30, 110}
+i is:30,j is:111:,result is:2,set is:{30, 111}
+i is:31,j is:32:,result is:2,set is:{32, 31}
+i is:31,j is:33:,result is:4,set is:{63, 33, 37, 31}
+i is:31,j is:34:,result is:3,set is:{34, 46, 31}
+i is:31,j is:35:,result is:3,set is:{96, 35, 31}
+i is:31,j is:36:,result is:2,set is:{36, 31}
+i is:31,j is:39:,result is:5,set is:{39, 47, 104, 84, 31}
+i is:31,j is:40:,result is:2,set is:{40, 31}
+i is:31,j is:42:,result is:2,set is:{42, 31}
+i is:31,j is:43:,result is:2,set is:{43, 31}
+i is:31,j is:44:,result is:2,set is:{44, 31}
+i is:31,j is:45:,result is:3,set is:{66, 45, 31}
+i is:31,j is:48:,result is:2,set is:{48, 31}
+i is:31,j is:49:,result is:4,set is:{49, 90, 109, 31}
+i is:31,j is:50:,result is:2,set is:{50, 31}
+i is:31,j is:52:,result is:2,set is:{52, 31}
+i is:31,j is:54:,result is:2,set is:{54, 31}
+i is:31,j is:55:,result is:3,set is:{55, 59, 31}
+i is:31,j is:56:,result is:2,set is:{56, 31}
+i is:31,j is:57:,result is:2,set is:{57, 31}
+i is:31,j is:58:,result is:2,set is:{58, 31}
+i is:31,j is:60:,result is:2,set is:{60, 31}
+i is:31,j is:61:,result is:2,set is:{61, 31}
+i is:31,j is:62:,result is:2,set is:{62, 31}
+i is:31,j is:64:,result is:2,set is:{64, 31}
+i is:31,j is:65:,result is:2,set is:{65, 31}
+i is:31,j is:67:,result is:3,set is:{74, 67, 31}
+i is:31,j is:70:,result is:3,set is:{97, 70, 31}
+i is:31,j is:75:,result is:2,set is:{75, 31}
+i is:31,j is:76:,result is:2,set is:{76, 31}
+i is:31,j is:78:,result is:2,set is:{78, 31}
+i is:31,j is:79:,result is:2,set is:{79, 31}
+i is:31,j is:80:,result is:2,set is:{80, 31}
+i is:31,j is:81:,result is:2,set is:{81, 31}
+i is:31,j is:83:,result is:2,set is:{83, 31}
+i is:31,j is:85:,result is:2,set is:{85, 31}
+i is:31,j is:86:,result is:2,set is:{86, 31}
+i is:31,j is:87:,result is:2,set is:{87, 31}
+i is:31,j is:88:,result is:2,set is:{88, 31}
+i is:31,j is:89:,result is:2,set is:{89, 31}
+i is:31,j is:91:,result is:2,set is:{91, 31}
+i is:31,j is:94:,result is:2,set is:{94, 31}
+i is:31,j is:95:,result is:2,set is:{95, 31}
+i is:31,j is:98:,result is:2,set is:{98, 31}
+i is:31,j is:99:,result is:2,set is:{99, 31}
+i is:31,j is:100:,result is:2,set is:{100, 31}
+i is:31,j is:102:,result is:2,set is:{102, 31}
+i is:31,j is:103:,result is:2,set is:{103, 31}
+i is:31,j is:105:,result is:2,set is:{105, 31}
+i is:31,j is:111:,result is:2,set is:{111, 31}
+i is:32,j is:33:,result is:15,set is:{32, 33, 65, 66, 37, 38, 69, 75, 45, 79, 111, 54, 91, 94, 63}
+i is:32,j is:34:,result is:3,set is:{32, 34, 46}
+i is:32,j is:35:,result is:3,set is:{32, 96, 35}
+i is:32,j is:36:,result is:2,set is:{32, 36}
+i is:32,j is:39:,result is:2,set is:{32, 39}
+i is:32,j is:40:,result is:2,set is:{32, 40}
+i is:32,j is:42:,result is:2,set is:{32, 42}
+i is:32,j is:43:,result is:2,set is:{32, 43}
+i is:32,j is:44:,result is:2,set is:{32, 44}
+i is:32,j is:48:,result is:2,set is:{32, 48}
+i is:32,j is:49:,result is:4,set is:{32, 49, 90, 109}
+i is:32,j is:50:,result is:2,set is:{32, 50}
+i is:32,j is:52:,result is:2,set is:{32, 52}
+i is:32,j is:55:,result is:3,set is:{32, 59, 55}
+i is:32,j is:56:,result is:2,set is:{32, 56}
+i is:32,j is:57:,result is:2,set is:{32, 57}
+i is:32,j is:58:,result is:2,set is:{32, 58}
+i is:32,j is:60:,result is:2,set is:{32, 60}
+i is:32,j is:61:,result is:2,set is:{32, 61}
+i is:32,j is:62:,result is:2,set is:{32, 62}
+i is:32,j is:64:,result is:2,set is:{32, 64}
+i is:32,j is:67:,result is:3,set is:{32, 74, 67}
+i is:32,j is:70:,result is:3,set is:{32, 97, 70}
+i is:32,j is:76:,result is:2,set is:{32, 76}
+i is:32,j is:78:,result is:2,set is:{32, 78}
+i is:32,j is:80:,result is:2,set is:{32, 80}
+i is:32,j is:81:,result is:2,set is:{32, 81}
+i is:32,j is:83:,result is:2,set is:{32, 83}
+i is:32,j is:84:,result is:2,set is:{32, 84}
+i is:32,j is:85:,result is:2,set is:{32, 85}
+i is:32,j is:86:,result is:2,set is:{32, 86}
+i is:32,j is:87:,result is:2,set is:{32, 87}
+i is:32,j is:88:,result is:2,set is:{32, 88}
+i is:32,j is:89:,result is:2,set is:{32, 89}
+i is:32,j is:95:,result is:2,set is:{32, 95}
+i is:32,j is:98:,result is:2,set is:{32, 98}
+i is:32,j is:99:,result is:2,set is:{32, 99}
+i is:32,j is:100:,result is:2,set is:{32, 100}
+i is:32,j is:102:,result is:2,set is:{32, 102}
+i is:32,j is:103:,result is:2,set is:{32, 103}
+i is:32,j is:104:,result is:2,set is:{32, 104}
+i is:32,j is:105:,result is:2,set is:{32, 105}
+i is:33,j is:34:,result is:5,set is:{33, 34, 37, 46, 63}
+i is:33,j is:35:,result is:5,set is:{96, 33, 35, 37, 63}
+i is:33,j is:36:,result is:4,set is:{33, 36, 37, 63}
+i is:33,j is:39:,result is:3,set is:{63, 33, 39}
+i is:33,j is:40:,result is:3,set is:{40, 33, 63}
+i is:33,j is:42:,result is:3,set is:{33, 42, 63}
+i is:33,j is:43:,result is:3,set is:{33, 43, 63}
+i is:33,j is:44:,result is:3,set is:{33, 44, 63}
+i is:33,j is:48:,result is:3,set is:{48, 33, 63}
+i is:33,j is:49:,result is:5,set is:{33, 49, 90, 109, 63}
+i is:33,j is:50:,result is:3,set is:{33, 50, 63}
+i is:33,j is:52:,result is:3,set is:{33, 52, 63}
+i is:33,j is:55:,result is:4,set is:{63, 33, 59, 55}
+i is:33,j is:56:,result is:3,set is:{56, 33, 63}
+i is:33,j is:57:,result is:3,set is:{33, 57, 63}
+i is:33,j is:58:,result is:3,set is:{33, 58, 63}
+i is:33,j is:60:,result is:3,set is:{33, 60, 63}
+i is:33,j is:61:,result is:3,set is:{33, 61, 63}
+i is:33,j is:62:,result is:3,set is:{33, 62, 63}
+i is:33,j is:64:,result is:2,set is:{64, 33}
+i is:33,j is:67:,result is:3,set is:{33, 74, 67}
+i is:33,j is:70:,result is:3,set is:{33, 97, 70}
+i is:33,j is:76:,result is:2,set is:{33, 76}
+i is:33,j is:78:,result is:2,set is:{33, 78}
+i is:33,j is:80:,result is:2,set is:{80, 33}
+i is:33,j is:81:,result is:2,set is:{33, 81}
+i is:33,j is:83:,result is:2,set is:{33, 83}
+i is:33,j is:84:,result is:2,set is:{33, 84}
+i is:33,j is:85:,result is:2,set is:{33, 85}
+i is:33,j is:86:,result is:2,set is:{33, 86}
+i is:33,j is:87:,result is:2,set is:{33, 87}
+i is:33,j is:88:,result is:2,set is:{88, 33}
+i is:33,j is:89:,result is:2,set is:{33, 89}
+i is:33,j is:95:,result is:2,set is:{33, 95}
+i is:33,j is:98:,result is:2,set is:{33, 98}
+i is:33,j is:99:,result is:2,set is:{33, 99}
+i is:33,j is:100:,result is:2,set is:{33, 100}
+i is:33,j is:102:,result is:2,set is:{33, 102}
+i is:33,j is:103:,result is:2,set is:{33, 103}
+i is:33,j is:104:,result is:2,set is:{104, 33}
+i is:33,j is:105:,result is:2,set is:{33, 105}
+i is:34,j is:35:,result is:4,set is:{96, 34, 35, 46}
+i is:34,j is:36:,result is:3,set is:{34, 36, 46}
+i is:34,j is:39:,result is:3,set is:{34, 46, 39}
+i is:34,j is:40:,result is:3,set is:{40, 34, 46}
+i is:34,j is:42:,result is:3,set is:{34, 42, 46}
+i is:34,j is:43:,result is:3,set is:{34, 43, 46}
+i is:34,j is:44:,result is:3,set is:{34, 44, 46}
+i is:34,j is:45:,result is:4,set is:{34, 66, 45, 46}
+i is:34,j is:48:,result is:2,set is:{48, 34}
+i is:34,j is:49:,result is:4,set is:{49, 34, 90, 109}
+i is:34,j is:50:,result is:2,set is:{34, 50}
+i is:34,j is:52:,result is:2,set is:{34, 52}
+i is:34,j is:54:,result is:2,set is:{34, 54}
+i is:34,j is:55:,result is:3,set is:{34, 59, 55}
+i is:34,j is:56:,result is:2,set is:{56, 34}
+i is:34,j is:57:,result is:2,set is:{57, 34}
+i is:34,j is:58:,result is:2,set is:{34, 58}
+i is:34,j is:60:,result is:2,set is:{34, 60}
+i is:34,j is:61:,result is:2,set is:{34, 61}
+i is:34,j is:62:,result is:2,set is:{34, 62}
+i is:34,j is:65:,result is:2,set is:{65, 34}
+i is:34,j is:67:,result is:3,set is:{34, 67, 74}
+i is:34,j is:70:,result is:3,set is:{97, 34, 70}
+i is:34,j is:75:,result is:2,set is:{34, 75}
+i is:34,j is:76:,result is:2,set is:{34, 76}
+i is:34,j is:78:,result is:2,set is:{34, 78}
+i is:34,j is:79:,result is:2,set is:{34, 79}
+i is:34,j is:80:,result is:2,set is:{80, 34}
+i is:34,j is:81:,result is:2,set is:{81, 34}
+i is:34,j is:83:,result is:2,set is:{34, 83}
+i is:34,j is:84:,result is:2,set is:{34, 84}
+i is:34,j is:85:,result is:2,set is:{34, 85}
+i is:34,j is:86:,result is:2,set is:{34, 86}
+i is:34,j is:87:,result is:2,set is:{34, 87}
+i is:34,j is:88:,result is:2,set is:{88, 34}
+i is:34,j is:89:,result is:2,set is:{89, 34}
+i is:34,j is:91:,result is:2,set is:{34, 91}
+i is:34,j is:94:,result is:2,set is:{34, 94}
+i is:34,j is:95:,result is:2,set is:{34, 95}
+i is:34,j is:98:,result is:2,set is:{34, 98}
+i is:34,j is:99:,result is:2,set is:{34, 99}
+i is:34,j is:100:,result is:2,set is:{34, 100}
+i is:34,j is:102:,result is:2,set is:{34, 102}
+i is:34,j is:103:,result is:2,set is:{34, 103}
+i is:34,j is:104:,result is:2,set is:{104, 34}
+i is:34,j is:105:,result is:2,set is:{105, 34}
+i is:34,j is:111:,result is:2,set is:{34, 111}
+i is:35,j is:36:,result is:14,set is:{96, 35, 36, 67, 99, 73, 74, 43, 48, 82, 51, 52, 86, 93}
+i is:35,j is:39:,result is:3,set is:{96, 35, 39}
+i is:35,j is:40:,result is:3,set is:{40, 96, 35}
+i is:35,j is:42:,result is:3,set is:{96, 42, 35}
+i is:35,j is:44:,result is:3,set is:{96, 35, 44}
+i is:35,j is:45:,result is:4,set is:{96, 66, 35, 45}
+i is:35,j is:49:,result is:5,set is:{96, 49, 90, 35, 109}
+i is:35,j is:50:,result is:3,set is:{96, 50, 35}
+i is:35,j is:54:,result is:3,set is:{96, 35, 54}
+i is:35,j is:55:,result is:4,set is:{96, 35, 59, 55}
+i is:35,j is:56:,result is:3,set is:{56, 96, 35}
+i is:35,j is:57:,result is:3,set is:{96, 57, 35}
+i is:35,j is:58:,result is:3,set is:{96, 58, 35}
+i is:35,j is:60:,result is:3,set is:{96, 35, 60}
+i is:35,j is:61:,result is:3,set is:{96, 35, 61}
+i is:35,j is:62:,result is:3,set is:{96, 35, 62}
+i is:35,j is:64:,result is:3,set is:{64, 96, 35}
+i is:35,j is:65:,result is:3,set is:{96, 65, 35}
+i is:35,j is:70:,result is:4,set is:{96, 97, 35, 70}
+i is:35,j is:75:,result is:3,set is:{96, 35, 75}
+i is:35,j is:76:,result is:3,set is:{96, 35, 76}
+i is:35,j is:78:,result is:3,set is:{96, 35, 78}
+i is:35,j is:79:,result is:3,set is:{96, 35, 79}
+i is:35,j is:80:,result is:3,set is:{80, 96, 35}
+i is:35,j is:81:,result is:3,set is:{96, 81, 35}
+i is:35,j is:83:,result is:3,set is:{96, 35, 83}
+i is:35,j is:84:,result is:3,set is:{96, 35, 84}
+i is:35,j is:85:,result is:3,set is:{96, 35, 85}
+i is:35,j is:87:,result is:3,set is:{96, 35, 87}
+i is:35,j is:88:,result is:3,set is:{88, 96, 35}
+i is:35,j is:89:,result is:3,set is:{96, 89, 35}
+i is:35,j is:91:,result is:3,set is:{96, 35, 91}
+i is:35,j is:94:,result is:3,set is:{96, 35, 94}
+i is:35,j is:95:,result is:3,set is:{96, 35, 95}
+i is:35,j is:98:,result is:2,set is:{98, 35}
+i is:35,j is:100:,result is:2,set is:{35, 100}
+i is:35,j is:102:,result is:2,set is:{35, 102}
+i is:35,j is:103:,result is:2,set is:{35, 103}
+i is:35,j is:104:,result is:2,set is:{104, 35}
+i is:35,j is:105:,result is:2,set is:{105, 35}
+i is:35,j is:111:,result is:2,set is:{35, 111}
+i is:36,j is:39:,result is:2,set is:{36, 39}
+i is:36,j is:40:,result is:2,set is:{40, 36}
+i is:36,j is:42:,result is:2,set is:{42, 36}
+i is:36,j is:44:,result is:2,set is:{36, 44}
+i is:36,j is:45:,result is:3,set is:{66, 36, 45}
+i is:36,j is:49:,result is:4,set is:{49, 90, 36, 109}
+i is:36,j is:50:,result is:2,set is:{50, 36}
+i is:36,j is:54:,result is:2,set is:{36, 54}
+i is:36,j is:55:,result is:3,set is:{59, 36, 55}
+i is:36,j is:56:,result is:2,set is:{56, 36}
+i is:36,j is:57:,result is:2,set is:{57, 36}
+i is:36,j is:58:,result is:2,set is:{58, 36}
+i is:36,j is:60:,result is:2,set is:{36, 60}
+i is:36,j is:61:,result is:2,set is:{36, 61}
+i is:36,j is:62:,result is:2,set is:{36, 62}
+i is:36,j is:64:,result is:2,set is:{64, 36}
+i is:36,j is:65:,result is:2,set is:{65, 36}
+i is:36,j is:70:,result is:3,set is:{97, 36, 70}
+i is:36,j is:75:,result is:2,set is:{75, 36}
+i is:36,j is:76:,result is:2,set is:{36, 76}
+i is:36,j is:78:,result is:2,set is:{36, 78}
+i is:36,j is:79:,result is:2,set is:{36, 79}
+i is:36,j is:80:,result is:2,set is:{80, 36}
+i is:36,j is:81:,result is:2,set is:{81, 36}
+i is:36,j is:83:,result is:2,set is:{83, 36}
+i is:36,j is:84:,result is:2,set is:{36, 84}
+i is:36,j is:85:,result is:2,set is:{36, 85}
+i is:36,j is:87:,result is:2,set is:{36, 87}
+i is:36,j is:88:,result is:2,set is:{88, 36}
+i is:36,j is:89:,result is:2,set is:{89, 36}
+i is:36,j is:91:,result is:2,set is:{91, 36}
+i is:36,j is:94:,result is:2,set is:{36, 94}
+i is:36,j is:95:,result is:2,set is:{36, 95}
+i is:36,j is:98:,result is:2,set is:{98, 36}
+i is:36,j is:100:,result is:2,set is:{36, 100}
+i is:36,j is:102:,result is:2,set is:{36, 102}
+i is:36,j is:103:,result is:2,set is:{36, 103}
+i is:36,j is:104:,result is:2,set is:{104, 36}
+i is:36,j is:105:,result is:2,set is:{105, 36}
+i is:36,j is:111:,result is:2,set is:{36, 111}
+i is:37,j is:38:,result is:13,set is:{65, 66, 37, 38, 69, 75, 45, 79, 111, 54, 91, 94, 63}
+i is:37,j is:39:,result is:3,set is:{63, 37, 39}
+i is:37,j is:40:,result is:3,set is:{40, 37, 63}
+i is:37,j is:41:,result is:3,set is:{41, 37, 63}
+i is:37,j is:42:,result is:3,set is:{42, 37, 63}
+i is:37,j is:43:,result is:3,set is:{43, 37, 63}
+i is:37,j is:44:,result is:3,set is:{44, 37, 63}
+i is:37,j is:46:,result is:3,set is:{37, 46, 63}
+i is:37,j is:47:,result is:3,set is:{63, 37, 47}
+i is:37,j is:48:,result is:3,set is:{48, 37, 63}
+i is:37,j is:49:,result is:5,set is:{49, 90, 37, 109, 63}
+i is:37,j is:50:,result is:3,set is:{50, 37, 63}
+i is:37,j is:51:,result is:4,set is:{82, 51, 37, 63}
+i is:37,j is:52:,result is:3,set is:{52, 37, 63}
+i is:37,j is:53:,result is:5,set is:{72, 68, 37, 53, 63}
+i is:37,j is:55:,result is:4,set is:{63, 59, 37, 55}
+i is:37,j is:56:,result is:3,set is:{56, 37, 63}
+i is:37,j is:57:,result is:3,set is:{57, 37, 63}
+i is:37,j is:58:,result is:3,set is:{58, 37, 63}
+i is:37,j is:60:,result is:3,set is:{60, 37, 63}
+i is:37,j is:61:,result is:3,set is:{37, 61, 63}
+i is:37,j is:62:,result is:3,set is:{37, 62, 63}
+i is:37,j is:64:,result is:2,set is:{64, 37}
+i is:37,j is:67:,result is:3,set is:{74, 67, 37}
+i is:37,j is:70:,result is:3,set is:{97, 37, 70}
+i is:37,j is:71:,result is:2,set is:{37, 71}
+i is:37,j is:73:,result is:2,set is:{73, 37}
+i is:37,j is:76:,result is:2,set is:{76, 37}
+i is:37,j is:77:,result is:3,set is:{108, 37, 77}
+i is:37,j is:78:,result is:2,set is:{37, 78}
+i is:37,j is:80:,result is:2,set is:{80, 37}
+i is:37,j is:81:,result is:2,set is:{81, 37}
+i is:37,j is:83:,result is:2,set is:{83, 37}
+i is:37,j is:84:,result is:2,set is:{84, 37}
+i is:37,j is:85:,result is:2,set is:{37, 85}
+i is:37,j is:86:,result is:2,set is:{37, 86}
+i is:37,j is:87:,result is:2,set is:{37, 87}
+i is:37,j is:88:,result is:2,set is:{88, 37}
+i is:37,j is:89:,result is:2,set is:{89, 37}
+i is:37,j is:92:,result is:3,set is:{106, 92, 37}
+i is:37,j is:93:,result is:2,set is:{37, 93}
+i is:37,j is:95:,result is:2,set is:{37, 95}
+i is:37,j is:96:,result is:2,set is:{96, 37}
+i is:37,j is:98:,result is:2,set is:{98, 37}
+i is:37,j is:99:,result is:2,set is:{99, 37}
+i is:37,j is:100:,result is:2,set is:{100, 37}
+i is:37,j is:101:,result is:2,set is:{37, 101}
+i is:37,j is:102:,result is:2,set is:{37, 102}
+i is:37,j is:103:,result is:2,set is:{37, 103}
+i is:37,j is:104:,result is:2,set is:{104, 37}
+i is:37,j is:105:,result is:2,set is:{105, 37}
+i is:37,j is:107:,result is:3,set is:{107, 37, 110}
+i is:38,j is:39:,result is:2,set is:{38, 39}
+i is:38,j is:40:,result is:2,set is:{40, 38}
+i is:38,j is:41:,result is:2,set is:{41, 38}
+i is:38,j is:42:,result is:2,set is:{42, 38}
+i is:38,j is:43:,result is:2,set is:{43, 38}
+i is:38,j is:44:,result is:2,set is:{44, 38}
+i is:38,j is:46:,result is:2,set is:{38, 46}
+i is:38,j is:47:,result is:2,set is:{38, 47}
+i is:38,j is:48:,result is:2,set is:{48, 38}
+i is:38,j is:49:,result is:4,set is:{49, 90, 109, 38}
+i is:38,j is:50:,result is:2,set is:{50, 38}
+i is:38,j is:51:,result is:3,set is:{82, 51, 38}
+i is:38,j is:52:,result is:2,set is:{52, 38}
+i is:38,j is:53:,result is:4,set is:{72, 68, 53, 38}
+i is:38,j is:55:,result is:3,set is:{59, 38, 55}
+i is:38,j is:56:,result is:2,set is:{56, 38}
+i is:38,j is:57:,result is:2,set is:{57, 38}
+i is:38,j is:58:,result is:2,set is:{58, 38}
+i is:38,j is:60:,result is:2,set is:{60, 38}
+i is:38,j is:61:,result is:2,set is:{61, 38}
+i is:38,j is:62:,result is:2,set is:{38, 62}
+i is:38,j is:64:,result is:2,set is:{64, 38}
+i is:38,j is:67:,result is:3,set is:{74, 67, 38}
+i is:38,j is:70:,result is:3,set is:{97, 38, 70}
+i is:38,j is:73:,result is:2,set is:{73, 38}
+i is:38,j is:76:,result is:2,set is:{76, 38}
+i is:38,j is:77:,result is:3,set is:{108, 77, 38}
+i is:38,j is:78:,result is:2,set is:{38, 78}
+i is:38,j is:80:,result is:2,set is:{80, 38}
+i is:38,j is:81:,result is:2,set is:{81, 38}
+i is:38,j is:83:,result is:2,set is:{83, 38}
+i is:38,j is:84:,result is:2,set is:{84, 38}
+i is:38,j is:85:,result is:2,set is:{85, 38}
+i is:38,j is:86:,result is:2,set is:{38, 86}
+i is:38,j is:87:,result is:2,set is:{38, 87}
+i is:38,j is:88:,result is:2,set is:{88, 38}
+i is:38,j is:89:,result is:2,set is:{89, 38}
+i is:38,j is:92:,result is:3,set is:{106, 92, 38}
+i is:38,j is:93:,result is:2,set is:{93, 38}
+i is:38,j is:95:,result is:2,set is:{38, 95}
+i is:38,j is:96:,result is:2,set is:{96, 38}
+i is:38,j is:98:,result is:2,set is:{98, 38}
+i is:38,j is:99:,result is:2,set is:{99, 38}
+i is:38,j is:100:,result is:2,set is:{100, 38}
+i is:38,j is:101:,result is:2,set is:{101, 38}
+i is:38,j is:102:,result is:2,set is:{38, 102}
+i is:38,j is:103:,result is:2,set is:{38, 103}
+i is:38,j is:104:,result is:2,set is:{104, 38}
+i is:38,j is:105:,result is:2,set is:{105, 38}
+i is:38,j is:107:,result is:3,set is:{107, 38, 110}
+i is:39,j is:40:,result is:2,set is:{40, 39}
+i is:39,j is:42:,result is:2,set is:{42, 39}
+i is:39,j is:43:,result is:2,set is:{43, 39}
+i is:39,j is:44:,result is:2,set is:{44, 39}
+i is:39,j is:45:,result is:3,set is:{66, 45, 39}
+i is:39,j is:48:,result is:2,set is:{48, 39}
+i is:39,j is:49:,result is:4,set is:{49, 90, 109, 39}
+i is:39,j is:50:,result is:2,set is:{50, 39}
+i is:39,j is:52:,result is:2,set is:{52, 39}
+i is:39,j is:54:,result is:2,set is:{54, 39}
+i is:39,j is:55:,result is:3,set is:{55, 59, 39}
+i is:39,j is:56:,result is:2,set is:{56, 39}
+i is:39,j is:57:,result is:2,set is:{57, 39}
+i is:39,j is:58:,result is:2,set is:{58, 39}
+i is:39,j is:60:,result is:2,set is:{60, 39}
+i is:39,j is:61:,result is:2,set is:{61, 39}
+i is:39,j is:62:,result is:2,set is:{62, 39}
+i is:39,j is:64:,result is:2,set is:{64, 39}
+i is:39,j is:65:,result is:2,set is:{65, 39}
+i is:39,j is:67:,result is:3,set is:{74, 67, 39}
+i is:39,j is:70:,result is:3,set is:{97, 70, 39}
+i is:39,j is:75:,result is:2,set is:{75, 39}
+i is:39,j is:76:,result is:2,set is:{76, 39}
+i is:39,j is:78:,result is:2,set is:{78, 39}
+i is:39,j is:79:,result is:2,set is:{79, 39}
+i is:39,j is:80:,result is:2,set is:{80, 39}
+i is:39,j is:81:,result is:2,set is:{81, 39}
+i is:39,j is:83:,result is:2,set is:{83, 39}
+i is:39,j is:85:,result is:2,set is:{85, 39}
+i is:39,j is:86:,result is:2,set is:{86, 39}
+i is:39,j is:87:,result is:2,set is:{87, 39}
+i is:39,j is:88:,result is:2,set is:{88, 39}
+i is:39,j is:89:,result is:2,set is:{89, 39}
+i is:39,j is:91:,result is:2,set is:{91, 39}
+i is:39,j is:94:,result is:2,set is:{94, 39}
+i is:39,j is:95:,result is:2,set is:{95, 39}
+i is:39,j is:98:,result is:2,set is:{98, 39}
+i is:39,j is:99:,result is:2,set is:{99, 39}
+i is:39,j is:100:,result is:2,set is:{100, 39}
+i is:39,j is:102:,result is:2,set is:{102, 39}
+i is:39,j is:103:,result is:2,set is:{103, 39}
+i is:39,j is:105:,result is:2,set is:{105, 39}
+i is:39,j is:111:,result is:2,set is:{111, 39}
+i is:40,j is:42:,result is:2,set is:{40, 42}
+i is:40,j is:43:,result is:2,set is:{40, 43}
+i is:40,j is:44:,result is:15,set is:{101, 40, 106, 107, 44, 109, 78, 110, 49, 81, 55, 89, 90, 59, 92}
+i is:40,j is:45:,result is:3,set is:{40, 66, 45}
+i is:40,j is:47:,result is:3,set is:{40, 99, 47}
+i is:40,j is:48:,result is:2,set is:{40, 48}
+i is:40,j is:50:,result is:2,set is:{40, 50}
+i is:40,j is:52:,result is:2,set is:{40, 52}
+i is:40,j is:54:,result is:2,set is:{40, 54}
+i is:40,j is:56:,result is:2,set is:{40, 56}
+i is:40,j is:57:,result is:2,set is:{40, 57}
+i is:40,j is:58:,result is:2,set is:{40, 58}
+i is:40,j is:60:,result is:2,set is:{40, 60}
+i is:40,j is:61:,result is:2,set is:{40, 61}
+i is:40,j is:62:,result is:2,set is:{40, 62}
+i is:40,j is:64:,result is:2,set is:{40, 64}
+i is:40,j is:65:,result is:2,set is:{40, 65}
+i is:40,j is:67:,result is:3,set is:{40, 74, 67}
+i is:40,j is:70:,result is:3,set is:{40, 97, 70}
+i is:40,j is:75:,result is:2,set is:{40, 75}
+i is:40,j is:76:,result is:2,set is:{40, 76}
+i is:40,j is:79:,result is:2,set is:{40, 79}
+i is:40,j is:80:,result is:2,set is:{40, 80}
+i is:40,j is:83:,result is:2,set is:{40, 83}
+i is:40,j is:84:,result is:2,set is:{40, 84}
+i is:40,j is:85:,result is:2,set is:{40, 85}
+i is:40,j is:86:,result is:2,set is:{40, 86}
+i is:40,j is:87:,result is:2,set is:{40, 87}
+i is:40,j is:88:,result is:2,set is:{40, 88}
+i is:40,j is:91:,result is:2,set is:{40, 91}
+i is:40,j is:94:,result is:2,set is:{40, 94}
+i is:40,j is:95:,result is:2,set is:{40, 95}
+i is:40,j is:98:,result is:2,set is:{40, 98}
+i is:40,j is:100:,result is:2,set is:{40, 100}
+i is:40,j is:102:,result is:2,set is:{40, 102}
+i is:40,j is:103:,result is:2,set is:{40, 103}
+i is:40,j is:104:,result is:2,set is:{40, 104}
+i is:40,j is:105:,result is:2,set is:{40, 105}
+i is:40,j is:111:,result is:2,set is:{40, 111}
+i is:41,j is:42:,result is:2,set is:{41, 42}
+i is:41,j is:43:,result is:2,set is:{41, 43}
+i is:41,j is:44:,result is:2,set is:{41, 44}
+i is:41,j is:45:,result is:3,set is:{41, 66, 45}
+i is:41,j is:46:,result is:2,set is:{41, 46}
+i is:41,j is:47:,result is:2,set is:{41, 47}
+i is:41,j is:48:,result is:2,set is:{48, 41}
+i is:41,j is:49:,result is:4,set is:{41, 49, 90, 109}
+i is:41,j is:50:,result is:2,set is:{41, 50}
+i is:41,j is:51:,result is:3,set is:{41, 82, 51}
+i is:41,j is:52:,result is:2,set is:{41, 52}
+i is:41,j is:53:,result is:4,set is:{72, 41, 68, 53}
+i is:41,j is:54:,result is:2,set is:{41, 54}
+i is:41,j is:55:,result is:3,set is:{41, 59, 55}
+i is:41,j is:56:,result is:2,set is:{56, 41}
+i is:41,j is:57:,result is:2,set is:{41, 57}
+i is:41,j is:58:,result is:2,set is:{41, 58}
+i is:41,j is:60:,result is:2,set is:{41, 60}
+i is:41,j is:61:,result is:2,set is:{41, 61}
+i is:41,j is:64:,result is:2,set is:{64, 41}
+i is:41,j is:65:,result is:2,set is:{41, 65}
+i is:41,j is:67:,result is:3,set is:{41, 74, 67}
+i is:41,j is:69:,result is:2,set is:{41, 69}
+i is:41,j is:70:,result is:3,set is:{41, 97, 70}
+i is:41,j is:73:,result is:2,set is:{41, 73}
+i is:41,j is:75:,result is:2,set is:{41, 75}
+i is:41,j is:76:,result is:2,set is:{41, 76}
+i is:41,j is:77:,result is:3,set is:{41, 108, 77}
+i is:41,j is:78:,result is:2,set is:{41, 78}
+i is:41,j is:79:,result is:2,set is:{41, 79}
+i is:41,j is:80:,result is:2,set is:{80, 41}
+i is:41,j is:81:,result is:2,set is:{41, 81}
+i is:41,j is:83:,result is:2,set is:{41, 83}
+i is:41,j is:84:,result is:2,set is:{41, 84}
+i is:41,j is:85:,result is:2,set is:{41, 85}
+i is:41,j is:86:,result is:2,set is:{41, 86}
+i is:41,j is:87:,result is:2,set is:{41, 87}
+i is:41,j is:88:,result is:2,set is:{88, 41}
+i is:41,j is:89:,result is:2,set is:{41, 89}
+i is:41,j is:91:,result is:2,set is:{41, 91}
+i is:41,j is:92:,result is:3,set is:{41, 106, 92}
+i is:41,j is:93:,result is:2,set is:{41, 93}
+i is:41,j is:94:,result is:2,set is:{41, 94}
+i is:41,j is:95:,result is:2,set is:{41, 95}
+i is:41,j is:96:,result is:2,set is:{96, 41}
+i is:41,j is:98:,result is:2,set is:{41, 98}
+i is:41,j is:99:,result is:2,set is:{41, 99}
+i is:41,j is:100:,result is:2,set is:{41, 100}
+i is:41,j is:101:,result is:2,set is:{41, 101}
+i is:41,j is:102:,result is:2,set is:{41, 102}
+i is:41,j is:103:,result is:2,set is:{41, 103}
+i is:41,j is:104:,result is:2,set is:{104, 41}
+i is:41,j is:105:,result is:2,set is:{41, 105}
+i is:41,j is:107:,result is:3,set is:{41, 107, 110}
+i is:41,j is:111:,result is:2,set is:{41, 111}
+i is:42,j is:43:,result is:2,set is:{42, 43}
+i is:42,j is:44:,result is:2,set is:{42, 44}
+i is:42,j is:45:,result is:3,set is:{42, 66, 45}
+i is:42,j is:48:,result is:2,set is:{48, 42}
+i is:42,j is:49:,result is:4,set is:{49, 42, 90, 109}
+i is:42,j is:50:,result is:2,set is:{42, 50}
+i is:42,j is:52:,result is:2,set is:{42, 52}
+i is:42,j is:54:,result is:2,set is:{42, 54}
+i is:42,j is:55:,result is:3,set is:{42, 59, 55}
+i is:42,j is:56:,result is:2,set is:{56, 42}
+i is:42,j is:57:,result is:2,set is:{57, 42}
+i is:42,j is:58:,result is:2,set is:{42, 58}
+i is:42,j is:60:,result is:2,set is:{42, 60}
+i is:42,j is:61:,result is:2,set is:{42, 61}
+i is:42,j is:62:,result is:2,set is:{42, 62}
+i is:42,j is:64:,result is:2,set is:{64, 42}
+i is:42,j is:65:,result is:2,set is:{65, 42}
+i is:42,j is:67:,result is:3,set is:{42, 67, 74}
+i is:42,j is:70:,result is:3,set is:{97, 42, 70}
+i is:42,j is:75:,result is:2,set is:{42, 75}
+i is:42,j is:76:,result is:2,set is:{42, 76}
+i is:42,j is:78:,result is:2,set is:{42, 78}
+i is:42,j is:79:,result is:2,set is:{42, 79}
+i is:42,j is:80:,result is:2,set is:{80, 42}
+i is:42,j is:81:,result is:2,set is:{81, 42}
+i is:42,j is:83:,result is:2,set is:{42, 83}
+i is:42,j is:84:,result is:2,set is:{42, 84}
+i is:42,j is:85:,result is:2,set is:{42, 85}
+i is:42,j is:86:,result is:2,set is:{42, 86}
+i is:42,j is:87:,result is:2,set is:{42, 87}
+i is:42,j is:88:,result is:2,set is:{88, 42}
+i is:42,j is:89:,result is:2,set is:{89, 42}
+i is:42,j is:91:,result is:2,set is:{42, 91}
+i is:42,j is:94:,result is:2,set is:{42, 94}
+i is:42,j is:95:,result is:2,set is:{42, 95}
+i is:42,j is:98:,result is:2,set is:{42, 98}
+i is:42,j is:99:,result is:2,set is:{42, 99}
+i is:42,j is:100:,result is:2,set is:{42, 100}
+i is:42,j is:102:,result is:2,set is:{42, 102}
+i is:42,j is:103:,result is:2,set is:{42, 103}
+i is:42,j is:104:,result is:2,set is:{104, 42}
+i is:42,j is:105:,result is:2,set is:{105, 42}
+i is:42,j is:111:,result is:2,set is:{42, 111}
+i is:43,j is:44:,result is:2,set is:{43, 44}
+i is:43,j is:45:,result is:3,set is:{66, 43, 45}
+i is:43,j is:48:,result is:12,set is:{96, 67, 99, 73, 74, 43, 48, 82, 51, 52, 86, 93}
+i is:43,j is:49:,result is:4,set is:{49, 90, 43, 109}
+i is:43,j is:50:,result is:2,set is:{50, 43}
+i is:43,j is:54:,result is:2,set is:{43, 54}
+i is:43,j is:55:,result is:3,set is:{43, 59, 55}
+i is:43,j is:56:,result is:2,set is:{56, 43}
+i is:43,j is:57:,result is:2,set is:{57, 43}
+i is:43,j is:58:,result is:2,set is:{58, 43}
+i is:43,j is:60:,result is:2,set is:{43, 60}
+i is:43,j is:61:,result is:2,set is:{43, 61}
+i is:43,j is:62:,result is:2,set is:{43, 62}
+i is:43,j is:64:,result is:2,set is:{64, 43}
+i is:43,j is:65:,result is:2,set is:{65, 43}
+i is:43,j is:70:,result is:3,set is:{97, 43, 70}
+i is:43,j is:75:,result is:2,set is:{43, 75}
+i is:43,j is:76:,result is:2,set is:{43, 76}
+i is:43,j is:78:,result is:2,set is:{43, 78}
+i is:43,j is:79:,result is:2,set is:{43, 79}
+i is:43,j is:80:,result is:2,set is:{80, 43}
+i is:43,j is:81:,result is:2,set is:{81, 43}
+i is:43,j is:83:,result is:2,set is:{43, 83}
+i is:43,j is:84:,result is:2,set is:{43, 84}
+i is:43,j is:85:,result is:2,set is:{43, 85}
+i is:43,j is:87:,result is:2,set is:{43, 87}
+i is:43,j is:88:,result is:2,set is:{88, 43}
+i is:43,j is:89:,result is:2,set is:{89, 43}
+i is:43,j is:91:,result is:2,set is:{43, 91}
+i is:43,j is:94:,result is:2,set is:{43, 94}
+i is:43,j is:95:,result is:2,set is:{43, 95}
+i is:43,j is:98:,result is:2,set is:{98, 43}
+i is:43,j is:100:,result is:2,set is:{43, 100}
+i is:43,j is:102:,result is:2,set is:{43, 102}
+i is:43,j is:103:,result is:2,set is:{43, 103}
+i is:43,j is:104:,result is:2,set is:{104, 43}
+i is:43,j is:105:,result is:2,set is:{105, 43}
+i is:43,j is:111:,result is:2,set is:{43, 111}
+i is:44,j is:45:,result is:3,set is:{66, 44, 45}
+i is:44,j is:48:,result is:2,set is:{48, 44}
+i is:44,j is:50:,result is:2,set is:{50, 44}
+i is:44,j is:52:,result is:2,set is:{44, 52}
+i is:44,j is:54:,result is:2,set is:{44, 54}
+i is:44,j is:56:,result is:2,set is:{56, 44}
+i is:44,j is:57:,result is:2,set is:{57, 44}
+i is:44,j is:58:,result is:2,set is:{58, 44}
+i is:44,j is:60:,result is:2,set is:{44, 60}
+i is:44,j is:61:,result is:2,set is:{44, 61}
+i is:44,j is:62:,result is:2,set is:{44, 62}
+i is:44,j is:64:,result is:2,set is:{64, 44}
+i is:44,j is:65:,result is:2,set is:{65, 44}
+i is:44,j is:67:,result is:3,set is:{74, 67, 44}
+i is:44,j is:70:,result is:3,set is:{97, 44, 70}
+i is:44,j is:75:,result is:2,set is:{75, 44}
+i is:44,j is:76:,result is:2,set is:{44, 76}
+i is:44,j is:79:,result is:2,set is:{44, 79}
+i is:44,j is:80:,result is:2,set is:{80, 44}
+i is:44,j is:83:,result is:2,set is:{83, 44}
+i is:44,j is:84:,result is:2,set is:{44, 84}
+i is:44,j is:85:,result is:2,set is:{44, 85}
+i is:44,j is:86:,result is:2,set is:{44, 86}
+i is:44,j is:87:,result is:2,set is:{44, 87}
+i is:44,j is:88:,result is:2,set is:{88, 44}
+i is:44,j is:91:,result is:2,set is:{91, 44}
+i is:44,j is:94:,result is:2,set is:{44, 94}
+i is:44,j is:95:,result is:2,set is:{44, 95}
+i is:44,j is:98:,result is:2,set is:{98, 44}
+i is:44,j is:99:,result is:2,set is:{99, 44}
+i is:44,j is:100:,result is:2,set is:{44, 100}
+i is:44,j is:102:,result is:2,set is:{44, 102}
+i is:44,j is:103:,result is:2,set is:{44, 103}
+i is:44,j is:104:,result is:2,set is:{104, 44}
+i is:44,j is:105:,result is:2,set is:{105, 44}
+i is:44,j is:111:,result is:2,set is:{44, 111}
+i is:45,j is:48:,result is:3,set is:{48, 66, 45}
+i is:45,j is:49:,result is:5,set is:{49, 66, 90, 45, 109}
+i is:45,j is:50:,result is:3,set is:{50, 66, 45}
+i is:45,j is:52:,result is:3,set is:{66, 52, 45}
+i is:45,j is:54:,result is:11,set is:{65, 66, 69, 75, 45, 79, 111, 54, 91, 94, 63}
+i is:45,j is:55:,result is:4,set is:{66, 59, 45, 55}
+i is:45,j is:56:,result is:3,set is:{56, 66, 45}
+i is:45,j is:57:,result is:3,set is:{57, 66, 45}
+i is:45,j is:58:,result is:3,set is:{58, 66, 45}
+i is:45,j is:60:,result is:3,set is:{66, 60, 45}
+i is:45,j is:61:,result is:3,set is:{66, 45, 61}
+i is:45,j is:62:,result is:3,set is:{66, 45, 62}
+i is:45,j is:64:,result is:3,set is:{64, 66, 45}
+i is:45,j is:67:,result is:3,set is:{74, 67, 45}
+i is:45,j is:70:,result is:3,set is:{97, 45, 70}
+i is:45,j is:76:,result is:2,set is:{76, 45}
+i is:45,j is:78:,result is:2,set is:{45, 78}
+i is:45,j is:80:,result is:2,set is:{80, 45}
+i is:45,j is:81:,result is:2,set is:{81, 45}
+i is:45,j is:83:,result is:2,set is:{83, 45}
+i is:45,j is:84:,result is:2,set is:{84, 45}
+i is:45,j is:85:,result is:2,set is:{45, 85}
+i is:45,j is:86:,result is:2,set is:{45, 86}
+i is:45,j is:87:,result is:2,set is:{45, 87}
+i is:45,j is:88:,result is:2,set is:{88, 45}
+i is:45,j is:89:,result is:2,set is:{89, 45}
+i is:45,j is:95:,result is:2,set is:{45, 95}
+i is:45,j is:98:,result is:2,set is:{98, 45}
+i is:45,j is:99:,result is:2,set is:{99, 45}
+i is:45,j is:100:,result is:2,set is:{100, 45}
+i is:45,j is:102:,result is:2,set is:{45, 102}
+i is:45,j is:103:,result is:2,set is:{45, 103}
+i is:45,j is:104:,result is:2,set is:{104, 45}
+i is:45,j is:105:,result is:2,set is:{105, 45}
+i is:46,j is:47:,result is:2,set is:{46, 47}
+i is:46,j is:48:,result is:2,set is:{48, 46}
+i is:46,j is:49:,result is:4,set is:{49, 90, 109, 46}
+i is:46,j is:50:,result is:2,set is:{50, 46}
+i is:46,j is:51:,result is:3,set is:{82, 51, 46}
+i is:46,j is:52:,result is:2,set is:{52, 46}
+i is:46,j is:53:,result is:4,set is:{72, 68, 53, 46}
+i is:46,j is:54:,result is:2,set is:{46, 54}
+i is:46,j is:55:,result is:3,set is:{59, 46, 55}
+i is:46,j is:56:,result is:2,set is:{56, 46}
+i is:46,j is:57:,result is:2,set is:{57, 46}
+i is:46,j is:58:,result is:2,set is:{58, 46}
+i is:46,j is:60:,result is:2,set is:{60, 46}
+i is:46,j is:61:,result is:2,set is:{61, 46}
+i is:46,j is:62:,result is:2,set is:{46, 62}
+i is:46,j is:64:,result is:2,set is:{64, 46}
+i is:46,j is:65:,result is:2,set is:{65, 46}
+i is:46,j is:66:,result is:2,set is:{66, 46}
+i is:46,j is:67:,result is:3,set is:{74, 67, 46}
+i is:46,j is:69:,result is:2,set is:{69, 46}
+i is:46,j is:70:,result is:3,set is:{97, 46, 70}
+i is:46,j is:71:,result is:2,set is:{46, 71}
+i is:46,j is:73:,result is:2,set is:{73, 46}
+i is:46,j is:75:,result is:2,set is:{75, 46}
+i is:46,j is:76:,result is:2,set is:{76, 46}
+i is:46,j is:77:,result is:3,set is:{108, 77, 46}
+i is:46,j is:78:,result is:2,set is:{46, 78}
+i is:46,j is:79:,result is:2,set is:{46, 79}
+i is:46,j is:80:,result is:2,set is:{80, 46}
+i is:46,j is:81:,result is:2,set is:{81, 46}
+i is:46,j is:83:,result is:2,set is:{83, 46}
+i is:46,j is:84:,result is:2,set is:{84, 46}
+i is:46,j is:85:,result is:2,set is:{85, 46}
+i is:46,j is:86:,result is:2,set is:{46, 86}
+i is:46,j is:87:,result is:2,set is:{46, 87}
+i is:46,j is:88:,result is:2,set is:{88, 46}
+i is:46,j is:89:,result is:2,set is:{89, 46}
+i is:46,j is:91:,result is:2,set is:{91, 46}
+i is:46,j is:92:,result is:3,set is:{106, 92, 46}
+i is:46,j is:93:,result is:2,set is:{93, 46}
+i is:46,j is:94:,result is:2,set is:{46, 94}
+i is:46,j is:95:,result is:2,set is:{46, 95}
+i is:46,j is:96:,result is:2,set is:{96, 46}
+i is:46,j is:98:,result is:2,set is:{98, 46}
+i is:46,j is:99:,result is:2,set is:{99, 46}
+i is:46,j is:100:,result is:2,set is:{100, 46}
+i is:46,j is:101:,result is:2,set is:{101, 46}
+i is:46,j is:102:,result is:2,set is:{46, 102}
+i is:46,j is:103:,result is:2,set is:{46, 103}
+i is:46,j is:104:,result is:2,set is:{104, 46}
+i is:46,j is:105:,result is:2,set is:{105, 46}
+i is:46,j is:107:,result is:3,set is:{107, 46, 110}
+i is:46,j is:111:,result is:2,set is:{46, 111}
+i is:47,j is:48:,result is:2,set is:{48, 47}
+i is:47,j is:49:,result is:4,set is:{49, 90, 109, 47}
+i is:47,j is:50:,result is:2,set is:{50, 47}
+i is:47,j is:51:,result is:3,set is:{82, 51, 47}
+i is:47,j is:52:,result is:2,set is:{52, 47}
+i is:47,j is:53:,result is:4,set is:{72, 68, 53, 47}
+i is:47,j is:54:,result is:2,set is:{54, 47}
+i is:47,j is:55:,result is:3,set is:{55, 59, 47}
+i is:47,j is:56:,result is:2,set is:{56, 47}
+i is:47,j is:57:,result is:2,set is:{57, 47}
+i is:47,j is:58:,result is:2,set is:{58, 47}
+i is:47,j is:60:,result is:2,set is:{60, 47}
+i is:47,j is:61:,result is:2,set is:{61, 47}
+i is:47,j is:62:,result is:2,set is:{62, 47}
+i is:47,j is:64:,result is:2,set is:{64, 47}
+i is:47,j is:65:,result is:2,set is:{65, 47}
+i is:47,j is:66:,result is:2,set is:{66, 47}
+i is:47,j is:67:,result is:3,set is:{74, 67, 47}
+i is:47,j is:69:,result is:2,set is:{69, 47}
+i is:47,j is:70:,result is:3,set is:{97, 70, 47}
+i is:47,j is:73:,result is:2,set is:{73, 47}
+i is:47,j is:75:,result is:2,set is:{75, 47}
+i is:47,j is:76:,result is:2,set is:{76, 47}
+i is:47,j is:77:,result is:3,set is:{108, 77, 47}
+i is:47,j is:78:,result is:2,set is:{78, 47}
+i is:47,j is:79:,result is:2,set is:{79, 47}
+i is:47,j is:80:,result is:2,set is:{80, 47}
+i is:47,j is:81:,result is:2,set is:{81, 47}
+i is:47,j is:83:,result is:2,set is:{83, 47}
+i is:47,j is:84:,result is:3,set is:{104, 84, 47}
+i is:47,j is:85:,result is:2,set is:{85, 47}
+i is:47,j is:86:,result is:2,set is:{86, 47}
+i is:47,j is:87:,result is:2,set is:{87, 47}
+i is:47,j is:88:,result is:2,set is:{88, 47}
+i is:47,j is:89:,result is:2,set is:{89, 47}
+i is:47,j is:91:,result is:2,set is:{91, 47}
+i is:47,j is:92:,result is:3,set is:{106, 92, 47}
+i is:47,j is:93:,result is:2,set is:{93, 47}
+i is:47,j is:94:,result is:2,set is:{94, 47}
+i is:47,j is:95:,result is:2,set is:{95, 47}
+i is:47,j is:96:,result is:2,set is:{96, 47}
+i is:47,j is:98:,result is:2,set is:{98, 47}
+i is:47,j is:100:,result is:2,set is:{100, 47}
+i is:47,j is:101:,result is:2,set is:{101, 47}
+i is:47,j is:102:,result is:2,set is:{102, 47}
+i is:47,j is:103:,result is:2,set is:{103, 47}
+i is:47,j is:105:,result is:2,set is:{105, 47}
+i is:47,j is:107:,result is:3,set is:{107, 110, 47}
+i is:47,j is:111:,result is:2,set is:{111, 47}
+i is:48,j is:49:,result is:4,set is:{48, 49, 90, 109}
+i is:48,j is:50:,result is:2,set is:{48, 50}
+i is:48,j is:54:,result is:2,set is:{48, 54}
+i is:48,j is:55:,result is:3,set is:{48, 59, 55}
+i is:48,j is:56:,result is:2,set is:{48, 56}
+i is:48,j is:57:,result is:2,set is:{48, 57}
+i is:48,j is:58:,result is:2,set is:{48, 58}
+i is:48,j is:60:,result is:2,set is:{48, 60}
+i is:48,j is:61:,result is:2,set is:{48, 61}
+i is:48,j is:62:,result is:2,set is:{48, 62}
+i is:48,j is:64:,result is:2,set is:{48, 64}
+i is:48,j is:65:,result is:2,set is:{48, 65}
+i is:48,j is:70:,result is:3,set is:{48, 97, 70}
+i is:48,j is:75:,result is:2,set is:{48, 75}
+i is:48,j is:76:,result is:2,set is:{48, 76}
+i is:48,j is:78:,result is:2,set is:{48, 78}
+i is:48,j is:79:,result is:2,set is:{48, 79}
+i is:48,j is:80:,result is:2,set is:{48, 80}
+i is:48,j is:81:,result is:2,set is:{48, 81}
+i is:48,j is:83:,result is:2,set is:{48, 83}
+i is:48,j is:84:,result is:2,set is:{48, 84}
+i is:48,j is:85:,result is:2,set is:{48, 85}
+i is:48,j is:87:,result is:2,set is:{48, 87}
+i is:48,j is:88:,result is:2,set is:{48, 88}
+i is:48,j is:89:,result is:2,set is:{48, 89}
+i is:48,j is:91:,result is:2,set is:{48, 91}
+i is:48,j is:94:,result is:2,set is:{48, 94}
+i is:48,j is:95:,result is:2,set is:{48, 95}
+i is:48,j is:98:,result is:2,set is:{48, 98}
+i is:48,j is:100:,result is:2,set is:{48, 100}
+i is:48,j is:102:,result is:2,set is:{48, 102}
+i is:48,j is:103:,result is:2,set is:{48, 103}
+i is:48,j is:104:,result is:2,set is:{48, 104}
+i is:48,j is:105:,result is:2,set is:{48, 105}
+i is:48,j is:111:,result is:2,set is:{48, 111}
+i is:49,j is:50:,result is:4,set is:{49, 50, 90, 109}
+i is:49,j is:52:,result is:4,set is:{49, 90, 52, 109}
+i is:49,j is:54:,result is:4,set is:{49, 90, 109, 54}
+i is:49,j is:55:,result is:13,set is:{101, 106, 107, 109, 78, 110, 49, 81, 55, 89, 90, 59, 92}
+i is:49,j is:56:,result is:4,set is:{56, 49, 90, 109}
+i is:49,j is:57:,result is:4,set is:{49, 57, 90, 109}
+i is:49,j is:58:,result is:4,set is:{49, 58, 90, 109}
+i is:49,j is:60:,result is:4,set is:{49, 90, 60, 109}
+i is:49,j is:61:,result is:4,set is:{49, 90, 61, 109}
+i is:49,j is:62:,result is:4,set is:{49, 90, 109, 62}
+i is:49,j is:64:,result is:4,set is:{64, 49, 90, 109}
+i is:49,j is:65:,result is:4,set is:{49, 65, 90, 109}
+i is:49,j is:67:,result is:5,set is:{49, 74, 67, 90, 109}
+i is:49,j is:70:,result is:5,set is:{49, 90, 97, 109, 70}
+i is:49,j is:75:,result is:4,set is:{49, 90, 75, 109}
+i is:49,j is:76:,result is:4,set is:{49, 90, 76, 109}
+i is:49,j is:79:,result is:4,set is:{49, 90, 109, 79}
+i is:49,j is:80:,result is:4,set is:{80, 49, 90, 109}
+i is:49,j is:83:,result is:4,set is:{49, 90, 83, 109}
+i is:49,j is:84:,result is:4,set is:{49, 90, 84, 109}
+i is:49,j is:85:,result is:4,set is:{49, 90, 85, 109}
+i is:49,j is:86:,result is:4,set is:{49, 90, 109, 86}
+i is:49,j is:87:,result is:4,set is:{49, 90, 109, 87}
+i is:49,j is:88:,result is:4,set is:{88, 49, 90, 109}
+i is:49,j is:91:,result is:3,set is:{49, 91, 109}
+i is:49,j is:94:,result is:3,set is:{49, 109, 94}
+i is:49,j is:95:,result is:3,set is:{49, 109, 95}
+i is:49,j is:98:,result is:3,set is:{49, 98, 109}
+i is:49,j is:99:,result is:3,set is:{49, 99, 109}
+i is:49,j is:100:,result is:3,set is:{49, 100, 109}
+i is:49,j is:102:,result is:3,set is:{49, 109, 102}
+i is:49,j is:103:,result is:3,set is:{49, 109, 103}
+i is:49,j is:104:,result is:3,set is:{104, 49, 109}
+i is:49,j is:105:,result is:3,set is:{49, 105, 109}
+i is:49,j is:111:,result is:2,set is:{49, 111}
+i is:50,j is:52:,result is:2,set is:{50, 52}
+i is:50,j is:54:,result is:2,set is:{50, 54}
+i is:50,j is:55:,result is:3,set is:{50, 59, 55}
+i is:50,j is:56:,result is:2,set is:{56, 50}
+i is:50,j is:60:,result is:2,set is:{50, 60}
+i is:50,j is:61:,result is:2,set is:{50, 61}
+i is:50,j is:62:,result is:2,set is:{50, 62}
+i is:50,j is:64:,result is:2,set is:{64, 50}
+i is:50,j is:65:,result is:2,set is:{65, 50}
+i is:50,j is:67:,result is:3,set is:{50, 67, 74}
+i is:50,j is:70:,result is:3,set is:{97, 50, 70}
+i is:50,j is:75:,result is:2,set is:{50, 75}
+i is:50,j is:76:,result is:2,set is:{50, 76}
+i is:50,j is:78:,result is:2,set is:{50, 78}
+i is:50,j is:79:,result is:2,set is:{50, 79}
+i is:50,j is:80:,result is:2,set is:{80, 50}
+i is:50,j is:81:,result is:2,set is:{81, 50}
+i is:50,j is:83:,result is:2,set is:{50, 83}
+i is:50,j is:84:,result is:2,set is:{50, 84}
+i is:50,j is:85:,result is:2,set is:{50, 85}
+i is:50,j is:86:,result is:2,set is:{50, 86}
+i is:50,j is:87:,result is:2,set is:{50, 87}
+i is:50,j is:88:,result is:2,set is:{88, 50}
+i is:50,j is:89:,result is:2,set is:{89, 50}
+i is:50,j is:91:,result is:2,set is:{50, 91}
+i is:50,j is:94:,result is:2,set is:{50, 94}
+i is:50,j is:95:,result is:2,set is:{50, 95}
+i is:50,j is:98:,result is:2,set is:{50, 98}
+i is:50,j is:99:,result is:2,set is:{50, 99}
+i is:50,j is:100:,result is:2,set is:{50, 100}
+i is:50,j is:103:,result is:2,set is:{50, 103}
+i is:50,j is:104:,result is:2,set is:{104, 50}
+i is:50,j is:105:,result is:2,set is:{105, 50}
+i is:50,j is:111:,result is:2,set is:{50, 111}
+i is:51,j is:52:,result is:10,set is:{96, 67, 99, 73, 74, 82, 51, 52, 86, 93}
+i is:51,j is:53:,result is:5,set is:{72, 82, 51, 68, 53}
+i is:51,j is:54:,result is:3,set is:{82, 51, 54}
+i is:51,j is:55:,result is:4,set is:{82, 51, 59, 55}
+i is:51,j is:56:,result is:3,set is:{56, 82, 51}
+i is:51,j is:57:,result is:3,set is:{57, 82, 51}
+i is:51,j is:58:,result is:3,set is:{58, 51, 82}
+i is:51,j is:60:,result is:3,set is:{82, 51, 60}
+i is:51,j is:61:,result is:3,set is:{82, 51, 61}
+i is:51,j is:62:,result is:3,set is:{82, 51, 62}
+i is:51,j is:64:,result is:3,set is:{64, 82, 51}
+i is:51,j is:65:,result is:3,set is:{65, 82, 51}
+i is:51,j is:66:,result is:3,set is:{66, 51, 82}
+i is:51,j is:69:,result is:3,set is:{82, 51, 69}
+i is:51,j is:70:,result is:4,set is:{97, 82, 51, 70}
+i is:51,j is:75:,result is:3,set is:{82, 51, 75}
+i is:51,j is:76:,result is:3,set is:{82, 51, 76}
+i is:51,j is:77:,result is:4,set is:{82, 51, 108, 77}
+i is:51,j is:78:,result is:3,set is:{82, 51, 78}
+i is:51,j is:79:,result is:3,set is:{82, 51, 79}
+i is:51,j is:80:,result is:3,set is:{80, 82, 51}
+i is:51,j is:81:,result is:3,set is:{81, 82, 51}
+i is:51,j is:83:,result is:2,set is:{51, 83}
+i is:51,j is:84:,result is:2,set is:{51, 84}
+i is:51,j is:85:,result is:2,set is:{51, 85}
+i is:51,j is:87:,result is:2,set is:{51, 87}
+i is:51,j is:88:,result is:2,set is:{88, 51}
+i is:51,j is:89:,result is:2,set is:{89, 51}
+i is:51,j is:90:,result is:3,set is:{90, 51, 109}
+i is:51,j is:91:,result is:2,set is:{51, 91}
+i is:51,j is:92:,result is:3,set is:{106, 51, 92}
+i is:51,j is:94:,result is:2,set is:{51, 94}
+i is:51,j is:95:,result is:2,set is:{51, 95}
+i is:51,j is:98:,result is:2,set is:{98, 51}
+i is:51,j is:100:,result is:2,set is:{51, 100}
+i is:51,j is:101:,result is:2,set is:{51, 101}
+i is:51,j is:102:,result is:2,set is:{51, 102}
+i is:51,j is:103:,result is:2,set is:{51, 103}
+i is:51,j is:104:,result is:2,set is:{104, 51}
+i is:51,j is:105:,result is:2,set is:{105, 51}
+i is:51,j is:107:,result is:3,set is:{51, 107, 110}
+i is:51,j is:111:,result is:2,set is:{51, 111}
+i is:52,j is:54:,result is:2,set is:{52, 54}
+i is:52,j is:55:,result is:3,set is:{59, 52, 55}
+i is:52,j is:56:,result is:2,set is:{56, 52}
+i is:52,j is:57:,result is:2,set is:{57, 52}
+i is:52,j is:58:,result is:2,set is:{58, 52}
+i is:52,j is:60:,result is:2,set is:{52, 60}
+i is:52,j is:61:,result is:2,set is:{52, 61}
+i is:52,j is:62:,result is:2,set is:{52, 62}
+i is:52,j is:64:,result is:2,set is:{64, 52}
+i is:52,j is:65:,result is:2,set is:{65, 52}
+i is:52,j is:70:,result is:3,set is:{97, 52, 70}
+i is:52,j is:75:,result is:2,set is:{75, 52}
+i is:52,j is:76:,result is:2,set is:{52, 76}
+i is:52,j is:78:,result is:2,set is:{52, 78}
+i is:52,j is:79:,result is:2,set is:{52, 79}
+i is:52,j is:80:,result is:2,set is:{80, 52}
+i is:52,j is:81:,result is:2,set is:{81, 52}
+i is:52,j is:83:,result is:2,set is:{83, 52}
+i is:52,j is:84:,result is:2,set is:{52, 84}
+i is:52,j is:85:,result is:2,set is:{52, 85}
+i is:52,j is:87:,result is:2,set is:{52, 87}
+i is:52,j is:88:,result is:2,set is:{88, 52}
+i is:52,j is:89:,result is:2,set is:{89, 52}
+i is:52,j is:91:,result is:2,set is:{91, 52}
+i is:52,j is:94:,result is:2,set is:{52, 94}
+i is:52,j is:95:,result is:2,set is:{52, 95}
+i is:52,j is:98:,result is:2,set is:{98, 52}
+i is:52,j is:100:,result is:2,set is:{52, 100}
+i is:52,j is:102:,result is:2,set is:{52, 102}
+i is:52,j is:103:,result is:2,set is:{52, 103}
+i is:52,j is:104:,result is:2,set is:{104, 52}
+i is:52,j is:105:,result is:2,set is:{105, 52}
+i is:52,j is:111:,result is:2,set is:{52, 111}
+i is:53,j is:54:,result is:4,set is:{72, 68, 53, 54}
+i is:53,j is:55:,result is:5,set is:{72, 59, 68, 53, 55}
+i is:53,j is:56:,result is:14,set is:{97, 68, 70, 103, 72, 105, 108, 77, 53, 87, 56, 88, 60, 95}
+i is:53,j is:57:,result is:4,set is:{72, 57, 68, 53}
+i is:53,j is:58:,result is:4,set is:{72, 58, 68, 53}
+i is:53,j is:61:,result is:4,set is:{72, 68, 53, 61}
+i is:53,j is:62:,result is:4,set is:{72, 68, 53, 62}
+i is:53,j is:64:,result is:5,set is:{64, 72, 68, 53, 86}
+i is:53,j is:65:,result is:4,set is:{72, 65, 68, 53}
+i is:53,j is:66:,result is:4,set is:{72, 66, 68, 53}
+i is:53,j is:67:,result is:5,set is:{72, 74, 67, 68, 53}
+i is:53,j is:69:,result is:3,set is:{72, 53, 69}
+i is:53,j is:73:,result is:2,set is:{73, 53}
+i is:53,j is:75:,result is:2,set is:{75, 53}
+i is:53,j is:76:,result is:2,set is:{76, 53}
+i is:53,j is:78:,result is:2,set is:{53, 78}
+i is:53,j is:79:,result is:2,set is:{53, 79}
+i is:53,j is:80:,result is:2,set is:{80, 53}
+i is:53,j is:81:,result is:2,set is:{81, 53}
+i is:53,j is:83:,result is:2,set is:{83, 53}
+i is:53,j is:84:,result is:2,set is:{84, 53}
+i is:53,j is:85:,result is:2,set is:{53, 85}
+i is:53,j is:89:,result is:2,set is:{89, 53}
+i is:53,j is:90:,result is:3,set is:{90, 53, 109}
+i is:53,j is:91:,result is:2,set is:{91, 53}
+i is:53,j is:92:,result is:3,set is:{106, 92, 53}
+i is:53,j is:93:,result is:2,set is:{53, 93}
+i is:53,j is:94:,result is:2,set is:{53, 94}
+i is:53,j is:96:,result is:2,set is:{96, 53}
+i is:53,j is:98:,result is:2,set is:{98, 53}
+i is:53,j is:99:,result is:2,set is:{99, 53}
+i is:53,j is:100:,result is:2,set is:{100, 53}
+i is:53,j is:101:,result is:2,set is:{53, 101}
+i is:53,j is:102:,result is:2,set is:{53, 102}
+i is:53,j is:104:,result is:2,set is:{104, 53}
+i is:53,j is:107:,result is:3,set is:{107, 53, 110}
+i is:53,j is:111:,result is:2,set is:{53, 111}
+i is:54,j is:55:,result is:3,set is:{59, 54, 55}
+i is:54,j is:56:,result is:2,set is:{56, 54}
+i is:54,j is:57:,result is:2,set is:{57, 54}
+i is:54,j is:58:,result is:2,set is:{58, 54}
+i is:54,j is:60:,result is:2,set is:{60, 54}
+i is:54,j is:61:,result is:2,set is:{61, 54}
+i is:54,j is:62:,result is:2,set is:{54, 62}
+i is:54,j is:64:,result is:2,set is:{64, 54}
+i is:54,j is:67:,result is:3,set is:{74, 67, 54}
+i is:54,j is:70:,result is:3,set is:{97, 54, 70}
+i is:54,j is:76:,result is:2,set is:{76, 54}
+i is:54,j is:78:,result is:2,set is:{54, 78}
+i is:54,j is:80:,result is:2,set is:{80, 54}
+i is:54,j is:81:,result is:2,set is:{81, 54}
+i is:54,j is:83:,result is:2,set is:{83, 54}
+i is:54,j is:84:,result is:2,set is:{84, 54}
+i is:54,j is:85:,result is:2,set is:{85, 54}
+i is:54,j is:86:,result is:2,set is:{54, 86}
+i is:54,j is:87:,result is:2,set is:{54, 87}
+i is:54,j is:88:,result is:2,set is:{88, 54}
+i is:54,j is:89:,result is:2,set is:{89, 54}
+i is:54,j is:95:,result is:2,set is:{54, 95}
+i is:54,j is:98:,result is:2,set is:{98, 54}
+i is:54,j is:99:,result is:2,set is:{99, 54}
+i is:54,j is:100:,result is:2,set is:{100, 54}
+i is:54,j is:102:,result is:2,set is:{54, 102}
+i is:54,j is:103:,result is:2,set is:{54, 103}
+i is:54,j is:104:,result is:2,set is:{104, 54}
+i is:54,j is:105:,result is:2,set is:{105, 54}
+i is:55,j is:56:,result is:3,set is:{56, 59, 55}
+i is:55,j is:57:,result is:3,set is:{57, 59, 55}
+i is:55,j is:58:,result is:3,set is:{58, 59, 55}
+i is:55,j is:60:,result is:2,set is:{60, 55}
+i is:55,j is:61:,result is:2,set is:{61, 55}
+i is:55,j is:62:,result is:2,set is:{62, 55}
+i is:55,j is:64:,result is:2,set is:{64, 55}
+i is:55,j is:65:,result is:2,set is:{65, 55}
+i is:55,j is:67:,result is:3,set is:{74, 67, 55}
+i is:55,j is:70:,result is:3,set is:{97, 70, 55}
+i is:55,j is:75:,result is:2,set is:{75, 55}
+i is:55,j is:76:,result is:2,set is:{76, 55}
+i is:55,j is:79:,result is:2,set is:{79, 55}
+i is:55,j is:80:,result is:2,set is:{80, 55}
+i is:55,j is:83:,result is:2,set is:{83, 55}
+i is:55,j is:84:,result is:2,set is:{84, 55}
+i is:55,j is:85:,result is:2,set is:{85, 55}
+i is:55,j is:86:,result is:2,set is:{86, 55}
+i is:55,j is:87:,result is:2,set is:{87, 55}
+i is:55,j is:88:,result is:2,set is:{88, 55}
+i is:55,j is:91:,result is:2,set is:{91, 55}
+i is:55,j is:94:,result is:2,set is:{94, 55}
+i is:55,j is:95:,result is:2,set is:{95, 55}
+i is:55,j is:98:,result is:2,set is:{98, 55}
+i is:55,j is:99:,result is:2,set is:{99, 55}
+i is:55,j is:100:,result is:2,set is:{100, 55}
+i is:55,j is:102:,result is:2,set is:{102, 55}
+i is:55,j is:103:,result is:2,set is:{103, 55}
+i is:55,j is:104:,result is:2,set is:{104, 55}
+i is:55,j is:105:,result is:2,set is:{105, 55}
+i is:55,j is:111:,result is:2,set is:{111, 55}
+i is:56,j is:57:,result is:2,set is:{56, 57}
+i is:56,j is:58:,result is:2,set is:{56, 58}
+i is:56,j is:61:,result is:2,set is:{56, 61}
+i is:56,j is:62:,result is:2,set is:{56, 62}
+i is:56,j is:64:,result is:2,set is:{56, 64}
+i is:56,j is:65:,result is:2,set is:{56, 65}
+i is:56,j is:67:,result is:3,set is:{56, 74, 67}
+i is:56,j is:75:,result is:2,set is:{56, 75}
+i is:56,j is:76:,result is:2,set is:{56, 76}
+i is:56,j is:78:,result is:2,set is:{56, 78}
+i is:56,j is:79:,result is:2,set is:{56, 79}
+i is:56,j is:80:,result is:2,set is:{56, 80}
+i is:56,j is:81:,result is:2,set is:{56, 81}
+i is:56,j is:83:,result is:2,set is:{56, 83}
+i is:56,j is:84:,result is:2,set is:{56, 84}
+i is:56,j is:85:,result is:2,set is:{56, 85}
+i is:56,j is:86:,result is:2,set is:{56, 86}
+i is:56,j is:89:,result is:2,set is:{56, 89}
+i is:56,j is:91:,result is:2,set is:{56, 91}
+i is:56,j is:94:,result is:2,set is:{56, 94}
+i is:56,j is:98:,result is:2,set is:{56, 98}
+i is:56,j is:99:,result is:2,set is:{56, 99}
+i is:56,j is:100:,result is:2,set is:{56, 100}
+i is:56,j is:102:,result is:2,set is:{56, 102}
+i is:56,j is:104:,result is:2,set is:{56, 104}
+i is:56,j is:111:,result is:2,set is:{56, 111}
+i is:57,j is:58:,result is:3,set is:{57, 58, 102}
+i is:57,j is:60:,result is:2,set is:{57, 60}
+i is:57,j is:61:,result is:2,set is:{57, 61}
+i is:57,j is:62:,result is:2,set is:{57, 62}
+i is:57,j is:64:,result is:2,set is:{64, 57}
+i is:57,j is:65:,result is:2,set is:{57, 65}
+i is:57,j is:67:,result is:3,set is:{57, 74, 67}
+i is:57,j is:70:,result is:3,set is:{57, 97, 70}
+i is:57,j is:75:,result is:2,set is:{57, 75}
+i is:57,j is:76:,result is:2,set is:{57, 76}
+i is:57,j is:78:,result is:2,set is:{57, 78}
+i is:57,j is:79:,result is:2,set is:{57, 79}
+i is:57,j is:80:,result is:2,set is:{80, 57}
+i is:57,j is:81:,result is:2,set is:{57, 81}
+i is:57,j is:83:,result is:2,set is:{57, 83}
+i is:57,j is:84:,result is:2,set is:{57, 84}
+i is:57,j is:85:,result is:2,set is:{57, 85}
+i is:57,j is:86:,result is:2,set is:{57, 86}
+i is:57,j is:87:,result is:2,set is:{57, 87}
+i is:57,j is:88:,result is:2,set is:{88, 57}
+i is:57,j is:89:,result is:2,set is:{57, 89}
+i is:57,j is:91:,result is:2,set is:{57, 91}
+i is:57,j is:94:,result is:2,set is:{57, 94}
+i is:57,j is:95:,result is:2,set is:{57, 95}
+i is:57,j is:98:,result is:2,set is:{57, 98}
+i is:57,j is:99:,result is:2,set is:{57, 99}
+i is:57,j is:100:,result is:2,set is:{57, 100}
+i is:57,j is:103:,result is:2,set is:{57, 103}
+i is:57,j is:104:,result is:2,set is:{104, 57}
+i is:57,j is:105:,result is:2,set is:{57, 105}
+i is:57,j is:111:,result is:2,set is:{57, 111}
+i is:58,j is:60:,result is:2,set is:{58, 60}
+i is:58,j is:61:,result is:2,set is:{58, 61}
+i is:58,j is:62:,result is:2,set is:{58, 62}
+i is:58,j is:64:,result is:2,set is:{64, 58}
+i is:58,j is:65:,result is:2,set is:{65, 58}
+i is:58,j is:67:,result is:3,set is:{58, 67, 74}
+i is:58,j is:70:,result is:3,set is:{97, 58, 70}
+i is:58,j is:75:,result is:2,set is:{58, 75}
+i is:58,j is:76:,result is:2,set is:{58, 76}
+i is:58,j is:78:,result is:2,set is:{58, 78}
+i is:58,j is:79:,result is:2,set is:{58, 79}
+i is:58,j is:80:,result is:2,set is:{80, 58}
+i is:58,j is:81:,result is:2,set is:{81, 58}
+i is:58,j is:83:,result is:2,set is:{58, 83}
+i is:58,j is:84:,result is:2,set is:{58, 84}
+i is:58,j is:85:,result is:2,set is:{58, 85}
+i is:58,j is:86:,result is:2,set is:{58, 86}
+i is:58,j is:87:,result is:2,set is:{58, 87}
+i is:58,j is:88:,result is:2,set is:{88, 58}
+i is:58,j is:89:,result is:2,set is:{89, 58}
+i is:58,j is:91:,result is:2,set is:{58, 91}
+i is:58,j is:94:,result is:2,set is:{58, 94}
+i is:58,j is:95:,result is:2,set is:{58, 95}
+i is:58,j is:98:,result is:2,set is:{58, 98}
+i is:58,j is:99:,result is:2,set is:{58, 99}
+i is:58,j is:100:,result is:2,set is:{58, 100}
+i is:58,j is:103:,result is:2,set is:{58, 103}
+i is:58,j is:104:,result is:2,set is:{104, 58}
+i is:58,j is:105:,result is:2,set is:{105, 58}
+i is:58,j is:111:,result is:2,set is:{58, 111}
+i is:59,j is:60:,result is:2,set is:{59, 60}
+i is:59,j is:61:,result is:2,set is:{59, 61}
+i is:59,j is:62:,result is:2,set is:{59, 62}
+i is:59,j is:63:,result is:2,set is:{59, 63}
+i is:59,j is:64:,result is:2,set is:{64, 59}
+i is:59,j is:65:,result is:2,set is:{65, 59}
+i is:59,j is:66:,result is:2,set is:{66, 59}
+i is:59,j is:67:,result is:3,set is:{74, 59, 67}
+i is:59,j is:68:,result is:3,set is:{72, 59, 68}
+i is:59,j is:69:,result is:2,set is:{59, 69}
+i is:59,j is:70:,result is:3,set is:{97, 59, 70}
+i is:59,j is:71:,result is:2,set is:{59, 71}
+i is:59,j is:73:,result is:2,set is:{73, 59}
+i is:59,j is:75:,result is:2,set is:{59, 75}
+i is:59,j is:76:,result is:2,set is:{59, 76}
+i is:59,j is:77:,result is:3,set is:{59, 108, 77}
+i is:59,j is:78:,result is:11,set is:{101, 106, 107, 109, 78, 110, 81, 89, 90, 59, 92}
+i is:59,j is:79:,result is:2,set is:{59, 79}
+i is:59,j is:80:,result is:2,set is:{80, 59}
+i is:59,j is:82:,result is:2,set is:{82, 59}
+i is:59,j is:83:,result is:2,set is:{59, 83}
+i is:59,j is:84:,result is:2,set is:{59, 84}
+i is:59,j is:85:,result is:2,set is:{59, 85}
+i is:59,j is:86:,result is:2,set is:{59, 86}
+i is:59,j is:87:,result is:2,set is:{59, 87}
+i is:59,j is:88:,result is:2,set is:{88, 59}
+i is:59,j is:91:,result is:2,set is:{59, 91}
+i is:59,j is:93:,result is:2,set is:{59, 93}
+i is:59,j is:94:,result is:2,set is:{59, 94}
+i is:59,j is:95:,result is:2,set is:{59, 95}
+i is:59,j is:96:,result is:2,set is:{96, 59}
+i is:59,j is:98:,result is:2,set is:{98, 59}
+i is:59,j is:99:,result is:2,set is:{59, 99}
+i is:59,j is:100:,result is:2,set is:{59, 100}
+i is:59,j is:102:,result is:2,set is:{59, 102}
+i is:59,j is:103:,result is:2,set is:{59, 103}
+i is:59,j is:104:,result is:2,set is:{104, 59}
+i is:59,j is:105:,result is:2,set is:{105, 59}
+i is:59,j is:111:,result is:2,set is:{59, 111}
+i is:60,j is:61:,result is:2,set is:{60, 61}
+i is:60,j is:62:,result is:2,set is:{60, 62}
+i is:60,j is:64:,result is:2,set is:{64, 60}
+i is:60,j is:65:,result is:2,set is:{65, 60}
+i is:60,j is:67:,result is:3,set is:{74, 67, 60}
+i is:60,j is:68:,result is:12,set is:{97, 68, 70, 103, 72, 105, 108, 77, 87, 88, 60, 95}
+i is:60,j is:75:,result is:2,set is:{75, 60}
+i is:60,j is:76:,result is:2,set is:{60, 76}
+i is:60,j is:78:,result is:2,set is:{60, 78}
+i is:60,j is:79:,result is:2,set is:{60, 79}
+i is:60,j is:80:,result is:2,set is:{80, 60}
+i is:60,j is:81:,result is:2,set is:{81, 60}
+i is:60,j is:83:,result is:2,set is:{83, 60}
+i is:60,j is:84:,result is:2,set is:{60, 84}
+i is:60,j is:85:,result is:2,set is:{60, 85}
+i is:60,j is:86:,result is:2,set is:{60, 86}
+i is:60,j is:89:,result is:2,set is:{89, 60}
+i is:60,j is:91:,result is:2,set is:{91, 60}
+i is:60,j is:94:,result is:2,set is:{60, 94}
+i is:60,j is:98:,result is:2,set is:{98, 60}
+i is:60,j is:99:,result is:2,set is:{99, 60}
+i is:60,j is:100:,result is:2,set is:{60, 100}
+i is:60,j is:102:,result is:2,set is:{60, 102}
+i is:60,j is:104:,result is:2,set is:{104, 60}
+i is:60,j is:111:,result is:2,set is:{60, 111}
+i is:61,j is:62:,result is:2,set is:{61, 62}
+i is:61,j is:64:,result is:2,set is:{64, 61}
+i is:61,j is:65:,result is:2,set is:{65, 61}
+i is:61,j is:67:,result is:3,set is:{74, 67, 61}
+i is:61,j is:70:,result is:3,set is:{97, 61, 70}
+i is:61,j is:75:,result is:2,set is:{75, 61}
+i is:61,j is:76:,result is:2,set is:{76, 61}
+i is:61,j is:78:,result is:3,set is:{61, 78, 87}
+i is:61,j is:79:,result is:2,set is:{61, 79}
+i is:61,j is:80:,result is:2,set is:{80, 61}
+i is:61,j is:81:,result is:2,set is:{81, 61}
+i is:61,j is:83:,result is:2,set is:{83, 61}
+i is:61,j is:84:,result is:2,set is:{84, 61}
+i is:61,j is:85:,result is:2,set is:{61, 85}
+i is:61,j is:86:,result is:2,set is:{61, 86}
+i is:61,j is:88:,result is:2,set is:{88, 61}
+i is:61,j is:89:,result is:2,set is:{89, 61}
+i is:61,j is:91:,result is:2,set is:{91, 61}
+i is:61,j is:94:,result is:2,set is:{61, 94}
+i is:61,j is:95:,result is:2,set is:{61, 95}
+i is:61,j is:98:,result is:2,set is:{98, 61}
+i is:61,j is:99:,result is:2,set is:{99, 61}
+i is:61,j is:100:,result is:2,set is:{100, 61}
+i is:61,j is:102:,result is:2,set is:{61, 102}
+i is:61,j is:103:,result is:2,set is:{61, 103}
+i is:61,j is:104:,result is:2,set is:{104, 61}
+i is:61,j is:105:,result is:2,set is:{105, 61}
+i is:61,j is:111:,result is:2,set is:{61, 111}
+i is:62,j is:64:,result is:2,set is:{64, 62}
+i is:62,j is:65:,result is:2,set is:{65, 62}
+i is:62,j is:67:,result is:3,set is:{74, 67, 62}
+i is:62,j is:70:,result is:3,set is:{97, 62, 70}
+i is:62,j is:71:,result is:2,set is:{62, 71}
+i is:62,j is:75:,result is:2,set is:{75, 62}
+i is:62,j is:76:,result is:2,set is:{76, 62}
+i is:62,j is:78:,result is:2,set is:{62, 78}
+i is:62,j is:79:,result is:2,set is:{62, 79}
+i is:62,j is:80:,result is:2,set is:{80, 62}
+i is:62,j is:81:,result is:2,set is:{81, 62}
+i is:62,j is:83:,result is:2,set is:{83, 62}
+i is:62,j is:84:,result is:2,set is:{84, 62}
+i is:62,j is:85:,result is:2,set is:{85, 62}
+i is:62,j is:86:,result is:2,set is:{62, 86}
+i is:62,j is:87:,result is:2,set is:{62, 87}
+i is:62,j is:88:,result is:2,set is:{88, 62}
+i is:62,j is:89:,result is:2,set is:{89, 62}
+i is:62,j is:91:,result is:2,set is:{91, 62}
+i is:62,j is:94:,result is:2,set is:{62, 94}
+i is:62,j is:95:,result is:2,set is:{62, 95}
+i is:62,j is:98:,result is:2,set is:{98, 62}
+i is:62,j is:99:,result is:2,set is:{99, 62}
+i is:62,j is:100:,result is:2,set is:{100, 62}
+i is:62,j is:102:,result is:2,set is:{62, 102}
+i is:62,j is:103:,result is:2,set is:{62, 103}
+i is:62,j is:104:,result is:2,set is:{104, 62}
+i is:62,j is:105:,result is:2,set is:{105, 62}
+i is:62,j is:111:,result is:2,set is:{62, 111}
+i is:63,j is:64:,result is:2,set is:{64, 63}
+i is:63,j is:65:,result is:9,set is:{65, 66, 69, 75, 79, 111, 91, 94, 63}
+i is:63,j is:67:,result is:3,set is:{74, 67, 63}
+i is:63,j is:68:,result is:3,set is:{72, 68, 63}
+i is:63,j is:70:,result is:3,set is:{97, 70, 63}
+i is:63,j is:71:,result is:2,set is:{71, 63}
+i is:63,j is:73:,result is:2,set is:{73, 63}
+i is:63,j is:76:,result is:2,set is:{76, 63}
+i is:63,j is:77:,result is:3,set is:{108, 77, 63}
+i is:63,j is:78:,result is:2,set is:{78, 63}
+i is:63,j is:80:,result is:2,set is:{80, 63}
+i is:63,j is:81:,result is:2,set is:{81, 63}
+i is:63,j is:82:,result is:2,set is:{82, 63}
+i is:63,j is:83:,result is:2,set is:{83, 63}
+i is:63,j is:84:,result is:2,set is:{84, 63}
+i is:63,j is:85:,result is:2,set is:{85, 63}
+i is:63,j is:86:,result is:2,set is:{86, 63}
+i is:63,j is:87:,result is:2,set is:{87, 63}
+i is:63,j is:88:,result is:2,set is:{88, 63}
+i is:63,j is:89:,result is:2,set is:{89, 63}
+i is:63,j is:90:,result is:3,set is:{90, 109, 63}
+i is:63,j is:92:,result is:3,set is:{106, 92, 63}
+i is:63,j is:93:,result is:2,set is:{93, 63}
+i is:63,j is:95:,result is:2,set is:{95, 63}
+i is:63,j is:96:,result is:2,set is:{96, 63}
+i is:63,j is:98:,result is:2,set is:{98, 63}
+i is:63,j is:99:,result is:2,set is:{99, 63}
+i is:63,j is:100:,result is:2,set is:{100, 63}
+i is:63,j is:101:,result is:2,set is:{101, 63}
+i is:63,j is:102:,result is:2,set is:{102, 63}
+i is:63,j is:103:,result is:2,set is:{103, 63}
+i is:63,j is:104:,result is:2,set is:{104, 63}
+i is:63,j is:105:,result is:2,set is:{105, 63}
+i is:63,j is:107:,result is:3,set is:{107, 110, 63}
+i is:64,j is:65:,result is:2,set is:{64, 65}
+i is:64,j is:67:,result is:3,set is:{64, 74, 67}
+i is:64,j is:70:,result is:3,set is:{64, 97, 70}
+i is:64,j is:75:,result is:2,set is:{64, 75}
+i is:64,j is:76:,result is:2,set is:{64, 76}
+i is:64,j is:78:,result is:2,set is:{64, 78}
+i is:64,j is:79:,result is:2,set is:{64, 79}
+i is:64,j is:80:,result is:2,set is:{64, 80}
+i is:64,j is:81:,result is:2,set is:{64, 81}
+i is:64,j is:83:,result is:2,set is:{64, 83}
+i is:64,j is:84:,result is:2,set is:{64, 84}
+i is:64,j is:85:,result is:2,set is:{64, 85}
+i is:64,j is:87:,result is:2,set is:{64, 87}
+i is:64,j is:88:,result is:3,set is:{64, 88, 100}
+i is:64,j is:89:,result is:2,set is:{64, 89}
+i is:64,j is:91:,result is:2,set is:{64, 91}
+i is:64,j is:94:,result is:2,set is:{64, 94}
+i is:64,j is:95:,result is:2,set is:{64, 95}
+i is:64,j is:98:,result is:2,set is:{64, 98}
+i is:64,j is:99:,result is:2,set is:{64, 99}
+i is:64,j is:102:,result is:2,set is:{64, 102}
+i is:64,j is:103:,result is:2,set is:{64, 103}
+i is:64,j is:104:,result is:2,set is:{64, 104}
+i is:64,j is:111:,result is:2,set is:{64, 111}
+i is:65,j is:67:,result is:3,set is:{65, 74, 67}
+i is:65,j is:70:,result is:3,set is:{65, 97, 70}
+i is:65,j is:76:,result is:2,set is:{65, 76}
+i is:65,j is:78:,result is:2,set is:{65, 78}
+i is:65,j is:80:,result is:2,set is:{80, 65}
+i is:65,j is:81:,result is:2,set is:{65, 81}
+i is:65,j is:83:,result is:2,set is:{65, 83}
+i is:65,j is:84:,result is:2,set is:{65, 84}
+i is:65,j is:85:,result is:2,set is:{65, 85}
+i is:65,j is:86:,result is:2,set is:{65, 86}
+i is:65,j is:87:,result is:2,set is:{65, 87}
+i is:65,j is:88:,result is:2,set is:{88, 65}
+i is:65,j is:89:,result is:2,set is:{65, 89}
+i is:65,j is:95:,result is:2,set is:{65, 95}
+i is:65,j is:98:,result is:2,set is:{65, 98}
+i is:65,j is:99:,result is:2,set is:{65, 99}
+i is:65,j is:100:,result is:2,set is:{65, 100}
+i is:65,j is:102:,result is:2,set is:{65, 102}
+i is:65,j is:103:,result is:2,set is:{65, 103}
+i is:65,j is:104:,result is:2,set is:{104, 65}
+i is:65,j is:105:,result is:2,set is:{65, 105}
+i is:66,j is:67:,result is:3,set is:{66, 67, 74}
+i is:66,j is:69:,result is:7,set is:{66, 69, 75, 79, 111, 91, 94}
+i is:66,j is:70:,result is:3,set is:{97, 66, 70}
+i is:66,j is:71:,result is:2,set is:{66, 71}
+i is:66,j is:73:,result is:2,set is:{73, 66}
+i is:66,j is:76:,result is:2,set is:{66, 76}
+i is:66,j is:77:,result is:3,set is:{66, 108, 77}
+i is:66,j is:78:,result is:2,set is:{66, 78}
+i is:66,j is:80:,result is:2,set is:{80, 66}
+i is:66,j is:81:,result is:2,set is:{81, 66}
+i is:66,j is:83:,result is:2,set is:{66, 83}
+i is:66,j is:84:,result is:2,set is:{66, 84}
+i is:66,j is:85:,result is:2,set is:{66, 85}
+i is:66,j is:86:,result is:2,set is:{66, 86}
+i is:66,j is:87:,result is:2,set is:{66, 87}
+i is:66,j is:88:,result is:2,set is:{88, 66}
+i is:66,j is:89:,result is:2,set is:{89, 66}
+i is:66,j is:90:,result is:3,set is:{66, 90, 109}
+i is:66,j is:92:,result is:3,set is:{66, 106, 92}
+i is:66,j is:93:,result is:2,set is:{66, 93}
+i is:66,j is:95:,result is:2,set is:{66, 95}
+i is:66,j is:96:,result is:2,set is:{96, 66}
+i is:66,j is:98:,result is:2,set is:{66, 98}
+i is:66,j is:99:,result is:2,set is:{66, 99}
+i is:66,j is:100:,result is:2,set is:{66, 100}
+i is:66,j is:101:,result is:2,set is:{66, 101}
+i is:66,j is:102:,result is:2,set is:{66, 102}
+i is:66,j is:103:,result is:2,set is:{66, 103}
+i is:66,j is:104:,result is:2,set is:{104, 66}
+i is:66,j is:105:,result is:2,set is:{105, 66}
+i is:66,j is:107:,result is:3,set is:{66, 107, 110}
+i is:67,j is:70:,result is:4,set is:{97, 74, 67, 70}
+i is:67,j is:73:,result is:8,set is:{96, 67, 99, 73, 74, 82, 86, 93}
+i is:67,j is:75:,result is:2,set is:{67, 75}
+i is:67,j is:76:,result is:2,set is:{67, 76}
+i is:67,j is:78:,result is:2,set is:{67, 78}
+i is:67,j is:79:,result is:2,set is:{67, 79}
+i is:67,j is:80:,result is:2,set is:{80, 67}
+i is:67,j is:81:,result is:2,set is:{81, 67}
+i is:67,j is:83:,result is:2,set is:{67, 83}
+i is:67,j is:84:,result is:2,set is:{67, 84}
+i is:67,j is:85:,result is:2,set is:{67, 85}
+i is:67,j is:87:,result is:2,set is:{67, 87}
+i is:67,j is:88:,result is:2,set is:{88, 67}
+i is:67,j is:89:,result is:2,set is:{89, 67}
+i is:67,j is:91:,result is:2,set is:{67, 91}
+i is:67,j is:94:,result is:2,set is:{67, 94}
+i is:67,j is:95:,result is:2,set is:{67, 95}
+i is:67,j is:98:,result is:2,set is:{98, 67}
+i is:67,j is:100:,result is:2,set is:{67, 100}
+i is:67,j is:102:,result is:2,set is:{67, 102}
+i is:67,j is:103:,result is:2,set is:{67, 103}
+i is:67,j is:104:,result is:2,set is:{104, 67}
+i is:67,j is:105:,result is:2,set is:{105, 67}
+i is:67,j is:111:,result is:2,set is:{67, 111}
+i is:68,j is:69:,result is:3,set is:{72, 68, 69}
+i is:68,j is:71:,result is:3,set is:{72, 68, 71}
+i is:68,j is:73:,result is:2,set is:{73, 68}
+i is:68,j is:74:,result is:2,set is:{74, 68}
+i is:68,j is:75:,result is:2,set is:{75, 68}
+i is:68,j is:76:,result is:2,set is:{68, 76}
+i is:68,j is:78:,result is:2,set is:{68, 78}
+i is:68,j is:79:,result is:2,set is:{68, 79}
+i is:68,j is:80:,result is:2,set is:{80, 68}
+i is:68,j is:81:,result is:2,set is:{81, 68}
+i is:68,j is:82:,result is:2,set is:{82, 68}
+i is:68,j is:83:,result is:2,set is:{83, 68}
+i is:68,j is:84:,result is:2,set is:{68, 84}
+i is:68,j is:85:,result is:2,set is:{68, 85}
+i is:68,j is:86:,result is:2,set is:{68, 86}
+i is:68,j is:89:,result is:2,set is:{89, 68}
+i is:68,j is:90:,result is:3,set is:{90, 68, 109}
+i is:68,j is:91:,result is:2,set is:{91, 68}
+i is:68,j is:92:,result is:3,set is:{106, 68, 92}
+i is:68,j is:93:,result is:2,set is:{68, 93}
+i is:68,j is:94:,result is:2,set is:{68, 94}
+i is:68,j is:96:,result is:2,set is:{96, 68}
+i is:68,j is:98:,result is:2,set is:{98, 68}
+i is:68,j is:99:,result is:2,set is:{99, 68}
+i is:68,j is:100:,result is:2,set is:{68, 100}
+i is:68,j is:101:,result is:2,set is:{68, 101}
+i is:68,j is:102:,result is:2,set is:{68, 102}
+i is:68,j is:104:,result is:2,set is:{104, 68}
+i is:68,j is:107:,result is:3,set is:{107, 68, 110}
+i is:68,j is:111:,result is:2,set is:{68, 111}
+i is:69,j is:70:,result is:3,set is:{97, 69, 70}
+i is:69,j is:73:,result is:2,set is:{73, 69}
+i is:69,j is:74:,result is:2,set is:{74, 69}
+i is:69,j is:76:,result is:2,set is:{76, 69}
+i is:69,j is:77:,result is:3,set is:{108, 69, 77}
+i is:69,j is:78:,result is:2,set is:{69, 78}
+i is:69,j is:80:,result is:2,set is:{80, 69}
+i is:69,j is:81:,result is:2,set is:{81, 69}
+i is:69,j is:83:,result is:2,set is:{83, 69}
+i is:69,j is:84:,result is:2,set is:{84, 69}
+i is:69,j is:85:,result is:2,set is:{69, 85}
+i is:69,j is:86:,result is:2,set is:{69, 86}
+i is:69,j is:87:,result is:2,set is:{69, 87}
+i is:69,j is:88:,result is:2,set is:{88, 69}
+i is:69,j is:89:,result is:2,set is:{89, 69}
+i is:69,j is:90:,result is:3,set is:{90, 69, 109}
+i is:69,j is:92:,result is:3,set is:{106, 92, 69}
+i is:69,j is:93:,result is:2,set is:{69, 93}
+i is:69,j is:95:,result is:2,set is:{69, 95}
+i is:69,j is:96:,result is:2,set is:{96, 69}
+i is:69,j is:98:,result is:2,set is:{98, 69}
+i is:69,j is:99:,result is:2,set is:{99, 69}
+i is:69,j is:100:,result is:2,set is:{100, 69}
+i is:69,j is:101:,result is:2,set is:{69, 101}
+i is:69,j is:102:,result is:2,set is:{69, 102}
+i is:69,j is:103:,result is:2,set is:{69, 103}
+i is:69,j is:104:,result is:2,set is:{104, 69}
+i is:69,j is:105:,result is:2,set is:{105, 69}
+i is:69,j is:107:,result is:3,set is:{107, 69, 110}
+i is:70,j is:72:,result is:10,set is:{97, 70, 103, 72, 105, 108, 77, 87, 88, 95}
+i is:70,j is:75:,result is:3,set is:{97, 75, 70}
+i is:70,j is:76:,result is:3,set is:{97, 76, 70}
+i is:70,j is:78:,result is:3,set is:{97, 70, 78}
+i is:70,j is:79:,result is:3,set is:{97, 70, 79}
+i is:70,j is:80:,result is:3,set is:{80, 97, 70}
+i is:70,j is:81:,result is:3,set is:{81, 97, 70}
+i is:70,j is:83:,result is:3,set is:{97, 83, 70}
+i is:70,j is:84:,result is:3,set is:{97, 84, 70}
+i is:70,j is:85:,result is:3,set is:{97, 85, 70}
+i is:70,j is:86:,result is:3,set is:{97, 70, 86}
+i is:70,j is:89:,result is:3,set is:{89, 97, 70}
+i is:70,j is:91:,result is:3,set is:{97, 91, 70}
+i is:70,j is:94:,result is:3,set is:{97, 70, 94}
+i is:70,j is:98:,result is:2,set is:{98, 70}
+i is:70,j is:99:,result is:2,set is:{99, 70}
+i is:70,j is:100:,result is:2,set is:{100, 70}
+i is:70,j is:102:,result is:2,set is:{70, 102}
+i is:70,j is:104:,result is:2,set is:{104, 70}
+i is:70,j is:111:,result is:2,set is:{70, 111}
+i is:71,j is:73:,result is:2,set is:{73, 71}
+i is:71,j is:74:,result is:2,set is:{74, 71}
+i is:71,j is:75:,result is:2,set is:{75, 71}
+i is:71,j is:76:,result is:2,set is:{76, 71}
+i is:71,j is:77:,result is:3,set is:{108, 77, 71}
+i is:71,j is:78:,result is:2,set is:{78, 71}
+i is:71,j is:79:,result is:2,set is:{79, 71}
+i is:71,j is:80:,result is:2,set is:{80, 71}
+i is:71,j is:81:,result is:2,set is:{81, 71}
+i is:71,j is:82:,result is:2,set is:{82, 71}
+i is:71,j is:83:,result is:2,set is:{83, 71}
+i is:71,j is:84:,result is:2,set is:{84, 71}
+i is:71,j is:85:,result is:2,set is:{85, 71}
+i is:71,j is:86:,result is:2,set is:{86, 71}
+i is:71,j is:87:,result is:2,set is:{87, 71}
+i is:71,j is:88:,result is:2,set is:{88, 71}
+i is:71,j is:89:,result is:2,set is:{89, 71}
+i is:71,j is:90:,result is:3,set is:{90, 109, 71}
+i is:71,j is:91:,result is:2,set is:{91, 71}
+i is:71,j is:92:,result is:3,set is:{106, 92, 71}
+i is:71,j is:93:,result is:2,set is:{93, 71}
+i is:71,j is:94:,result is:2,set is:{94, 71}
+i is:71,j is:95:,result is:2,set is:{95, 71}
+i is:71,j is:96:,result is:2,set is:{96, 71}
+i is:71,j is:97:,result is:2,set is:{97, 71}
+i is:71,j is:98:,result is:2,set is:{98, 71}
+i is:71,j is:99:,result is:2,set is:{99, 71}
+i is:71,j is:100:,result is:2,set is:{100, 71}
+i is:71,j is:101:,result is:2,set is:{101, 71}
+i is:71,j is:102:,result is:2,set is:{102, 71}
+i is:71,j is:103:,result is:2,set is:{103, 71}
+i is:71,j is:104:,result is:2,set is:{104, 71}
+i is:71,j is:105:,result is:2,set is:{105, 71}
+i is:71,j is:107:,result is:3,set is:{107, 110, 71}
+i is:71,j is:111:,result is:2,set is:{111, 71}
+i is:72,j is:73:,result is:2,set is:{72, 73}
+i is:72,j is:74:,result is:2,set is:{72, 74}
+i is:72,j is:75:,result is:2,set is:{72, 75}
+i is:72,j is:76:,result is:2,set is:{72, 76}
+i is:72,j is:78:,result is:2,set is:{72, 78}
+i is:72,j is:79:,result is:2,set is:{72, 79}
+i is:72,j is:80:,result is:2,set is:{72, 80}
+i is:72,j is:81:,result is:2,set is:{72, 81}
+i is:72,j is:82:,result is:2,set is:{72, 82}
+i is:72,j is:83:,result is:2,set is:{72, 83}
+i is:72,j is:84:,result is:2,set is:{72, 84}
+i is:72,j is:85:,result is:2,set is:{72, 85}
+i is:72,j is:86:,result is:2,set is:{72, 86}
+i is:72,j is:89:,result is:2,set is:{72, 89}
+i is:72,j is:90:,result is:3,set is:{72, 90, 109}
+i is:72,j is:91:,result is:2,set is:{72, 91}
+i is:72,j is:92:,result is:3,set is:{72, 106, 92}
+i is:72,j is:93:,result is:2,set is:{72, 93}
+i is:72,j is:94:,result is:2,set is:{72, 94}
+i is:72,j is:96:,result is:2,set is:{72, 96}
+i is:72,j is:98:,result is:2,set is:{72, 98}
+i is:72,j is:99:,result is:2,set is:{72, 99}
+i is:72,j is:100:,result is:2,set is:{72, 100}
+i is:72,j is:101:,result is:2,set is:{72, 101}
+i is:72,j is:102:,result is:2,set is:{72, 102}
+i is:72,j is:104:,result is:2,set is:{72, 104}
+i is:72,j is:107:,result is:3,set is:{72, 107, 110}
+i is:72,j is:111:,result is:2,set is:{72, 111}
+i is:73,j is:75:,result is:2,set is:{73, 75}
+i is:73,j is:76:,result is:2,set is:{73, 76}
+i is:73,j is:77:,result is:3,set is:{73, 108, 77}
+i is:73,j is:78:,result is:2,set is:{73, 78}
+i is:73,j is:79:,result is:2,set is:{73, 79}
+i is:73,j is:80:,result is:2,set is:{80, 73}
+i is:73,j is:81:,result is:2,set is:{73, 81}
+i is:73,j is:83:,result is:2,set is:{73, 83}
+i is:73,j is:84:,result is:2,set is:{73, 84}
+i is:73,j is:85:,result is:2,set is:{73, 85}
+i is:73,j is:87:,result is:2,set is:{73, 87}
+i is:73,j is:88:,result is:2,set is:{88, 73}
+i is:73,j is:89:,result is:2,set is:{73, 89}
+i is:73,j is:90:,result is:3,set is:{73, 90, 109}
+i is:73,j is:91:,result is:2,set is:{73, 91}
+i is:73,j is:92:,result is:3,set is:{73, 106, 92}
+i is:73,j is:94:,result is:2,set is:{73, 94}
+i is:73,j is:95:,result is:2,set is:{73, 95}
+i is:73,j is:97:,result is:2,set is:{73, 97}
+i is:73,j is:98:,result is:2,set is:{73, 98}
+i is:73,j is:100:,result is:2,set is:{73, 100}
+i is:73,j is:101:,result is:2,set is:{73, 101}
+i is:73,j is:102:,result is:2,set is:{73, 102}
+i is:73,j is:103:,result is:2,set is:{73, 103}
+i is:73,j is:104:,result is:2,set is:{104, 73}
+i is:73,j is:105:,result is:2,set is:{73, 105}
+i is:73,j is:107:,result is:3,set is:{73, 107, 110}
+i is:73,j is:111:,result is:2,set is:{73, 111}
+i is:74,j is:75:,result is:2,set is:{74, 75}
+i is:74,j is:76:,result is:2,set is:{74, 76}
+i is:74,j is:77:,result is:3,set is:{74, 108, 77}
+i is:74,j is:78:,result is:2,set is:{74, 78}
+i is:74,j is:79:,result is:2,set is:{74, 79}
+i is:74,j is:80:,result is:2,set is:{80, 74}
+i is:74,j is:81:,result is:2,set is:{81, 74}
+i is:74,j is:82:,result is:6,set is:{96, 99, 74, 82, 86, 93}
+i is:74,j is:83:,result is:2,set is:{74, 83}
+i is:74,j is:84:,result is:2,set is:{74, 84}
+i is:74,j is:85:,result is:2,set is:{74, 85}
+i is:74,j is:87:,result is:2,set is:{74, 87}
+i is:74,j is:88:,result is:2,set is:{88, 74}
+i is:74,j is:89:,result is:2,set is:{89, 74}
+i is:74,j is:90:,result is:3,set is:{74, 90, 109}
+i is:74,j is:91:,result is:2,set is:{74, 91}
+i is:74,j is:92:,result is:3,set is:{74, 106, 92}
+i is:74,j is:94:,result is:2,set is:{74, 94}
+i is:74,j is:95:,result is:2,set is:{74, 95}
+i is:74,j is:97:,result is:2,set is:{97, 74}
+i is:74,j is:98:,result is:2,set is:{74, 98}
+i is:74,j is:100:,result is:2,set is:{74, 100}
+i is:74,j is:101:,result is:2,set is:{74, 101}
+i is:74,j is:102:,result is:2,set is:{74, 102}
+i is:74,j is:103:,result is:2,set is:{74, 103}
+i is:74,j is:104:,result is:2,set is:{104, 74}
+i is:74,j is:105:,result is:2,set is:{105, 74}
+i is:74,j is:107:,result is:3,set is:{74, 107, 110}
+i is:74,j is:111:,result is:2,set is:{74, 111}
+i is:75,j is:76:,result is:2,set is:{75, 76}
+i is:75,j is:78:,result is:2,set is:{75, 78}
+i is:75,j is:79:,result is:5,set is:{111, 75, 91, 94, 79}
+i is:75,j is:80:,result is:2,set is:{80, 75}
+i is:75,j is:81:,result is:2,set is:{81, 75}
+i is:75,j is:83:,result is:2,set is:{75, 83}
+i is:75,j is:84:,result is:2,set is:{75, 84}
+i is:75,j is:85:,result is:2,set is:{75, 85}
+i is:75,j is:86:,result is:2,set is:{75, 86}
+i is:75,j is:87:,result is:2,set is:{75, 87}
+i is:75,j is:88:,result is:2,set is:{88, 75}
+i is:75,j is:89:,result is:2,set is:{89, 75}
+i is:75,j is:95:,result is:2,set is:{75, 95}
+i is:75,j is:98:,result is:2,set is:{98, 75}
+i is:75,j is:99:,result is:2,set is:{75, 99}
+i is:75,j is:100:,result is:2,set is:{75, 100}
+i is:75,j is:102:,result is:2,set is:{75, 102}
+i is:75,j is:103:,result is:2,set is:{75, 103}
+i is:75,j is:104:,result is:2,set is:{104, 75}
+i is:75,j is:105:,result is:2,set is:{105, 75}
+i is:76,j is:79:,result is:2,set is:{76, 79}
+i is:76,j is:81:,result is:2,set is:{81, 76}
+i is:76,j is:83:,result is:2,set is:{83, 76}
+i is:76,j is:84:,result is:2,set is:{76, 84}
+i is:76,j is:85:,result is:2,set is:{76, 85}
+i is:76,j is:86:,result is:2,set is:{76, 86}
+i is:76,j is:87:,result is:2,set is:{76, 87}
+i is:76,j is:88:,result is:2,set is:{88, 76}
+i is:76,j is:89:,result is:2,set is:{89, 76}
+i is:76,j is:91:,result is:2,set is:{91, 76}
+i is:76,j is:94:,result is:2,set is:{76, 94}
+i is:76,j is:95:,result is:2,set is:{76, 95}
+i is:76,j is:98:,result is:2,set is:{98, 76}
+i is:76,j is:99:,result is:2,set is:{99, 76}
+i is:76,j is:100:,result is:2,set is:{76, 100}
+i is:76,j is:102:,result is:2,set is:{76, 102}
+i is:76,j is:103:,result is:2,set is:{76, 103}
+i is:76,j is:104:,result is:2,set is:{104, 76}
+i is:76,j is:105:,result is:2,set is:{105, 76}
+i is:76,j is:111:,result is:2,set is:{76, 111}
+i is:77,j is:78:,result is:3,set is:{108, 77, 78}
+i is:77,j is:79:,result is:3,set is:{108, 77, 79}
+i is:77,j is:80:,result is:3,set is:{80, 108, 77}
+i is:77,j is:81:,result is:3,set is:{81, 108, 77}
+i is:77,j is:83:,result is:3,set is:{83, 108, 77}
+i is:77,j is:84:,result is:3,set is:{84, 77, 108}
+i is:77,j is:85:,result is:3,set is:{108, 77, 85}
+i is:77,j is:86:,result is:3,set is:{108, 77, 86}
+i is:77,j is:87:,result is:8,set is:{97, 103, 105, 108, 77, 87, 88, 95}
+i is:77,j is:89:,result is:3,set is:{89, 108, 77}
+i is:77,j is:90:,result is:4,set is:{90, 108, 77, 109}
+i is:77,j is:91:,result is:3,set is:{91, 108, 77}
+i is:77,j is:92:,result is:4,set is:{106, 92, 77, 108}
+i is:77,j is:93:,result is:3,set is:{108, 77, 93}
+i is:77,j is:94:,result is:3,set is:{108, 77, 94}
+i is:77,j is:96:,result is:3,set is:{96, 108, 77}
+i is:77,j is:98:,result is:3,set is:{98, 108, 77}
+i is:77,j is:99:,result is:3,set is:{99, 108, 77}
+i is:77,j is:100:,result is:3,set is:{100, 77, 108}
+i is:77,j is:101:,result is:3,set is:{108, 77, 101}
+i is:77,j is:102:,result is:3,set is:{108, 77, 102}
+i is:77,j is:104:,result is:3,set is:{104, 108, 77}
+i is:77,j is:107:,result is:4,set is:{107, 108, 77, 110}
+i is:77,j is:111:,result is:2,set is:{77, 111}
+i is:78,j is:79:,result is:2,set is:{78, 79}
+i is:78,j is:80:,result is:2,set is:{80, 78}
+i is:78,j is:83:,result is:2,set is:{83, 78}
+i is:78,j is:84:,result is:2,set is:{84, 78}
+i is:78,j is:85:,result is:2,set is:{85, 78}
+i is:78,j is:86:,result is:2,set is:{78, 86}
+i is:78,j is:88:,result is:2,set is:{88, 78}
+i is:78,j is:91:,result is:2,set is:{91, 78}
+i is:78,j is:94:,result is:2,set is:{78, 94}
+i is:78,j is:95:,result is:2,set is:{78, 95}
+i is:78,j is:98:,result is:2,set is:{98, 78}
+i is:78,j is:99:,result is:2,set is:{99, 78}
+i is:78,j is:100:,result is:2,set is:{100, 78}
+i is:78,j is:102:,result is:2,set is:{78, 102}
+i is:78,j is:103:,result is:2,set is:{78, 103}
+i is:78,j is:104:,result is:2,set is:{104, 78}
+i is:78,j is:105:,result is:2,set is:{105, 78}
+i is:78,j is:111:,result is:2,set is:{78, 111}
+i is:79,j is:80:,result is:2,set is:{80, 79}
+i is:79,j is:81:,result is:2,set is:{81, 79}
+i is:79,j is:83:,result is:2,set is:{83, 79}
+i is:79,j is:84:,result is:2,set is:{84, 79}
+i is:79,j is:85:,result is:2,set is:{85, 79}
+i is:79,j is:86:,result is:2,set is:{86, 79}
+i is:79,j is:87:,result is:2,set is:{87, 79}
+i is:79,j is:88:,result is:2,set is:{88, 79}
+i is:79,j is:89:,result is:2,set is:{89, 79}
+i is:79,j is:95:,result is:2,set is:{95, 79}
+i is:79,j is:98:,result is:2,set is:{98, 79}
+i is:79,j is:99:,result is:2,set is:{99, 79}
+i is:79,j is:100:,result is:2,set is:{100, 79}
+i is:79,j is:102:,result is:2,set is:{102, 79}
+i is:79,j is:103:,result is:2,set is:{103, 79}
+i is:79,j is:104:,result is:2,set is:{104, 79}
+i is:79,j is:105:,result is:2,set is:{105, 79}
+i is:80,j is:81:,result is:2,set is:{80, 81}
+i is:80,j is:83:,result is:2,set is:{80, 83}
+i is:80,j is:84:,result is:2,set is:{80, 84}
+i is:80,j is:85:,result is:2,set is:{80, 85}
+i is:80,j is:86:,result is:2,set is:{80, 86}
+i is:80,j is:87:,result is:2,set is:{80, 87}
+i is:80,j is:88:,result is:2,set is:{80, 88}
+i is:80,j is:89:,result is:2,set is:{80, 89}
+i is:80,j is:91:,result is:2,set is:{80, 91}
+i is:80,j is:94:,result is:2,set is:{80, 94}
+i is:80,j is:95:,result is:2,set is:{80, 95}
+i is:80,j is:98:,result is:2,set is:{80, 98}
+i is:80,j is:99:,result is:2,set is:{80, 99}
+i is:80,j is:100:,result is:2,set is:{80, 100}
+i is:80,j is:102:,result is:2,set is:{80, 102}
+i is:80,j is:103:,result is:2,set is:{80, 103}
+i is:80,j is:104:,result is:2,set is:{80, 104}
+i is:80,j is:105:,result is:2,set is:{80, 105}
+i is:80,j is:111:,result is:2,set is:{80, 111}
+i is:81,j is:83:,result is:2,set is:{81, 83}
+i is:81,j is:84:,result is:2,set is:{81, 84}
+i is:81,j is:85:,result is:2,set is:{81, 85}
+i is:81,j is:86:,result is:2,set is:{81, 86}
+i is:81,j is:87:,result is:2,set is:{81, 87}
+i is:81,j is:88:,result is:2,set is:{88, 81}
+i is:81,j is:89:,result is:9,set is:{101, 106, 107, 109, 110, 81, 89, 90, 92}
+i is:81,j is:91:,result is:2,set is:{81, 91}
+i is:81,j is:94:,result is:2,set is:{81, 94}
+i is:81,j is:95:,result is:2,set is:{81, 95}
+i is:81,j is:98:,result is:2,set is:{81, 98}
+i is:81,j is:99:,result is:2,set is:{81, 99}
+i is:81,j is:100:,result is:2,set is:{81, 100}
+i is:81,j is:102:,result is:2,set is:{81, 102}
+i is:81,j is:103:,result is:2,set is:{81, 103}
+i is:81,j is:104:,result is:2,set is:{104, 81}
+i is:81,j is:105:,result is:2,set is:{81, 105}
+i is:81,j is:111:,result is:2,set is:{81, 111}
+i is:82,j is:83:,result is:2,set is:{82, 83}
+i is:82,j is:84:,result is:2,set is:{82, 84}
+i is:82,j is:85:,result is:2,set is:{82, 85}
+i is:82,j is:87:,result is:2,set is:{82, 87}
+i is:82,j is:88:,result is:2,set is:{88, 82}
+i is:82,j is:89:,result is:2,set is:{89, 82}
+i is:82,j is:90:,result is:3,set is:{82, 90, 109}
+i is:82,j is:91:,result is:2,set is:{82, 91}
+i is:82,j is:92:,result is:3,set is:{82, 106, 92}
+i is:82,j is:94:,result is:2,set is:{82, 94}
+i is:82,j is:95:,result is:2,set is:{82, 95}
+i is:82,j is:97:,result is:2,set is:{97, 82}
+i is:82,j is:98:,result is:2,set is:{82, 98}
+i is:82,j is:100:,result is:2,set is:{82, 100}
+i is:82,j is:101:,result is:2,set is:{82, 101}
+i is:82,j is:102:,result is:2,set is:{82, 102}
+i is:82,j is:103:,result is:2,set is:{82, 103}
+i is:82,j is:104:,result is:2,set is:{104, 82}
+i is:82,j is:105:,result is:2,set is:{105, 82}
+i is:82,j is:107:,result is:3,set is:{82, 107, 110}
+i is:82,j is:108:,result is:2,set is:{82, 108}
+i is:82,j is:111:,result is:2,set is:{82, 111}
+i is:83,j is:84:,result is:2,set is:{83, 84}
+i is:83,j is:85:,result is:2,set is:{83, 85}
+i is:83,j is:86:,result is:2,set is:{83, 86}
+i is:83,j is:87:,result is:2,set is:{83, 87}
+i is:83,j is:88:,result is:2,set is:{88, 83}
+i is:83,j is:89:,result is:2,set is:{89, 83}
+i is:83,j is:91:,result is:2,set is:{83, 91}
+i is:83,j is:94:,result is:2,set is:{83, 94}
+i is:83,j is:95:,result is:2,set is:{83, 95}
+i is:83,j is:98:,result is:2,set is:{98, 83}
+i is:83,j is:99:,result is:2,set is:{83, 99}
+i is:83,j is:100:,result is:2,set is:{83, 100}
+i is:83,j is:102:,result is:2,set is:{83, 102}
+i is:83,j is:103:,result is:2,set is:{83, 103}
+i is:83,j is:104:,result is:2,set is:{104, 83}
+i is:83,j is:105:,result is:2,set is:{105, 83}
+i is:83,j is:111:,result is:2,set is:{83, 111}
+i is:84,j is:85:,result is:2,set is:{84, 85}
+i is:84,j is:86:,result is:2,set is:{84, 86}
+i is:84,j is:87:,result is:2,set is:{84, 87}
+i is:84,j is:88:,result is:2,set is:{88, 84}
+i is:84,j is:89:,result is:2,set is:{89, 84}
+i is:84,j is:91:,result is:2,set is:{91, 84}
+i is:84,j is:94:,result is:2,set is:{84, 94}
+i is:84,j is:95:,result is:2,set is:{84, 95}
+i is:84,j is:98:,result is:2,set is:{98, 84}
+i is:84,j is:99:,result is:2,set is:{99, 84}
+i is:84,j is:100:,result is:2,set is:{84, 100}
+i is:84,j is:102:,result is:2,set is:{84, 102}
+i is:84,j is:103:,result is:2,set is:{84, 103}
+i is:84,j is:105:,result is:2,set is:{105, 84}
+i is:84,j is:111:,result is:2,set is:{84, 111}
+i is:85,j is:86:,result is:2,set is:{85, 86}
+i is:85,j is:87:,result is:2,set is:{85, 87}
+i is:85,j is:88:,result is:2,set is:{88, 85}
+i is:85,j is:89:,result is:2,set is:{89, 85}
+i is:85,j is:91:,result is:2,set is:{91, 85}
+i is:85,j is:94:,result is:2,set is:{85, 94}
+i is:85,j is:95:,result is:2,set is:{85, 95}
+i is:85,j is:98:,result is:2,set is:{98, 85}
+i is:85,j is:99:,result is:2,set is:{99, 85}
+i is:85,j is:100:,result is:2,set is:{100, 85}
+i is:85,j is:102:,result is:2,set is:{85, 102}
+i is:85,j is:103:,result is:2,set is:{85, 103}
+i is:85,j is:104:,result is:2,set is:{104, 85}
+i is:85,j is:105:,result is:2,set is:{105, 85}
+i is:85,j is:111:,result is:2,set is:{85, 111}
+i is:86,j is:87:,result is:2,set is:{86, 87}
+i is:86,j is:88:,result is:2,set is:{88, 86}
+i is:86,j is:89:,result is:2,set is:{89, 86}
+i is:86,j is:91:,result is:2,set is:{91, 86}
+i is:86,j is:93:,result is:4,set is:{96, 99, 93, 86}
+i is:86,j is:94:,result is:2,set is:{86, 94}
+i is:86,j is:95:,result is:2,set is:{86, 95}
+i is:86,j is:98:,result is:2,set is:{98, 86}
+i is:86,j is:100:,result is:2,set is:{100, 86}
+i is:86,j is:102:,result is:2,set is:{86, 102}
+i is:86,j is:103:,result is:2,set is:{86, 103}
+i is:86,j is:104:,result is:2,set is:{104, 86}
+i is:86,j is:105:,result is:2,set is:{105, 86}
+i is:86,j is:111:,result is:2,set is:{86, 111}
+i is:87,j is:89:,result is:2,set is:{89, 87}
+i is:87,j is:91:,result is:2,set is:{91, 87}
+i is:87,j is:94:,result is:2,set is:{94, 87}
+i is:87,j is:98:,result is:2,set is:{98, 87}
+i is:87,j is:99:,result is:2,set is:{99, 87}
+i is:87,j is:100:,result is:2,set is:{100, 87}
+i is:87,j is:102:,result is:2,set is:{102, 87}
+i is:87,j is:104:,result is:2,set is:{104, 87}
+i is:87,j is:111:,result is:2,set is:{111, 87}
+i is:88,j is:89:,result is:2,set is:{88, 89}
+i is:88,j is:91:,result is:2,set is:{88, 91}
+i is:88,j is:94:,result is:2,set is:{88, 94}
+i is:88,j is:95:,result is:6,set is:{97, 103, 105, 108, 88, 95}
+i is:88,j is:98:,result is:2,set is:{88, 98}
+i is:88,j is:99:,result is:2,set is:{88, 99}
+i is:88,j is:102:,result is:2,set is:{88, 102}
+i is:88,j is:104:,result is:2,set is:{88, 104}
+i is:88,j is:111:,result is:2,set is:{88, 111}
+i is:89,j is:91:,result is:2,set is:{89, 91}
+i is:89,j is:94:,result is:2,set is:{89, 94}
+i is:89,j is:95:,result is:2,set is:{89, 95}
+i is:89,j is:98:,result is:2,set is:{89, 98}
+i is:89,j is:99:,result is:2,set is:{89, 99}
+i is:89,j is:100:,result is:2,set is:{89, 100}
+i is:89,j is:102:,result is:2,set is:{89, 102}
+i is:89,j is:103:,result is:2,set is:{89, 103}
+i is:89,j is:104:,result is:2,set is:{104, 89}
+i is:89,j is:105:,result is:2,set is:{89, 105}
+i is:89,j is:111:,result is:2,set is:{89, 111}
+i is:90,j is:91:,result is:3,set is:{90, 91, 109}
+i is:90,j is:92:,result is:7,set is:{101, 106, 107, 109, 110, 90, 92}
+i is:90,j is:93:,result is:3,set is:{90, 93, 109}
+i is:90,j is:94:,result is:3,set is:{90, 109, 94}
+i is:90,j is:95:,result is:3,set is:{90, 109, 95}
+i is:90,j is:96:,result is:3,set is:{96, 90, 109}
+i is:90,j is:97:,result is:3,set is:{97, 90, 109}
+i is:90,j is:98:,result is:3,set is:{90, 98, 109}
+i is:90,j is:99:,result is:3,set is:{90, 99, 109}
+i is:90,j is:100:,result is:3,set is:{90, 100, 109}
+i is:90,j is:102:,result is:3,set is:{90, 109, 102}
+i is:90,j is:103:,result is:3,set is:{90, 109, 103}
+i is:90,j is:104:,result is:3,set is:{104, 90, 109}
+i is:90,j is:105:,result is:3,set is:{105, 90, 109}
+i is:90,j is:111:,result is:2,set is:{90, 111}
+i is:91,j is:94:,result is:3,set is:{91, 94, 111}
+i is:91,j is:95:,result is:2,set is:{91, 95}
+i is:91,j is:98:,result is:2,set is:{98, 91}
+i is:91,j is:99:,result is:2,set is:{91, 99}
+i is:91,j is:100:,result is:2,set is:{91, 100}
+i is:91,j is:102:,result is:2,set is:{91, 102}
+i is:91,j is:103:,result is:2,set is:{91, 103}
+i is:91,j is:104:,result is:2,set is:{104, 91}
+i is:91,j is:105:,result is:2,set is:{105, 91}
+i is:92,j is:93:,result is:3,set is:{106, 92, 93}
+i is:92,j is:94:,result is:3,set is:{106, 92, 94}
+i is:92,j is:95:,result is:3,set is:{106, 92, 95}
+i is:92,j is:96:,result is:3,set is:{96, 106, 92}
+i is:92,j is:97:,result is:3,set is:{97, 106, 92}
+i is:92,j is:98:,result is:3,set is:{98, 106, 92}
+i is:92,j is:99:,result is:3,set is:{106, 99, 92}
+i is:92,j is:100:,result is:3,set is:{106, 92, 100}
+i is:92,j is:102:,result is:3,set is:{106, 92, 102}
+i is:92,j is:103:,result is:3,set is:{106, 92, 103}
+i is:92,j is:104:,result is:3,set is:{104, 106, 92}
+i is:92,j is:105:,result is:3,set is:{105, 106, 92}
+i is:92,j is:111:,result is:2,set is:{92, 111}
+i is:93,j is:94:,result is:2,set is:{93, 94}
+i is:93,j is:95:,result is:2,set is:{93, 95}
+i is:93,j is:97:,result is:2,set is:{97, 93}
+i is:93,j is:98:,result is:2,set is:{98, 93}
+i is:93,j is:100:,result is:2,set is:{100, 93}
+i is:93,j is:101:,result is:2,set is:{93, 101}
+i is:93,j is:102:,result is:2,set is:{93, 102}
+i is:93,j is:103:,result is:2,set is:{93, 103}
+i is:93,j is:104:,result is:2,set is:{104, 93}
+i is:93,j is:105:,result is:2,set is:{105, 93}
+i is:93,j is:107:,result is:3,set is:{107, 93, 110}
+i is:93,j is:111:,result is:2,set is:{93, 111}
+i is:94,j is:95:,result is:2,set is:{94, 95}
+i is:94,j is:98:,result is:2,set is:{98, 94}
+i is:94,j is:99:,result is:2,set is:{99, 94}
+i is:94,j is:100:,result is:2,set is:{100, 94}
+i is:94,j is:102:,result is:2,set is:{94, 102}
+i is:94,j is:103:,result is:2,set is:{94, 103}
+i is:94,j is:104:,result is:2,set is:{104, 94}
+i is:94,j is:105:,result is:2,set is:{105, 94}
+i is:95,j is:98:,result is:2,set is:{98, 95}
+i is:95,j is:99:,result is:2,set is:{99, 95}
+i is:95,j is:100:,result is:2,set is:{100, 95}
+i is:95,j is:102:,result is:2,set is:{102, 95}
+i is:95,j is:104:,result is:2,set is:{104, 95}
+i is:95,j is:111:,result is:2,set is:{111, 95}
+i is:96,j is:97:,result is:2,set is:{96, 97}
+i is:96,j is:98:,result is:2,set is:{96, 98}
+i is:96,j is:99:,result is:2,set is:{96, 99}
+i is:96,j is:100:,result is:2,set is:{96, 100}
+i is:96,j is:101:,result is:2,set is:{96, 101}
+i is:96,j is:102:,result is:2,set is:{96, 102}
+i is:96,j is:103:,result is:2,set is:{96, 103}
+i is:96,j is:104:,result is:2,set is:{96, 104}
+i is:96,j is:105:,result is:2,set is:{96, 105}
+i is:96,j is:107:,result is:3,set is:{96, 107, 110}
+i is:96,j is:111:,result is:2,set is:{96, 111}
+i is:97,j is:98:,result is:2,set is:{97, 98}
+i is:97,j is:99:,result is:2,set is:{97, 99}
+i is:97,j is:100:,result is:2,set is:{97, 100}
+i is:97,j is:101:,result is:2,set is:{97, 101}
+i is:97,j is:102:,result is:2,set is:{97, 102}
+i is:97,j is:103:,result is:4,set is:{97, 105, 108, 103}
+i is:97,j is:104:,result is:2,set is:{104, 97}
+i is:97,j is:107:,result is:3,set is:{97, 107, 110}
+i is:97,j is:111:,result is:2,set is:{97, 111}
+i is:98,j is:99:,result is:2,set is:{98, 99}
+i is:98,j is:100:,result is:2,set is:{98, 100}
+i is:98,j is:102:,result is:2,set is:{98, 102}
+i is:98,j is:103:,result is:2,set is:{98, 103}
+i is:98,j is:104:,result is:2,set is:{104, 98}
+i is:98,j is:105:,result is:2,set is:{105, 98}
+i is:98,j is:111:,result is:2,set is:{98, 111}
+i is:99,j is:100:,result is:2,set is:{99, 100}
+i is:99,j is:102:,result is:2,set is:{99, 102}
+i is:99,j is:103:,result is:2,set is:{99, 103}
+i is:99,j is:104:,result is:2,set is:{104, 99}
+i is:99,j is:105:,result is:2,set is:{105, 99}
+i is:99,j is:111:,result is:2,set is:{99, 111}
+i is:100,j is:102:,result is:2,set is:{100, 102}
+i is:100,j is:103:,result is:2,set is:{100, 103}
+i is:100,j is:104:,result is:2,set is:{104, 100}
+i is:100,j is:105:,result is:2,set is:{105, 100}
+i is:100,j is:111:,result is:2,set is:{100, 111}
+i is:101,j is:102:,result is:2,set is:{101, 102}
+i is:101,j is:103:,result is:2,set is:{101, 103}
+i is:101,j is:104:,result is:2,set is:{104, 101}
+i is:101,j is:105:,result is:2,set is:{105, 101}
+i is:101,j is:106:,result is:5,set is:{106, 107, 101, 109, 110}
+i is:101,j is:111:,result is:2,set is:{101, 111}
+i is:102,j is:103:,result is:2,set is:{102, 103}
+i is:102,j is:104:,result is:2,set is:{104, 102}
+i is:102,j is:105:,result is:2,set is:{105, 102}
+i is:102,j is:111:,result is:2,set is:{102, 111}
+i is:103,j is:104:,result is:2,set is:{104, 103}
+i is:103,j is:111:,result is:2,set is:{111, 103}
+i is:104,j is:105:,result is:2,set is:{104, 105}
+i is:104,j is:111:,result is:2,set is:{104, 111}
+i is:105,j is:108:,result is:2,set is:{105, 108}
+i is:105,j is:111:,result is:2,set is:{105, 111}
+i is:106,j is:108:,result is:2,set is:{106, 108}
+i is:106,j is:111:,result is:2,set is:{106, 111}
+i is:107,j is:109:,result is:3,set is:{107, 109, 110}
+i is:107,j is:111:,result is:2,set is:{107, 111}
+i is:108,j is:109:,result is:2,set is:{108, 109}
+i is:108,j is:110:,result is:2,set is:{108, 110}
+i is:108,j is:111:,result is:2,set is:{108, 111}
+i is:109,j is:111:,result is:2,set is:{109, 111}
+i is:110,j is:111:,result is:2,set is:{110, 111}
+21
+
+Process finished with exit code 0
